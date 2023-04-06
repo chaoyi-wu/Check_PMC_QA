@@ -1,0 +1,9 @@
+Caption: 
+(A) BAL cell differential of RSV-infected mice. Mice were treated with cyclophosphamide (CYP) or vehicle 5 days before infection with RSV. Animals were sacrificed on day 4 postinfection and BAL was performed. Following cytocentrifugation, BAL cells were stained with Leukostat and counted from 4 different slides from each group in a blinded fashion. Cell counts as percentage of total were plotted. (B) Measurement of airway hyperrresponsiveness (AHR). Mice treated as above were tested for AHR by methacholine challenge in a plethysmograph. AHR is expressed as PENH, percent of control. (C) Lung histopathology. Mice were infected with RSV alone (C and D) or treated with cyclophosphamide (A and B) prior to RSV infection. The third group of mice was not exposed to RSV (E and F). Animals were sacrificed on day 5 and their lungs removed and sectioned. Paraffin-embedded lung sections were stained with hematoxylin-eosin.
+Question: What is the outcome of BAL cell differential in this experiment? 
+ 
+A: There is no difference between the cell counts of treated and untreated mice. 
+B: Treated mice have a higher cell count compared to untreated mice. 
+C: Untreated mice have a higher cell count compared to treated mice. 
+D: Cell counts were not measured in this experiment. 
+Answer:  B: Treated mice have a higher cell count compared to untreated mice.

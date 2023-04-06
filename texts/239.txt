@@ -1,0 +1,9 @@
+Caption: 
+Expression of IGFBP3 and RXRalpha in human prostate tissues. Immunohistochemical staining for IGFBP3 is present as brown staining in normal prostate (A) and prostate cancer (C). Similarly RXRalpha expression is present in normal prostate (B) and lost in prostate cancer (D). All images recorded at 100× magnification.
+Question:  What is the expression of RXRalpha in normal prostate tissues? 
+ 
+A: Present 
+B: Absent 
+C: Partially present 
+D: Not mentioned 
+Answer:  A

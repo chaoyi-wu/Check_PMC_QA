@@ -1,0 +1,9 @@
+Caption: 
+MRI at diagnosis (case one).
+Question:  What differential diagnosis was made by the doctors for the patient in case one? 
+ 
+A: Fibrosarcoma. 
+B: Gout. 
+C: Rheumatoid arthritis. 
+D: Osteosarcoma. 
+Answer:  D

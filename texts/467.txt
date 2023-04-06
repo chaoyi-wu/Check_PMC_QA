@@ -1,0 +1,9 @@
+Caption: 
+Bronchoscopic examination reveals polypoid mass originating from trachea with a 50 % obstruction of the lumen.
+Question: Where does the polypoid mass originate from? 
+ 
+A:The second bronchus 
+B:The trachea 
+C:The esophagus 
+D:The larynx 
+Answer:  The trachea. 

@@ -1,0 +1,5 @@
+Caption: 
+UVA1 phototherapy in systemic sclerosis. Clinical appearence of acrosclerotic piece-meal necrosis of the first digit in SSc before (Fig. 1) and almost complete clearance following low-dose UVA1 phototherapy (Fig. 2).
+Question:  What is the effect of low-dose UVA1 phototherapy on the acrosclerotic piece-meal necrosis of the first digit in systemic sclerosis?
+ A) No effectB) HyperpigmentationC) Hypopigmentation D) Almost complete clearance
+Answer:  D) Almost complete clearance 

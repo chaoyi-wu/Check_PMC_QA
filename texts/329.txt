@@ -1,0 +1,9 @@
+Caption: 
+This figure illustrates some of the pre and post x-rays taken after 4–6 weeks of treatment.
+Question:  What does the term "pre-treatment" mean in this context? 
+ 
+A: Before the patient arrived at the hospital. 
+B: Before the diagnosis was made. 
+C: Before the treatment began. 
+D: Before the patient was discharged. 
+Answer:  C

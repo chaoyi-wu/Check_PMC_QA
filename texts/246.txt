@@ -1,0 +1,9 @@
+Caption: 
+Realtime 3D echocardiography without (a) – [additional file 6], and with contrast enhancement (b) [additional file 7]. There is clear benefit for LV border detection. [See also additional files 8 and 9 for real time 3-D movies without and with contrast respectively.]
+Question:  Which additional file shows real time 3D echocardiography without contrast? 
+ 
+A: Additional file 6. 
+B: Additional file 7. 
+C: Additional file 8. 
+D: Additional file 9. 
+Answer:  A

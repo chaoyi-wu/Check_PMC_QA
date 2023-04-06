@@ -1,0 +1,9 @@
+Caption: 
+Magnetic resonance imaging of brain on hospital day six. T2 weighted image showing obstructive hydrocephalus and ventriculitis.
+Question: What part of the body is being imaged in this technique? 
+ 
+A:Stomach 
+B:Brain 
+C:Lungs 
+D:Heart 
+Answer:  B:Brain

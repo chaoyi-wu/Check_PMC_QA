@@ -1,0 +1,9 @@
+Caption: 
+Zymography gels for patients with greater than 50% resection and less then 50% resection. Figures 3A and 3B are greater than 50% and Figures 3C and 3D are less than 50%. The gels in Figures 3A and 3C contained plasminogen and the gels in Figures 3B and 3D are the corresponding plasminogen-free control gels. The samples run were, Lane 1- uPA (low molecular weight standard 33 kD, 0.6 ng); Lane 2- tPA standard (65 kD, 1 ng); Lane 3- uPA (high molecular weight standard 54 kD, 0.75 ng); Lane 4–10 μl SeeBlue Plus2 pre-stained standard markers; Lanes 5–9 were washed membrane preparation (30 μg protein / lane); Lane 5 – start; Lane 6 – Res 0; Lane 7 – Rem 0; Lane 8 – Res End; and Lane 9 – Rem End.
+Question: What is the weight of the tPA standard? 
+ 
+A:33 kD 
+B:0.6 ng 
+C:65 kD 
+D:54 kD 
+Answer:  C: 65 kD

@@ -1,0 +1,9 @@
+Caption: 
+Anterior-posterior angiogram of right common carotid artery injection of a Papio anubis with a 6 Fr catheter in place both (A.) during vessel spasm on catheter, and (B.) 10 minutes after infusion of intraluminal verapamil (2 mg). Overlay images showing 6 Fr catheter position in CCA (gold) during spasm (C.) and after alleviation with verapamil (D.). Arrows (→) indicate tip of catheter.
+Question:  What is the name of the animal model used in this experiment? 
+ 
+A: Papio hamadryas 
+B: Papio ursinus 
+C: Papio anubis 
+D: Papio cynocephalus. 
+Answer:  C: Papio anubis.

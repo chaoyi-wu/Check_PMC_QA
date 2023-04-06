@@ -1,0 +1,9 @@
+Caption: 
+This figure illustrates some of the pre and post x-rays taken after 4–6 weeks of treatment.
+Question:  How many post-treatment x-rays were taken in this case? 
+ 
+A: One 
+B: Two 
+C: Three 
+D: Four 
+Answer:  C

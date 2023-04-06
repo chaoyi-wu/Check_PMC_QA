@@ -1,0 +1,9 @@
+Caption: 
+Immunohistochemical analysis of metastatic tumor tissue from responder patient 1 and non-responder patient 7. A; H-E stain and B; anti-HLA-A24 MoAb from patient 1. C; anti-HLA-A2 MoAb before DC vaccination and D; anti-HLA-A2 MoAb after 4 DC injections from patient 7. Magnification × 200.
+Question:  What is the magnification used in the images? 
+ 
+A: × 20. 
+B: × 50. 
+C: × 100. 
+D: × 200. 
+Answer:  × 200.

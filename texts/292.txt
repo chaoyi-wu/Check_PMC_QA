@@ -1,0 +1,9 @@
+Caption: 
+Scanning electron micrographs of control and MB-treated palates at a magnification of 400× (panels A and B respectively) and at 3500× (panels C and D respectively). In panel A, the ciliated epithelium completely covers the surface of the palate except where the openings to secretory cells are seen. In panel B, it can be seen that the ciliated surface is not continuous, but punctuated with numerous spaces where ciliated cells are not present. Panel C shows the high density of cilia on the palate surface, which under normal transport conditions, beat in a metachronal pattern to move a mucus layer over them. In panel D, the continuity of the ciliated layer is interrupted by spaces where ciliated epithelial cells are no longer present.
+Question:  How does MB treatment affect the ciliated surface of the palate? 
+ 
+A: It makes it smoother 
+B: It makes it more continuous 
+C: It makes it less continuous 
+D: It has no effect on the ciliated surface  
+Answer:  C: It makes it less continuous 

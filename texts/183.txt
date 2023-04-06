@@ -1,0 +1,9 @@
+Caption: 
+Biopsy form grafted area of the lower eyelid. Hematoxylene-eosin staining, × 100 magnification.
+Question:  Which technique was used to obtain the biopsy? 
+ 
+A: Physical examination 
+B: MRI 
+C: CT scan 
+D: Direct tissue biopsy. 
+Answer:  D: Direct tissue biopsy. 

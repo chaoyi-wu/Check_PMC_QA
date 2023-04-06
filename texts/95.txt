@@ -1,0 +1,9 @@
+Caption: 
+Stored fluoroscopy following placement of the two Amplatzer septal occluders (ASOs). TEE – Transesophageal echocardiography probe.
+Question: What imaging technique was used to visualize the placement of the Amplatzer septal occluders? 
+ 
+A:X-ray 
+B:CT scan 
+C:MRI 
+D:Ultrasound 
+Answer:  A:X-ray

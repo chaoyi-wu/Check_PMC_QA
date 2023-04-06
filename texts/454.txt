@@ -1,0 +1,9 @@
+Caption: 
+(Left) Correlations between volume and the performance status of CFS patients in the right prefrontal cortex (BA9; Talairach's coordinates: x = 48, y = 32 and z = 41). The colored bar indicates the t-values. (Right) Gray-matter volumes of CFS patients at the voxels of maximum correlation (r = 0.71) plotted against the performance status. The linear-regression line is plotted in blue. a.u., arbitrary units; Rt PFC, right prefrontal cortex.
+Question: What does BA9 refer to? 
+ 
+A:a type of vitamin 
+B:an airplane model 
+C:a region of the brain 
+D:a chemical compound 
+Answer:  C:a region of the brain

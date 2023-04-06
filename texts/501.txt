@@ -1,0 +1,9 @@
+Caption: 
+Chemoattraction Towards NT-3 Beads Placed in E13 Spinal Cord DRG Explant Co-Cultures(A) NT-3 bead placed in the midline of E13 WT spinal cord. Notice axons labeled through the DRGs (circled with black dashed lines) growing towards the bead (circled with white dashed lines) enter the spinal cord at ectopic loci instead of dorsal spinal cord.(B) PBS-loaded bead in E13 spinal cord. All labeled axons extend along the dorsal spinal cord, where they terminate.(C) High-power image of the bead in (A). Notice labeled axons surrounding the bead.(D) High-power image of an NT-3-loaded bead. Notice axons bundled around the bead.(E) High-power image of an NT-3-loaded bead. Notice the axons approaching the bead via the dorsal spinal cord.(F) High-power image of a PBS-loaded bead. No labeled fibers were observed around control beads.(G) Summary of our observations from E13 spinal cord DRG organotypic cultures. In control cultures fibers extend along the dorsal spinal cord, where they normally enter the gray matter at E13. In the presence of an ectopic NT-3 source localized at the midline, these axons grow towards the NT-3 bead. NT-3 also initiates axon growth from the DRGs, entering the spinal cord at ectopic lateral loci, growing towards the bead, surrounding the bead, forming nerve bundles, and branching around it.Scale bar, 175 μm (A and B), 100 μm (C–F).
+Question:  What type of axon growth is initiated by NT-3 in DRG co-cultures with E13 spinal cords? 
+ 
+A: Termination of axons at the spinal cord. 
+B: Growth of axons towards the dorsal spinal cord. 
+C: Bundling of axons around the bead. 
+D: Growth of axons from DRGs towards ectopic lateral loci. 
+Answer:  D: Growth of axons from DRGs towards ectopic lateral loci.

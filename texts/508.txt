@@ -1,0 +1,9 @@
+Caption: 
+CT scan of the abdomen showing the involvement of abdominal wall muscles and adhesions to neighboring intestines.
+Question: What were the intestines adhered to? 
+ 
+A:Kidneys 
+B:Liver 
+C:Spleen 
+D:Abdominal wall muscles 
+Answer:  D:Abdominal wall muscles

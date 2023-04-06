@@ -1,0 +1,9 @@
+Caption: 
+GFP expression in ET2 line embryos is indistinguishable from endogenous PARG gene expression. 23 hpf embryos collected from a heterozygous outcross were photographed for GFP fluorescence and sibling embryos were fixed for in situ hybridization. (A) In situ hybridization with PARG antisense probe. (B) In situ with GFP antisense probe. (C) Visualization of GFP expression in living embryos using a bandpass GFP filter set. (D) The same embryo as in (C) photographed using a bandpass GFP filter set with a low level of bright field illumination to visualize GFP expression in relative position to the somites.
+Question:  What was used to visualize GFP expression in living embryos? 
+ 
+A: PARG antisense probe 
+B: in situ hybridization 
+C: GFP filter set 
+D: bright field illumination 
+Answer:  C: GFP filter set

@@ -1,0 +1,9 @@
+Caption: 
+Ultrasonographic appearance of the cervical mass showing it to be deceptively circumscribed
+Question:  What imaging technique was used to see the mass? 
+ 
+A: x-ray  
+B: MRI  
+C: CT scan  
+D: ultrasonography 
+Answer:  D: ultrasonography

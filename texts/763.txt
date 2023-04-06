@@ -1,0 +1,9 @@
+Caption: 
+Targeting of GFP-MRP7 and GFP-GSA to peroxisomes in yeast cells. Fluorescence of CB80 yeast cells expressing (a) GFP and DsRed-SKL; (b) GFP-SKL and DsRed-SKL; (c) GFP-MRP7 and DsRed-SKL; or (d) GFP-GSA and DsRed-SKL. Transformed cells were cultured on oleate and observed live for fluorescence. Control experiments (a) show that GFP co-localizes with Ds-Red-SKL only when the sequence -SKL is appended at its extreme carboxyl terminus (b). The figures reveal a punctuate fluorescence pattern for GFP fused to the yeast mitochondrial ribosomal protein L2 encoded by MRP7 (c) or to the bacterial enzyme glutamate-1-semialdehyde 2,1-aminomutase (GSA) (d). Both fusion proteins co-localize with DsRed-SKL in yeast peroxisomes. GFP fused to GSA without its carboxy-terminal -AKL gave rise to a diffuse (cytosolic) fluorescence pattern (data not shown).
+Question: What is the role of GSA in yeast cells? 
+ 
+A: Peroxisome targeting protein 
+B: Mitochondrial targeting protein 
+C: Nuclear targeting protein 
+D: Cytosolic targeting protein 
+Answer:  D: Cytosolic targeting protein 

@@ -1,0 +1,9 @@
+Caption: 
+Ultrasonographic appearance of the cervical mass showing it to be deceptively circumscribed
+Question:  Where is the location of the cervical mass? 
+ 
+A: breast  
+B: ovary  
+C: uterus  
+D: liver 
+Answer:  C: uterus

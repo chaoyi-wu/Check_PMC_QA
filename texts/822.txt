@@ -1,0 +1,9 @@
+Caption: 
+Apoptosis detected by TUNEL at the implantation sites of the rhesus monkey on D17 (A), D19 (B), D28 (C, G) and D34 (D, E, F, H) of gestation. Apoptotic nuclei were stained dark. Arrowhead and arrow in panel A – D indicated the nuclei of syncytiotrophoblast and villous stromal cells respectively. The insets in C and D showed the positive nuclei under a higher magnification. Note the syncytiotrophoblast layer covering the basal feet of the anchoring villi in E and the cell columns in F. G and H represent the stromal cells and glandular epithelial cells respectively in the endometrium. I was the negative control. St, syncytiotrophoblast; CT, cytotrophoblast; Vi, placental villi. Scale bars represent 50 μm.
+Question:  Which panels showed positive nuclei at a higher magnification? 
+ 
+A: A and B 
+B: C and D 
+C: E and F 
+D: G and H 
+Answer:  B: C and D

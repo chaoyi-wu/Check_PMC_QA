@@ -1,0 +1,9 @@
+Caption: 
+Time-Lapse Imaging of Astrocytes In VivoFour astrocytes, from which fluorometric Ca2+ imaging (0.5 Hz) was made, are outlined. A blood vessel, outlined by the astrocyte end feet, runs diagonally across the viewed area. White arrows show the end foot connected to the imaged astrocyte.
+Question:  What is the purpose of the study? 
+ 
+A: To measure blood flow in astrocytes. 
+B: To observe astrocytes in vivo. 
+C: To monitor calcium levels in blood vessels. 
+D: To measure the thickness of astrocytes. 
+Answer:  B: To observe astrocytes in vivo.

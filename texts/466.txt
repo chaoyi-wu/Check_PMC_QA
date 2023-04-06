@@ -1,0 +1,9 @@
+Caption: 
+Bronchoscopic examination reveals polypoid mass originating from trachea with a 50 % obstruction of the lumen.
+Question: What is the degree of obstruction of the trachea? 
+ 
+A:70% 
+B:50% 
+C:20% 
+D:100% 
+Answer:  50%. 

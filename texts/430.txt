@@ -1,0 +1,9 @@
+Caption: 
+Coronal magnetic resonance imaging demonstrating the tumor beneath the left kidney.
+Question:  What type of medical imaging was used to detect the tumor? 
+ 
+A: CT scan 
+B: X-ray 
+C: Magnetic resonance imaging (MRI) 
+D: Ultrasound  
+Answer:  C

@@ -1,0 +1,9 @@
+Caption: 
+The figure shows static acquisition images with gamma camera 2, 24, and 48 h, and 2, 24, 48 and 72 h after inoculation with 111In-Oxine-labelled iDC and mDC, respectively, for patient no. 3. Greater migration activity of mDC is clearly visible. (IS, inoculation site: LN, lymph node).
+Question:  For which patient were these images taken? 
+ 
+A: Patient no. 1 
+B: Patient no. 2 
+C: Patient no. 3 
+D: Patient no. 4 
+Answer:  C

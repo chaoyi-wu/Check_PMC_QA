@@ -1,0 +1,9 @@
+Caption: 
+Realtime 3D echocardiography without (a) – [additional file 6], and with contrast enhancement (b) [additional file 7]. There is clear benefit for LV border detection. [See also additional files 8 and 9 for real time 3-D movies without and with contrast respectively.]
+Question:  What is the imaging technique discussed in the paragraph? 
+ 
+A: X-ray. 
+B: CT scan. 
+C: Real time 3D echocardiography. 
+D: MRI. 
+Answer:  C

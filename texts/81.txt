@@ -1,0 +1,9 @@
+Caption: 
+The string-of-beads sign with alternating regions of lumen narrowing and vessel dilatation on angiogram of the ICA (arrows) in a 52-year-old woman sufferning from recurrent transient ischemic attacks.
+Question:  Who is the patient described in the text? 
+ 
+A: 52-year-old man 
+B: 52-year-old woman 
+C: 62-year-old man 
+D: 62-year-old woman 
+Answer:  B: 52-year-old woman

@@ -1,0 +1,9 @@
+Caption: 
+Vegetation on tricuspid valve by echocardiography. Arrow denotes the vegetation.
+Question:  What medical condition is associated with vegetation on the tricuspid valve?
+ 
+A: Aortic aneurysm 
+B: Hypertension 
+C: Endocarditis 
+D: Coronary artery disease 
+Answer:  C: Endocarditis 

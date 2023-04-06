@@ -1,0 +1,9 @@
+Caption: 
+Mutant α-Actinin-4 Behavior in Cells(A) Mutant and wild-type α-actinin-4 show different localization and dynamics when expressed in a conditionally immortalized differentiated mouse podocyte cell line. Differentiated podocytes were injected in the nucleus with equal concentrations of expression plasmid for GFP fusions of mutant and wild-type actinins. At 2–4 h after injections, cells were imaged and both phase and fluorescence images recorded as described in the Materials and Methods. To illustrate changes in distribution of the fluorescence signal, three fluorescence images each 1 min apart were overlaid as red, green, and blue panes. Areas of fluorescence that were the same in all panes show as white, while dynamic areas are indicated by the color. The top panel indicates the initial phase and overlain dynamic fluorescence images of wild-type α-actinin-4, while the bottom two panels illustrate characteristic results for mutants K228E and T232I at 3 min time intervals. (See Videos S1–S3.)(B) Transfections in podocytes derived from mutant and wild-type mice. When transfected into conditionally immortalized podocytes of all three α-actinin-4 genotypes (+/+, K228E/+, or K228E/K228E), wild-type GFP–α-actinin-4 shows diffuse cytoskeletal localization. Mutant GFP–α-actinin-4 shows a similar alteration in localization when expressed in these three cells types.
+Question:  How does mutant GFP–α-actinin-4 change its localization when expressed in different cells types? 
+ 
+A: It remains the same in all cells types 
+B: It shows less fluorescence 
+C: It shows similar alteration in localization 
+D: It cannot be expressed. 
+Answer:  C: It shows similar alteration in localization.

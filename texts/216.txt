@@ -1,0 +1,9 @@
+Caption: 
+The Expressions of elo-5 and lpd-1 Reporter Constructs Are Spatially Similar(A and B) Nomarski and GFP-filtered images of an adult animal containing the lpd-1Prom::GFP construct, showing strong expression in two symmetrical head neurons, each of which has processes to the nose and around a nerve ring. Scale bars, 10 μm.(C) DiI staining of amphid neurons in lpd-1Prom::GFP (dsRed filter). Arrows indicate neuronal nuclei shown in (D). Scale bar, 10 μm.(D) GFP expression in the animal shown in (C). Scale bar, 10 μm.(E and F) Nomarski and GFP-filtered images of an animal containing elo-5Prom::GFP, revealing fluorescence in the similar amphid neuron. Scale bar, 7.5 μm.(G and H) The intestinal and intestinal-muscle GFP expression in (G) lpd-1Prom::GFP and (H) elo-5Prom::GFP constructs. Scale bar, 7.5 μm.
+Question:  What is the spatial relationship between the expression of elo-5 and lpd-1? 
+ 
+A: They are expressed in the same location. 
+B: They are expressed in different locations. 
+C: One is expressed in the head and the other in the intestine. 
+D: There is no spatial relationship between them. 
+Answer:  A: They are expressed in the same location. 

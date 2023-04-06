@@ -1,0 +1,9 @@
+Caption: 
+Vegetation on tricuspid valve by echocardiography. Arrow denotes the vegetation.
+Question:  What medical procedure is used to visualize the vegetation on the tricuspid valve?
+ 
+A: EKG 
+B: CT scan 
+C: X-ray 
+D: Echocardiography 
+Answer:  D: Echocardiography 

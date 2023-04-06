@@ -1,0 +1,9 @@
+Caption: 
+Abdominal ultrasound showing multiple hypoechoiec (short arrow) and hyperechoeic lesions (long arrow) in the liver
+Question:  What type of lesion is indicated by a long arrow in the image? 
+ 
+A:Hypoechoic 
+B:Hyperechoic 
+C:Hyperintense 
+D:Hypointense 
+Answer:  B:Hyperechoic

@@ -1,0 +1,9 @@
+Caption: 
+Magnetic resonance imaging of brain on hospital day six. T2 weighted image showing obstructive hydrocephalus and ventriculitis.
+Question: What is the possible cause of ventriculitis? 
+ 
+A:Bacterial infection 
+B:Viral infection 
+C:Injury to the skull 
+D:Tumor in the brain 
+Answer:  A:Bacterial infection

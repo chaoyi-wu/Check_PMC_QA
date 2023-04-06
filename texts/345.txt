@@ -1,0 +1,9 @@
+Caption: 
+CT images taken before and after RFA treatments. The same patient PET images were shown as Figure 1. (A) was taken before RFA treatment, (B) was taken 2 week after RFA treatment.
+Question:  What type of medical imaging was used in this study? 
+ 
+A: MRI 
+B: CT 
+C: X-ray 
+D: Ultrasound 
+Answer:  B: CT

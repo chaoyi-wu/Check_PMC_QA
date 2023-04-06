@@ -1,0 +1,9 @@
+Caption: 
+CT scan showing a paraesophageal, retrotracheal mass, close to the thoracic inlet
+Question:  What is the name for the anatomical area where the mass is located?
+ 
+A: Apical space 
+B: Retropharyngeal space 
+C: Prevertebral space 
+D: Suprasternal space 
+Answer:  D: Suprasternal space 

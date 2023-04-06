@@ -1,0 +1,9 @@
+Caption: 
+Two-dimensional intracardiac echocardiography images showing part of Koch's triangle between the tricuspid valve and the ostium of the coronary sinus under four different conditions. A: Native 2D horizontal cross-sectional echocardiography image before ablation. B: The same region before ablation with use of echocontrast. C: The same region after radiofrequency energy ablation without echocontrast infusion. A crater as an indirect sign of the ablation lesion (arrow) can be seen on the endocardial surface at the atrial side adjacent to the tricuspid valve. D: The same region after radiofrequency energy ablation and during echocontrast infusion. The ablation lesion (arrow) is visualized as a low contrast area within the atrial myocardial tissue. A crater can be seen on the atrial side adjacent to the tricuspid valve. In both C and D situations (post-ablation) there is significant swelling of the ablated region compared with pre-ablation situations (A and B). ICE = central artifact of the intracardiac echocardiography catheter, TV = tricuspid valve, RA = right atrium, CSos = ostium of the coronary sinus
+Question: What is the significance of the crater seen in images C and D? 
+ 
+A: It represents damage to the intracardiac echocardiography catheter 
+B: It is a sign of a low contrast area in the myocardial tissue 
+C: It indicates the presence of the tricuspid valve 
+D: It is an indirect sign of the ablation lesion 
+Answer:  It is an indirect sign of the ablation lesion

@@ -1,0 +1,9 @@
+Caption: 
+Aspergillus antigen-induced lung inflammation appears similar in wild-type, Mcp-1-/- and Ccr2-/- mice. H&E stained lung sections from PBS- or Aspergillus antigen-treated wild-type, Mcp-1-/- and Ccr2-/- mice. Representative normal airway from wild-type control mice (A) (similar findings from Mcp-1-/- and Ccr2-/- control mice are not shown). Representative lung sections from Aspergillus antigen-treated wild-type (B), Mcp-1-/- (C) and Ccr2-/- mice (D) demonstrate intense peribronchiolar and perivascular inflammation. Aspergillus antigen exposure and sample collection are described in methods. Magnification: 20× objective.
+Question:  What is the purpose of this study? 
+ 
+A: To compare the lung inflammation caused by Aspergillus antigen in wild-type, Mcp-1-/- and Ccr2-/- mice 
+B: To compare the lung inflammation caused by pollen in wild-type, Mcp-1-/- and Ccr2-/- mice 
+C: To compare the lung inflammation caused by Aspergillus antigen in wild-type, Mcp-1-/- and Ccr2-/- rats 
+D: To compare the lung inflammation caused by dust in wild-type, Mcp-1-/- and Ccr2-/- mice  
+Answer:  A: To compare the lung inflammation caused by Aspergillus antigen in wild-type, Mcp-1-/- and Ccr2-/- mice 

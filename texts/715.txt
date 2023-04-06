@@ -1,0 +1,9 @@
+Caption: 
+The results of chest HRCT examination in a SARS patient in the convalescent phase, showing marked reversal of pulmonary fibrosis.
+Question:  What is chest HRCT examination?
+ 
+A: A urine test to evaluate kidney function 
+B: An imaging test to evaluate the chest region 
+C: A blood test to evaluate the liver function 
+D: An EEG test to evaluate brain function 
+Answer:  B 

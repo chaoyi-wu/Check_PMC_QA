@@ -1,0 +1,9 @@
+Caption: 
+Immunohistochemical staining of VEGF-C in biopsied specimens (upper panel) and hematoxylin-eosin (H&E) staining, immunohistochemical staining of cytokeratin and VEGF-C in metastastic lymph node (middle and lower panel). a, VEGF-C positive type in biopsied specimens. b, VEGF-C negative type in biopsied specimens. c, f, hematoxylin-eosin (H&E) staining in metastastic lymph node. d, g, immunohistochemical staining of cytokeratin in metastastic lymph node. e, VEGF-C positive type in metastastic lymph node. h, VEGF-C negative type in metastastic lymph node.
+Question: What was the purpose of hematoxylin-eosin (H&E) staining? 
+ 
+A:to observe the biological function of VEGF-C 
+B:to detect VEGF-C in metastatic lymph node 
+C:to visualize VEGF-C in biopsied specimens 
+D:to observe the morphology of tissues 
+Answer:  D:to observe the morphology of tissues

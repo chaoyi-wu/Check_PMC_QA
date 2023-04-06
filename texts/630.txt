@@ -1,0 +1,9 @@
+Caption: 
+Neuronal marker expression in CbCln3+/+ cells Characterization of CbCln3+/+ cells by immunofluorescence with marker antibodies is shown. CbCln3+/+ precursors exhibit nestin expression (a) but not GFAP expression (b), consistent with a neuronal precursor identity. Upon stimulation with a differentiation cocktail (see Methods), CbCln3+/+ cells achieved neuron-like morphology, with rounded cell bodies and extension of processes, and MAP2 (c) and NeuN (d) expression was increased. CbCln3+/+ cells are negative for the Purkinje neuron marker calbindin (e). CbCln3+/Δex7/8 and CbCln3Δex7/8/Δex7/8 cell lines exhibited identical marker immunofluorescence results. a, b) 20 × magnification; c, d, e) 40 × magnification.
+Question:  What marker antibodies were used to characterize CbCln3+/+ cells by immunofluorescence? 
+ 
+A: MAP2 and NeuN 
+B: GFAP and Nestin 
+C: Calbindin and NeuN 
+D: GFAP and Calbindin 
+Answer:  B: GFAP and Nestin

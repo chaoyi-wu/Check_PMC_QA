@@ -1,0 +1,9 @@
+Caption: 
+A 58 year old man, who 8 years ago underwent left hepatectomy and cholecistectomy, for complicated intrahepatic biliary stones, presented with jaundice and weight loss. Enhanced CT scan showed marked intrahepatic biliary dilation.
+Question: What is the likely cause of the patient's symptoms? 
+ 
+A:Gallstones 
+B:Cirrhosis 
+C:Hepatocellular carcinoma 
+D:Choledocholithiasis 
+Answer:  D

@@ -1,0 +1,9 @@
+Caption: 
+Intravascular ultrasound examples of the proximal reference site and balloon injury site 30 days after the angioplasty. Note that there was both greater intimal thickening (arrows) in the vessel treated with intravenous antisense alone, and a reduction in lumen size when compared to the proximal reference segment. The balloon injury site of the vessel treated with intravenous antisense plus PESDA and 20 kHz transcutaneous ultrasound did not exhibit any reduction in lumen area or visually evident plaque. (Reprinted with permission from Porter TR, Hiser WL, Kricsfeld D, Deligonul U, Xie F, Iversen P et al: Inhibition of carotid artery neointimal formation with intravenous microbubbles. Ultrasound Med Biol 2001, 27:259-265).
+Question: What was the effect of intravenous antisense alone on the vessel? 
+ 
+A: Greater intimal thickening and a reduction in lumen size. 
+B: No change in the intimal thickening and an increase in lumen size. 
+C: Increase in intimal thickening and no change in lumen size. 
+D: Decrease in intimal thickening and an increase in lumen size. 
+Answer:  A: Greater intimal thickening and a reduction in lumen size.

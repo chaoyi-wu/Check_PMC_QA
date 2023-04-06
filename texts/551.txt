@@ -1,0 +1,9 @@
+Caption: 
+3D model of the tetrameric Fab anti-ICAM-1 molecule CFY196 [26]. Each identical subunit is represented by a different color.
+Question:  What type of molecule is CFY196? 
+ 
+A: Protein 
+B: Carbohydrate 
+C: Lipid 
+D: Nucleic Acid 
+Answer:  A

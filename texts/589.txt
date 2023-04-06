@@ -1,0 +1,9 @@
+Caption: 
+Radiograph of the pelvis showing a well-circumscribed osteolytic lesion in the left iliac bone; it is sharply marginated with a thin sclerotic rim and without any matrix calcifications.
+Question:  Is there any sclerotic rim observed? 
+
+A:thick 
+B:thin 
+C:absent 
+D:diffused 
+Answer: B:thin

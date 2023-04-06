@@ -1,0 +1,9 @@
+Caption: 
+Biopsy form grafted area of the lower eyelid. Hematoxylene-eosin staining, × 100 magnification.
+Question:  At which area of the eye was the biopsy taken? 
+ 
+A: Upper eyelid 
+B: Inner corner of eye 
+C: Sclera 
+D: Lower eyelid. 
+Answer:  D: Lower eyelid. 

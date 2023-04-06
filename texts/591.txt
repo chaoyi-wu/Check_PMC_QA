@@ -1,0 +1,9 @@
+Caption: 
+CT scan showing a paraesophageal, retrotracheal mass, close to the thoracic inlet
+Question:  Where is the mass located?
+ 
+A: Superior mediastinum 
+B: Inferior mediastinum 
+C: Middle mediastinum 
+D: Posterior mediastinum 
+Answer:  A: Superior mediastinum 

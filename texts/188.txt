@@ -1,0 +1,9 @@
+Caption: 
+(a) Duodenoscopy showing a 3 × 3 cm protruding tumor with two ulcerations located opposite the ampulla of Vater in the second portion of the duodenum. (b) Hypotonic duodenography showing the donuts-shape tumor in the duodenum.
+Question:  What is the shape of the tumor found in the duodenum, as seen in hypotonic duodenography?
+ 
+A:Cone-shaped 
+B:Cylindrical 
+C:Rectangular 
+D:Donuts-shaped 
+Answer:  D:Donuts-shaped

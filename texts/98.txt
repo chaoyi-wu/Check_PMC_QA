@@ -1,0 +1,9 @@
+Caption: 
+Stored fluoroscopy following placement of the two Amplatzer septal occluders (ASOs). TEE – Transesophageal echocardiography probe.
+Question: What is the advantage of using TEE compared to transthoracic echocardiography (TTE)? 
+ 
+A:TEE can visualize the heart more clearly 
+B:TTE is less expensive than TEE 
+C:TTE is less invasive than TEE 
+D:TEE does not require sedation 
+Answer:  A:TEE can visualize the heart more clearly

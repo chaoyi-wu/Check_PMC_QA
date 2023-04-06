@@ -1,0 +1,9 @@
+Caption: 
+Tat-dependent expression of APOBEC3G. HeLa cells were transfected with pNL-A1 and pHIV-APO3G at a 1:1 molar ratio. Transfected cells were grown on cover slips for 24 hr and then either fixed with ice-cold methanol (panels A-C) or with formaldehyde buffer as described in Methods (panels D-F). Cells were stained with an APOBEC3G-specific antibody (A & D) and a Vif monoclonal antibody (B & E) as in figure 2 and analyzed on a confocal microscope. Panels C & F are overlays of panels A & B and D & E, respectively. Arrow heads are defined as follows: white = APOBEC3G:Vif-double-positive cells; yellow = Vif-negative cells; blue = APOBEC3G negative cells.
+Question:  What type of antibody was used to stain APOBEC3G? 
+ 
+A: Vif monoclonal antibody 
+B: CD4 monoclonal antibody 
+C: gp120 polyclonal antibody 
+D: APOBEC3G-specific antibody  
+Answer:  D: APOBEC3G-specific antibody

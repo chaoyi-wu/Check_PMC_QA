@@ -1,0 +1,9 @@
+Caption: 
+The figure shows static acquisition images with gamma camera 2, 24, and 48 h, and 2, 24, 48 and 72 h after inoculation with 111In-Oxine-labelled iDC and mDC, respectively, for patient no. 3. Greater migration activity of mDC is clearly visible. (IS, inoculation site: LN, lymph node).
+Question:  What is visible from the images? 
+ 
+A: Greater migration activity of iDC 
+B: Greater migration activity of mDC 
+C: Equal migration activity of iDC and mDC 
+D: No migration activity is visible 
+Answer:  B

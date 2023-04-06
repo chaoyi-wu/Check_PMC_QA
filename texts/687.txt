@@ -1,0 +1,9 @@
+Caption: 
+CT scan of the chest of the patient. Multiple metastatic lesions were seen.
+Question:  Were any lesions seen?
+ 
+A: Yes 
+B: No 
+C: Cannot determine 
+D: Not applicable 
+Answer:  A: Yes 

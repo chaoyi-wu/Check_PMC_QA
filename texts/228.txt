@@ -1,0 +1,9 @@
+Caption: 
+Computerized Tomography (CT) head showing diffuse cerebral edema with effacement of basal cisterns and generalized loss of gray-white differentiation
+Question:  What does "effacement of basal cisterns" mean? 
+ 
+A: enlargement of basal cisterns 
+B: indistinctness of basal cisterns 
+C: loss of gray-white differentiation 
+D: presence of cerebral edema 
+Answer:  B: indistinctness of basal cisterns

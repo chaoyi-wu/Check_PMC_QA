@@ -1,0 +1,9 @@
+Caption: 
+Increased Congo red staining of blood vessels following anti-Aβ antibody administration is associated with activated microglia. Panels A and B are from the frontal cortex of 22-month-old APP-transgenic mice immunized for 3 months with either control antibody (3A) or anti-Aβ antibody (3B). Panels C and D are from the frontal cortex of 28-month-old APP-transgenic mice immunized for 5 months with either control antibody (3C) or anti-Aβ antibody (3D). Panels E and F show a high-magnification image of CD45 immunohistochemistry (black) counterstained with Congo red (red) from 28-month-old APP-transgenic mice immunized for 5 months with either control antibody (Panel E) or anti-Aβ antibody (Panel F). Panels A-D, magnification = 100X. Scale bar in Panel B = 50 μ for panels A-D. Panels E-F, magnification = 200X. Scale bar in Panel E = 25 μm for panels E-F.
+Question:  Which age group of mice were immunized for 3 months with anti-Aβ antibody? 
+ 
+A:22-month-old 
+B:28-month-old 
+C:26-month-old 
+D:20-month-old 
+Answer:  A:22-month-old

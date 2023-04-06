@@ -1,0 +1,9 @@
+Caption: 
+The results of chest HRCT examination in a SARS patient in the convalescent phase, showing marked reversal of pulmonary fibrosis.
+Question:  What does SARS stand for?
+ 
+A: Secret Access to Resident Spaces 
+B: Severe Acute Respiratory System 
+C: Special Airborne Respiratory Syndrome 
+D: Sensational Acute Respiratory Sickness 
+Answer:  B 

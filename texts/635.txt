@@ -1,0 +1,9 @@
+Caption: 
+Microscopic appearance of the penile lesion demonstrating a nest of atypical malignant cells (hematoxylin-eosin stain).
+Question:  What stain was used in the image? 
+ 
+A: Masson's Trichrome Stain 
+B: Giemsa Stain 
+C: Hematoxylin-Eosin Stain 
+D: Periodic Acid-Schiff Stain 
+Answer:  C

@@ -1,0 +1,9 @@
+Caption: 
+Microscopic appearance of the penile lesion demonstrating a nest of atypical malignant cells (hematoxylin-eosin stain).
+Question:  What is the term used to describe the nest of cells in the image? 
+ 
+A: Fibrosarcoma 
+B: Carcinoma in situ 
+C: Atypical cells 
+D: Metastasis 
+Answer:  B

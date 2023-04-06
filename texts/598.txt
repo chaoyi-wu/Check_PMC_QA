@@ -1,0 +1,9 @@
+Caption: 
+Transient expression of GFP and GFP fusion proteins in BY-2 tobacco cells. (A) GFP protein [35SΩ-sGFP (S65T)]; (B) Arabidopsis chloroplast targeting signal (pt)-GFP fusion protein [35SΩ-pt-sGFP (S65T)]; (C) putative localization signal of GGPP synthase-GFP fusion protein [35SΩ-GGPP synthase-sGFP (S65T)]
+Question: Which protein is not fused to GFP? 
+ 
+A: pt-sGFP 
+B:sGFP 
+C: GGPP synthase 
+D: None of the above. 
+Answer:  B: sGFP.

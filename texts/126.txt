@@ -1,0 +1,9 @@
+Caption: 
+Lesion AnalysisRepresentative photomicrographs of cresyl-violet-stained coronal brain sections taken from subjects belonging to each of the three lesion groups—partial hippocampal lesion (A), sham lesion (B), and complete hippocampal lesion (C). In each case, sections corresponding to anterior, middle, and posterior levels of the hippocampus are displayed. The mean area of spared hippocampal tissue in each group (see Materials and Methods for calculation) is plotted below in (D). Note that the volumes of spared tissue in the septal and temporal halves of the hippocampus are plotted separately, but these values are still expressed as percentages of the entire hippocampal volume—hence the value of 50% per half in shams. The cartoon hippocampi accompanying the graph indicate lesioned tissue in dark grey, and spared tissue in light cream. As intended, partially lesioned rats exhibited substantial sparing only in the septal (dorsal) half of the hippocampus, and rats with complete hippocampal lesions exhibited minimal sparing (less than 5% at either pole).
+Question:  What is the result of the partial hippocampal lesion? 
+ 
+A: Minimal sparing, 
+B: Substantial sparing, 
+C: No sparing, 
+D: Unknown. 
+Answer:  Substantial sparing.

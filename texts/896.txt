@@ -1,0 +1,9 @@
+Caption: 
+Upper endoscopy picture shows opening in the posterior part of the corpus with edematous margin with dissemination of serous fluid and necrotic material in to the stomach.
+Question:  Where is the opening located in the stomach? 
+ 
+A: anterior part of the corpus 
+B: posterior part of the corpus 
+C: lesser curvature 
+D: greater curvature 
+Answer:  B: posterior part of the corpus 

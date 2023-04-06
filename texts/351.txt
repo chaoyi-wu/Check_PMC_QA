@@ -1,0 +1,9 @@
+Caption: 
+Compensasomes Do Not Spread from the X Chromosome onto Autosomal Regions Inserted on the X(A) Females expressing MSL-2 from an msl2Δ3–21 transgene and bearing a reciprocal translocation between the X and second chromosome (line XIII) do not show additional bands in the regions of the 2L arm juxtaposed to X chromosome material.(B) MSL binding pattern on the X chromosome of a wild-type male.(C and D) The autosomal region 81F–82F10–11 does not show MSL binding when inserted at 3D in the single X of a male (line XV) (C) or in MSL-2-expressing females heterozygous for the same transposition (D). Note that the MSL binding pattern on the X chromosome is not altered by the insertion. The light band (arrow) maintained on the wild-type unpaired region of the X of a female heterozygous for the transposition is also present next to the same insertion at 3D on the unique X chromosome of a male (compare C and D).
+Question:  What is the reult of expressing MSL-2 from an msl2Δ3–21 transgene? 
+ 
+A: It leads to MSL binding on the autosomal region. 
+B: It leads to MSL binding on the X chromosome. 
+C: It leads to MSL binding on both the X chromosome and autosomal region. 
+D: It does not show any MSL binding pattern. 
+Answer:  B: It leads to MSL binding on the X chromosome.

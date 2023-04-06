@@ -1,0 +1,9 @@
+Caption: 
+(a) Duodenoscopy showing a 3 × 3 cm protruding tumor with two ulcerations located opposite the ampulla of Vater in the second portion of the duodenum. (b) Hypotonic duodenography showing the donuts-shape tumor in the duodenum.
+Question:  What is the location of the tumor found in the second portion of the duodenum?
+ 
+A:Opposite the anus 
+B:Opposite the urinary bladder 
+C:Opposite the ileocecal valve 
+D:Opposite the ampulla of Vater 
+Answer:  D:Opposite the ampulla of Vater 

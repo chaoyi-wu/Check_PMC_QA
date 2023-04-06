@@ -1,0 +1,9 @@
+Caption: 
+Distribution of CD4+ T helper cells in tonsils. Frozen tonsil sections were stained with anti-IgD (PE, red) or anti-CD57 (FITC, green) and isotype control antibodies in panel group A to show the background staining of the system. In panel group B, sections were stained with anti-CD57 (FITC), anti-IgD (PE) and anti-CD4 (APC). In panel group C, sections were stained with anti-CD57 (FITC), anti-CD69 (PE) and anti-CD4 (APC). Two different sections were shown in each group of panels. Stained sections were analyzed with a confocal microscope. GC-Th cells can be divided into CD57+ and CD57- T cells, both of which are CD69+. A few CD69+ or CD57+ T cells are found outside of GC. Most CD4+ T cells in the interfollicular areas (IFA or T cell-rich zone) are CD57- and CD69-. GCs are surrounded by the ring of mantle zones (MZ) filled with IgD+ cells. A representative set of images from three different specimens are shown.
+Question:  What is the purpose of staining with isotype control antibodies? 
+ 
+A: To show the background staining of the system 
+B: To identify different types of T cells 
+C: To observe IgD distribution in tonsils 
+D: To compare frozen and fresh tonsil sections  
+Answer:  A 

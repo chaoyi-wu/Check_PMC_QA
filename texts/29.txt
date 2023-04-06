@@ -1,0 +1,9 @@
+Caption: 
+The Place of Noncentrosomal Microtubule NucleationThe initial stages of noncentrosomal microtubule nucleation revealed by an endogenous GFP–α-tubulin fusion (left) and phase contrast (right). Following the corresponding videos, it is possible to unmistakably tell the chromosomes (arrows) apart form the other phase-dark objects that are present over the nuclear region (asterisks). The cell in (A) is shown as a single timeframe and the cell in (B) as a time-lapse series. In both cells, noncentrosomal microtubule nucleation (arrowheads) takes place close to the remains on the NE and does not overlap with the major chromosomes. Nucleation sites can be clustered (A) or dispersed (B). In the time-lapse series (B), only the chromosomes that are in focus are labelled. Timepoint 0 min in these series corresponds to the first sign of noncentrosomal microtubule nucleation, around 11 min after NEB. A white bar marks the growing end of a microtubule bundle that at timepoint 93 min reaches one of the bivalents.
+Question: What marks the growing end of a microtubule bundle? 
+ 
+A: A white bar 
+B: Nucleation sites 
+C: Timepoint 93 min 
+D: Bivalents. 
+Answer: A: A white bar

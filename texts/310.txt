@@ -1,0 +1,9 @@
+Caption: 
+MRI at diagnosis (case one).
+Question: What is MRI? 
+ 
+A: Magnetic Radiology Imaging. 
+B: Medical Resonance Imaging. 
+C: Medical Radiology Image. 
+D: Magnetic Resonance Imaging. 
+Answer:  D

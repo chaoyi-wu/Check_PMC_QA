@@ -1,0 +1,9 @@
+Caption: 
+Time-Lapse Imaging of Astrocytes In VivoFour astrocytes, from which fluorometric Ca2+ imaging (0.5 Hz) was made, are outlined. A blood vessel, outlined by the astrocyte end feet, runs diagonally across the viewed area. White arrows show the end foot connected to the imaged astrocyte.
+Question:  What is the frequency of the Ca2+ imaging? 
+ 
+A: 0.1 Hz 
+B: 0.5 Hz 
+C: 1 Hz 
+D: 2 Hz 
+Answer:  B: 0.5 Hz

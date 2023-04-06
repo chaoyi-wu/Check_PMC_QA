@@ -1,0 +1,9 @@
+Caption: 
+Echocardiographic apical four-chamber images (end-systolic frames) from two patients with and without contractile reserve.
+Question:  What was the purpose of using images with and without contractile reserve?
+ 
+A:To evaluate global hemodynamics 
+B:To assess the valvular function 
+C:To calculate ejection fraction 
+D:To determine the presence of contractile reserve 
+Answer:  D: To determine the presence of contractile reserve 

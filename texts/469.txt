@@ -1,0 +1,9 @@
+Caption: 
+Bronchoscopic examination reveals polypoid mass originating from trachea with a 50 % obstruction of the lumen.
+Question: What is a polypoid mass? 
+ 
+A:A mass with multiple nodules 
+B:A mass with a smooth surface 
+C:A mass with a conical shape 
+D:A mass with a stem-like base 
+Answer:  A mass with a stem-like base.

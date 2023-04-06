@@ -1,0 +1,9 @@
+Caption: 
+Scanning electron micrograph survey of pumice granules and biofilm development. Before colonisation (A) pumice granules are blank. After 6 month of operation (B), rod shaped cells cover the pumice surface. In the 12 month biofilm, an abundant exopolymeric matrix is visible on pumice granules both at the bottom (C) and top (D) of the column.
+Question:  Is the exopolymeric matrix only visible at the bottom of the column? 
+ 
+A: Yes 
+B: No, it is only visible at the top of the column 
+C: No, it is visible at both the bottom and top of the column 
+D: No, it is not visible at all 
+Answer:  C: No, it is visible at both the bottom and top of the column

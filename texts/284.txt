@@ -1,0 +1,9 @@
+Caption: 
+A 58 year old man, who 8 years ago underwent left hepatectomy and cholecistectomy, for complicated intrahepatic biliary stones, presented with jaundice and weight loss. Enhanced CT scan showed marked intrahepatic biliary dilation.
+Question: Which of the following is the most appropriate next step in management? 
+ 
+A:Perform a liver biopsy 
+B:Offer supportive care and observation 
+C:Perform an ERCP to extract the biliary stones 
+D:Refer for liver transplant evaluation 
+Answer:  C

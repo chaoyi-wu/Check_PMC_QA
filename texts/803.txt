@@ -1,0 +1,9 @@
+Caption: 
+CT scan image showing the hepatic metastasis in segment VII.
+Question: What is the medical term for the spread of cancer to another part of the body? 
+ 
+A:Carcinoma 
+B:Metastasis 
+C:Malignancy 
+D:Oncology 
+Answer:  Metastasis

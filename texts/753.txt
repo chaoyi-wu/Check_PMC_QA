@@ -1,0 +1,9 @@
+Caption: 
+T2-Weighted Magnetic Resonance Imaging Showing Blood in the Arterial Wall and Narrowing of the Lumen of the Left Internal Carotid ArteryThis is also known as the “crescent sign,” a hallmark of internal carotid artery dissection.
+Question:  What is the Internal carotid artery responsible for? 
+ 
+A: Delivering blood to the legs 
+B: Delivering blood to the arms 
+C: Delivering blood to the brain 
+D: Delivering blood to the heart 
+Answer:  C: Delivering blood to the brain 

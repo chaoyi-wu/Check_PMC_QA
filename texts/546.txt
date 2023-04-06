@@ -1,0 +1,9 @@
+Caption: 
+Immunohistochemistry for extracellular matrix components. Immunohistochemical staining of wild type (A, C, E, G, I, K, M, O, P, Q, S) and IL11Ra-/- (B, D, F, H, J, L, N, R, T) uterus at 48 h of decidualization using specific antibodies for collagen III (A, B, C, D), biglycan (E, F, G, H), nidogen-1 (I, J, K, L), SPARC (M, N, O, P) and desmin (Q, R, S, T). Negative controls using a matching concentration of non-immune IgG (collagen III, nidogen-1, SPARC and desmin) or normal serum (biglycan) in place of the primary antibody are inset in A, B, E, F, I, J, M, N, Q and R. Black squares on A and B indicate the antimesometrial pole magnified in C and D. Abbreviations: connective tissue (ct), myometrium (my), mesometrial pole (m), antimesometrial pole (am), luminal epithelium (le), glandular epithelium (ge), decidualized stromal cell (dsc), non-decidualized stromal cell (sc), blood vessel (bv), glycocalyx (gly). Scale bar = 50 μm (A, B, E, F, I, J, M, N, Q and R are at the same magnification; C, D, G and P are at the same magnification; H, K, L, O, S, T and inset in G are at the same magnification).
+Question:  Which antibodies were used in the experiment? 
+ 
+A: Antibodies for collagen III, biglycan, and nidogen-1. 
+B: Antibodies for SPARC and desmin. 
+C: Both A and B. 
+D: Antibodies for collagen V and laminin. 
+Answer:  C: Both A and B.

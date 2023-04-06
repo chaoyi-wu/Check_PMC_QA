@@ -1,0 +1,9 @@
+Caption: 
+CT scan image of the lung of case 3 patient. A: Before vaccination (May 15, 2003). B: After the third vaccination (June 18, 2003). Rapid growth of the metastatic tumors and pleural effusion were seen.
+Question: What medical imaging technique is used in the image? 
+ 
+A: X-ray 
+B: CT scan 
+C: MRI 
+D: Ultrasound 
+Answer:  B: CT scan

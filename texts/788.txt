@@ -1,0 +1,9 @@
+Caption: 
+Scrib is not localized in focal adhesions in CV-1 cells, and is dispensable for targeting LPP to these structures. Upper panels: CV-1 cells, grown on glass coverslips, were double labelled with Scrib-472 antibodies (left panel) and anti-vinculin antibodies (right panel) used as a marker for focal adhesions. Lower panels: CV-1 cells were transiently transfected with wild-type human LPP (left panel), or LPP with a mutated carboxy-terminus (T610A) (right panel), as GFP-fusions. GFP-fluorescence was visualized by epifluorescence microscopy.
+Question: Which cells were used in this experiment? 
+ 
+A:HeLa cells. 
+B:MCF-7 cells. 
+C:CV-1 cells. 
+D:BEAS-2B cells. 
+Answer:  C:CV-1 cells.

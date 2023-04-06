@@ -1,0 +1,9 @@
+Caption: 
+Magnification is ×400. On the left, the surface of the normal non-exposed palate is shown with a continuous ciliary layer, punctuated with secretory gland openings. The middle and right micrographs show the surface of palates exposed to the smoke of four cigarettes.
+Question: How many cigarettes were used to expose the palates in the images? 
+ 
+A:Two 
+B:Three 
+C:Four 
+D:Five 
+Answer:  Four.

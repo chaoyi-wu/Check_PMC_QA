@@ -1,0 +1,9 @@
+Caption: 
+Echocardiographic apical four-chamber images (end-systolic frames) from two patients with and without contractile reserve.
+Question:  Which chamber's images were studied in this research?
+ 
+A:Left atrium 
+B:Right atrium 
+C:Left ventricle 
+D:Right ventricle
+Answer:  C: Left ventricle

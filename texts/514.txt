@@ -1,0 +1,9 @@
+Caption: 
+X-ray showing the intravascular catheter being fluoroscopically removed by means of a special endo-vessel grasper.
+Question:  Was the removal of the intravascular catheter successful in the X-ray? 
+ 
+A: Yes 
+B: No 
+C: It's not clear 
+D: The X-ray doesn't show the removal process 
+Answer:  A

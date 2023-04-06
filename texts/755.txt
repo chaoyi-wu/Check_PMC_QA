@@ -1,0 +1,9 @@
+Caption: 
+Circular representation of the B. licheniformis ATCC 14580 chromosome. Circles are numbered from 1 (outermost) to 7 (innermost). Circles 1 and 2 show the locations of predicted CDSs on the + and - strands, respectively; circle 3, %G+C; circle 4, GC skew ((G-C/G+C)); circle 5, homology with B. subtilis 168; circle 6, homology with B. halodurans; circle 7 shows positions of nine copies of insertion sequence element IS3Bli1 and a putative transposase gene; small green bars inside circle 7 denote the positions of possible prophage elements.
+Question:  What is the information illustrated in circle 2 of the circular chromosome? 
+ 
+A: locations of predicted CDSs on the + strand 
+B: locations of predicted CDSs on the - strand 
+C: homology with B. halodurans 
+D: homology with B. subtilis 168 
+Answer:  locations of predicted CDSs on the - strand

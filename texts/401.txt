@@ -1,0 +1,9 @@
+Caption: 
+Histology of Intestinal Mucosa of Two of the Oat-Intolerant PatientsSmall intestinal biopsies were obtained at diagnosis, after an ordinary gluten-free diet (remission), after introduction of oats, and after withdrawal of oats (recovery). For patient CD496, a biopsy was not taken after she started with a gluten-free diet. Biopsies were scored according to the modified Marsh criteria. Hematoxilin-eosin staining was used, and IEL counts are given in the corners of the photomicrographs. The remission biopsy from patient CD507 was poorly oriented. We therefore melted and reoriented this biopsy (insert). Original magnification: 100×.
+Question:  What type of staining was used? 
+ 
+A:Immunochemistry. 
+B:Fluorescence. 
+C:Hematoxylin-eosin. 
+D:Giemsa. 
+Answer:  C: Hematoxylin-eosin.

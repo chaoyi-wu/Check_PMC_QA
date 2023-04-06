@@ -1,0 +1,9 @@
+Caption: 
+Immunolocalisation of Rabankyrin-5 in the Mouse KidneyMouse kidney cortex was processed for frozen section immunoelectron microscopy. Sections were (A and B) single labelled for Rabankyrin-5 (arrowheads, 10 nm) or (C and D) double labelled (arrows, 5 nm) for Rabankyrin-5 and LAMP-1.(A) Low-magnification view of the apical region of two proximal tubule cells demonstrates low labelling for Rabankyrin-5 on apical microvilli (M) but stronger labelling (arrowheads) of large subapical electron-lucent vesicular structures (asterisks). One of these structures is shown at higher magnification in (B). L, lateral membrane.(C) Rabankyrin-5 labels LAMP-1–negative subapical structures as well as compartments showing low LAMP-1 labelling (arrows and asterisk).(D) Rabankyrin-5 (arrowheads) associates with compartments, which show no or weak labelling for LAMP-1 (asterisks). In addition, low Rabankyrin-5 labelling is associated with more strongly labelled LAMP-1–positive compartments. Note that there is some nonspecific labelling of mitochondria (m). Scale bars represent 500 nm.
+Question:  What is the significance of LAMP-1 labeling in this study? 
+ 
+A: LAMP-1 labeled mitochondria in the study 
+B: LAMP-1 labeled subapical and apical vesicular structures in the study 
+C: There is no LAMP-1 labeling observed in the study 
+D: LAMP-1 labeling is non-specific in this study. 
+Answer:  LAMP-1 labeled subapical and apical vesicular structures in the study.

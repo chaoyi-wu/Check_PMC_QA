@@ -1,0 +1,9 @@
+Caption: 
+Plot of Fisher score values for PD1 of the KPCA algorithm with varying bandwidth. The score indicates a varying magnitude of separation between the class of suspicious tissue signals and the class of normal tissue signals. Below, the fusion image I1 for S1 based KPCA with four different bandwidth values A, B, C and D is shown. Variation of the bandwidth leads to fusion images with varying imaging properties. The bandwidth B leads to a fusion image that displays the tumour with the highest contrast to the surrounding tissue and the Fisher score shows a peak at the corresponding position. For bandwidth values A, C and D, the Fisher score and the contrast in the fusion images decreases.
+Question:  What is the effect of bandwidth B on the fusion image and the Fisher score?
+ 
+A: The contrast of the fusion image and Fisher score both decrease 
+B: The contrast of the fusion image and Fisher score both increase 
+C: The contrast of the fusion image increases, but the Fisher score decreases 
+D: The contrast of the fusion image decreases, but the Fisher score increases
+Answer:  B: The contrast of the fusion image and Fisher score both increase

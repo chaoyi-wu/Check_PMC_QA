@@ -1,0 +1,9 @@
+Caption: 
+Colonic mucosal inflammation in ulcerative colitis with loss of goblet cells and neutrophilic infiltrate (magnification ×100)
+Question:  What type of cells are decreased in the observed pathology? 
+ 
+A: Neutrophils 
+B: T-lymphocytes 
+C: B-lymphocytes 
+D: Goblet cells  
+Answer:  D 

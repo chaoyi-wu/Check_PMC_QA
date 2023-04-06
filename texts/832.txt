@@ -1,0 +1,9 @@
+Caption: 
+No significant apoptosis was found in TIIcells upon hyperoxia in vivo for 48 hrs. Lung tissue of normoxic rats (left) and of hyperoxic rats (right) were tested for DNA fragmentation by TUNEL reaction as described in Materials and Methods. The positive TUNEL reaction is represented by green fluorescence. The presence of lamellar bodies is indicated by red fluorescence. Pseudo-colour blue was used to highlight the contours of lung tissue. Bar: 25 μm.
+Question: What is being compared in the experiment? 
+ 
+A:hyperoxic rats and normoxic cats 
+B:lung tissue of rats 
+C:DNA in hyperoxic and normoxic rats 
+D:TII cells in hyperoxic and normoxic rats 
+Answer:  A:hyperoxic rats and normoxic cats 

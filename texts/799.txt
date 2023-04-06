@@ -1,0 +1,9 @@
+Caption: 
+Immunohistochemical studies of ILK in non-neoplastic pulmonary tissue and in NSCLC tissue. a non-neoplastic pulmonary tissue: ILK was not detected in epithelial cells, while ILK expression was found in many stromal cells.
+Question:  What is the full name of ILK? 
+ 
+A: Integrated Linker Kinase 
+B: Integrin-linked kinase 
+C: Incidental Link Kinase 
+D: Interferon Ligand Kinase 
+Answer:  B: Integrin-linked kinase

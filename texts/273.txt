@@ -1,0 +1,9 @@
+Caption: 
+Magnification is ×400. On the left, the surface of the normal non-exposed palate is shown with a continuous ciliary layer, punctuated with secretory gland openings. The middle and right micrographs show the surface of palates exposed to the smoke of four cigarettes.
+Question: What caused the difference between the left and the middle and right images? 
+ 
+A:Exposure to smoke of cigarettes 
+B:Exposure to air pollution 
+C:Exposure to sunlight 
+D:Exposure to water pollution 
+Answer:  Exposure to smoke of cigarettes.

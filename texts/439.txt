@@ -1,0 +1,9 @@
+Caption: 
+WT Aggregates Are More Likely to Have TUNEL-Positive Cells Than ΔRD1 AggregatesRepresentative fluorescent images of aggregates following TUNEL staining of 6-d postfertilization embryos infected with 71 green-fluorescent WT (A), or 474 green-fluorescent ΔRD1 (B) bacteria. TUNEL staining is imaged with red fluorescence, and colocalization with green-fluorescent bacteria appears yellow. Scale bar, 100 μm.
+Question:  What is the scale bar measurement in the images? 
+ 
+A: 10 μm 
+B: 50 μm 
+C: 100 μm 
+D: 500 μm 
+Answer:  C: 100 μm.

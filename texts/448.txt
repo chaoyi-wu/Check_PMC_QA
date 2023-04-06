@@ -1,0 +1,9 @@
+Caption: 
+Sagittal MRI image of brain at first cerebral relapse demonstrating an enhancing left parasagittal lesion with surrounding cerebral oedema.
+Question: What is the feature seen surrounding the lesion? 
+ 
+A:Cerebral edema 
+B:Cerebral infarction 
+C:Cerebral hemorrhage 
+D:Cerebral atrophy 
+Answer:  A: Cerebral edema

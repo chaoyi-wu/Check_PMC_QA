@@ -1,0 +1,9 @@
+Caption: 
+High resolution live imaging of the organs of CAG::H2B-EGFP adult mice. Confocal images of freshly isolated organs from a 6 week old adult male hemizygous CAG::H2B-EGFP Tg/+ animal illustrate the widespread nuclear localized expression of the histone fusion. A transverse cut was made through each organ and the cut surface was placed closest to the objective lens and imaged. Cell tracker orange was used as a vital cytoplasmic counter stain. The panels show rendered confocal z-stacks imaged through 80 μm of the brain using a 20x plan-apo objective (a-c), 568 μm of the heart using a 5x fluar objective (d-f), 142 μm of a lung lobe using a 5x fluar objective (g-i) and 346 μm of a kidney using a 5x fluar objective low power view (j-l), and high power view (m-o). Insets in panels a and d show the region of the brain and heart imaged, respectively. High resolution images of the kidney (m-o) illustrate electronic magnification of the data shown in j-l. Bron, bronchus; glom, glomeruus; med, medulla; sept, septum; ub, ureteric bud; ven, ventricle. Areas of increased fluorescence in the red channel are an artefact due to saturated pixels in regions of the sample closest to the objective.
+Question: What is the purpose of using Cell tracker orange? 
+ 
+A:To counteract the effect of histone fusion 
+B:To visualize cell nuclei 
+C:To examine organ structure 
+D:To magnify data 
+Answer:  B

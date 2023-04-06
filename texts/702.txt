@@ -1,0 +1,9 @@
+Caption: 
+Vegetation on tricuspid valve by echocardiography. Arrow denotes the vegetation.
+Question:  What is the vegetation on the tricuspid valve made of?
+ 
+A: Blood clots 
+B: Calcium deposits 
+C: Bacterial colonies 
+D: Scar tissue 
+Answer:  C: Bacterial colonies

@@ -1,0 +1,9 @@
+Caption: 
+Assessment of asynchrony in parasternal long axis view by M-mode: Time difference between peak of septal and inferior myocardial contraction.
+Question: What is the time interval being measured in the assessment of asynchrony? 
+ 
+A:Time difference between mitral and tricuspid valve opening 
+B:Time difference between isovolumic contraction and relaxation 
+C:Time difference between aortic and pulmonic valve closure 
+D:Time difference between peak of septal and inferior myocardial contraction 
+Answer:  Time difference between peak of septal and inferior myocardial contraction.

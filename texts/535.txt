@@ -1,0 +1,9 @@
+Caption: 
+AFM Images of DAE-E Crystals(A) Several frequent morphologies that appear in most samples, including all-'0' (upper arrow) and ‘011011'-striped crystals (lower arrow). The all-'0' crystal may be a tube that opened upon adsorption to the mica.(B) A templated crystal. The identification of tiles in this crystal is given in Figure 1E. Crosses indicate mismatch errors. Asterisks indicate ‘1's on the nucleating strand.(C) A crystal containing 10 rows of error-free Sierpinski triangle. A red triangle marks a lattice defect in the input row.(D) Another Sierpinski triangle, better resolved.(E) A crystal containing a perfect 19 × 6 subregion. Individual tiles can be clearly seen; three tiles are outlined in the lower left. Unfortunately, this crystal landed atop a thin sliver of DNA (lower arrow), obscuring the central columns of the Sierpinski triangle. The upper arrow indicates a 4-tile wide tube, near the point where it opens. A pentagon marks a lattice dislocation. Scale bars are 100 nm.
+Question:  What are the morphologies observed in the DAE-E crystals? 
+ 
+A: Only all-'0' crystals. 
+B: Striped crystals only. 
+C: Both all-'0' and striped crystals. 
+D: None of the above. 
+Answer:  Both all-'0' and striped crystals.

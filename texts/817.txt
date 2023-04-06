@@ -1,0 +1,9 @@
+Caption: 
+ fat-7 Is Necessary for Normal Life Span and Inhibits β-Oxidation(A) Nomarski images of WT worms subjected to fat-7 RNAi at days 1 and 3 of adulthood. The arrow in the day 1 image points to vacuole formation in the intestine, and the arrow in the day 3 image points to clearing that results from collapse of the gonad. These characteristics are nearly identical to those observed for nhr-49(nr2041) worms (see Figure 1B).(B) QRT-PCR measurement of acs-2 and ech-1 expression in WT and nhr-49(nr2041) L4 animals grown on control RNAi bacteria (dark gray bars) or on fat-7 RNAi bacteria (blue bars). Error bars represent standard error of measurement.(C) RNAi knockdown of fat-7 expression in WT animals reduced Nile Red fat staining(D) RNAi of fat-7 in nhr-49(nr2041) also decreased fat staining.
+Question:  How does fat-7 RNAi affect acs-2 and ech-1 expression in WT and nhr-49(nr2041) animals? 
+ 
+A:Increases expression in both. 
+B:Decreases expression in both. 
+C:Increases expression only in nhr-49(nr2041). 
+D:Decreases expression only in nhr-49(nr2041). 
+Answer:  B:Decreases expression in both.

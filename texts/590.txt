@@ -1,0 +1,9 @@
+Caption: 
+CT scan showing a paraesophageal, retrotracheal mass, close to the thoracic inlet
+Question:  What type of mass is seen on the CT scan?
+ 
+A: Mediastinal 
+B: Intrathoracic 
+C: Pericardial 
+D: Pleural 
+Answer:  A: Mediastinal

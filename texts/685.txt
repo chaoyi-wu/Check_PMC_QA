@@ -1,0 +1,9 @@
+Caption: 
+CT scan of the chest of the patient. Multiple metastatic lesions were seen.
+Question:  What imaging was performed on the patient?
+ 
+A: CT scan 
+B: MRI 
+C: X-ray 
+D: PET scan 
+Answer:  A: CT scan 

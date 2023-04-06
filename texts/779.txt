@@ -1,0 +1,9 @@
+Caption: 
+Patient had persistent pain and stiffness following hydrodilatation. A Plain shoulder radiographs were normal. B STIR MR image showing multiple high signal intensity lesions in the supraspinatus muscle. A presumptive diagnosis of metastatic squamous cell carcinoma was made.
+Question:  What was the purpose of the hydrodilatation? 
+ 
+A:To detect abnormalities in the shoulder area. 
+B:To relieve pain and stiffness. 
+C:To confirm diagnosis of squamous cell carcinoma. 
+D:To improve range of motion. 
+Answer:  To relieve pain and stiffness.

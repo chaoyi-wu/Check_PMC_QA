@@ -1,0 +1,9 @@
+Caption: 
+Decreased Fiber CoherenceDecreased fiber coherences, as observed with DTI, in persistent developmental stutterers compared with a fluent control group. A red dot indicates the peak difference in a coronal (top left), axial (top right), and a sagittal (bottom) slice.
+Question:  Which brain imaging technique was used to detect differences in fiber coherence? 
+ 
+A: MRI 
+B: CT scan 
+C: EEG 
+D: PET scan 
+Answer:  A: MRI

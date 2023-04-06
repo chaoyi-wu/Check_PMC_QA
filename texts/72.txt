@@ -1,0 +1,9 @@
+Caption: 
+FISH Confirmation of a Human-Specific Duplication of a Gene Cluster on Chromosome 5q13.3 Detected by Interspecies cDNA aCGH(A) Human duplication of a cluster of genes at Chromosome 5q13.3. is shown by two separate, and sometimes multiple, red BAC probe (CTD-2288G5) signals in interphase cells, with only one green BAC probe signal (RP11-1077O1) for a flanking region. Metaphase FISH shows both probes at band 5q13. The third nucleus in (A) shows four signals of the control probe (green) and eight copies of the BAC probe duplicated in the aCGH assay, consistent with the pattern expected in an S/G2 nucleus.(B–E) Bonobo (B), chimpanzee (C), gorilla (D), and orangutan (E) interphase FISH studies all show no increased signal for the human duplicated gene cluster, with signals of comparable size for the CTD-2288G5 (red) and the flanking RP11-107701 (green) probes. Metaphase FISH analyses show the gene cluster to be in the p arm of Chromosomes 4 (corresponding to the human Chromosome 5) in both the bonobo and chimpanzee, in the q arm of Chromosome 4 (corresponding to the human Chromosome 5) in the orangutan, and in the p arm of the gorilla Chromosome 19 (syntenic regions to human Chromosomes 5 and 17).
+Question:  Which chromosome is the gene cluster located in human? 
+ 
+A: 4 
+B: 5 
+C: 17 
+D: 19 
+Answer:  B

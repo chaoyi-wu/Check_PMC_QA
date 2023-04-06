@@ -1,11 +1,8 @@
 # 读取.docx文件
 # 需要使用第三方库python-docx
 # 可以使用pip install python-docx安装
-
-import docx
 import os
 import random
-from docx import Document
 from PIL import Image
 import numpy as np
 import tkinter as tk
@@ -30,10 +27,10 @@ child_window.wm_resizable(False,False)
 current_dir = os.getcwd()
 
 # 获取当前目录下所有文件
-files = os.listdir(os.path.join(current_dir,'docx'))
+files = os.listdir(os.path.join(current_dir,'texts'))
 
 # 筛选出所有.docx文件
-docx_files = [f for f in files if f.endswith('.docx')]
+docx_files = [f for f in files if f.endswith('.txt')]
 
 # 构造所有.docx文件的路径
 #docx_paths = [os.path.join(current_dir, f) for f in docx_files]
@@ -48,9 +45,9 @@ point = 0
 
 def save_and_close():
     ccc = 0
-    while os.path.exists('rank' +str(ccc)+'.json'):
-        ccc = ccc+1
-    with open('rank' +str(ccc)+'.json', 'w') as f:
+    while os.path.exists('rank_'+str(ccc)+'.json'):
+        ccc = ccc +1
+    with open('rank_'+str(ccc)+'.json', 'w') as f:
         json.dump(ranking, f)
     window.destroy()
     
@@ -59,16 +56,17 @@ def show_file():
     # 从random_files中取出第一个文件
     file_path = random_files[point]
     # 打开文件
-    docx_path = os.path.join(current_dir,'docx')
+    docx_path = os.path.join(current_dir,'texts')
     figure_path = os.path.join(current_dir,'figures')
     # Load image
-    img = Image.open(os.path.join(figure_path, file_path.replace('.docx','.png')))
+    img = Image.open(os.path.join(figure_path, file_path.replace('.txt','.png')))
     img_tk = ImageTk.PhotoImage(img)
     image_label.configure(image=img_tk)
     image_label.image = img_tk
-    doc = Document(os.path.join(docx_path, file_path))
-    # 获取文件内容
-    content = '\n'.join([para.text for para in doc.paragraphs])
+    #f = open(os.path.join(docx_path, file_path),'r')
+    with open(os.path.join(docx_path, file_path),'r',encoding='utf-8') as f:
+        content = f.read()
+    #f.close()
     # 在窗口中显示文件内容
     text.delete('1.0', tk.END) # 清屏
     text.insert(tk.END, content)
@@ -89,7 +87,7 @@ def next_file():
         set_var()
         show_file()
     else:
-       point = len(random_files)-1
+       point = len(random_files)
        #text.insert(tk.END, "No more files!") 
 
 # 定义back按钮的回调函数

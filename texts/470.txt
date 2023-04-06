@@ -1,0 +1,9 @@
+Caption: 
+Ultrasonographic appearance of the cervical mass showing it to be deceptively circumscribed
+Question: What is the ultrasonographic appearance of the cervical mass? 
+ 
+A: irregular  
+B: circumscribed  
+C: extracapsular  
+D: hypoechoic 
+Answer:  B: circumscribed 

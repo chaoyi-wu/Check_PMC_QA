@@ -1,0 +1,9 @@
+Caption: 
+Histology of normal lung tissue in patients with hamartochondroma. In cases of hamartochondroma, only some macrophages and mucus can be detected in the bronchioli (hematoxylin eosin, original magnification ×15). No signs for emphysema or bronchiolitis could be detected.
+Question:  What is the magnification used in the histological examination? 
+ 
+A: ×5 
+B: ×10 
+C: ×15 
+D: ×20. 
+Answer:  C: ×15

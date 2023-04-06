@@ -1,0 +1,9 @@
+Caption: 
+Microscopic appearance of the penile lesion demonstrating a nest of atypical malignant cells (hematoxylin-eosin stain).
+Question:  What is the content of the image? 
+ 
+A: Cardiac muscle cells 
+B: Neurons 
+C: Malignant cells 
+D: Red blood cells 
+Answer:  C 

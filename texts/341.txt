@@ -1,0 +1,9 @@
+Caption: 
+Histology of normal lung tissue in patients with hamartochondroma. In cases of hamartochondroma, only some macrophages and mucus can be detected in the bronchioli (hematoxylin eosin, original magnification ×15). No signs for emphysema or bronchiolitis could be detected.
+Question:  What type of tissue is affected in cases of hamartochondroma? 
+ 
+A: Muscular tissue 
+B: Lung tissue 
+C: Nervous tissue 
+D: Epithelial tissue. 
+Answer:  B: Lung tissue

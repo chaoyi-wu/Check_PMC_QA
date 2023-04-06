@@ -1,0 +1,9 @@
+Caption: 
+Colonic mucosal inflammation in ulcerative colitis with loss of goblet cells and neutrophilic infiltrate (magnification ×100)
+Question:  What is the main feature observed in the image? 
+ 
+A: Epithelial Hyperplasia 
+B: Absence of cells 
+C: Goblet cells loss 
+D: Neutrophil depletion  
+Answer:  C 

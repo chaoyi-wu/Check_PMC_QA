@@ -1,0 +1,9 @@
+Caption: 
+CT scan of the pelvis revealing gas in the bladder and the bladder wall.
+Question:  What is the imaging modality used in the diagnosis described above?
+ 
+A: MRI 
+B: PET 
+C: CT Scan 
+D: X-ray 
+Answer:  C

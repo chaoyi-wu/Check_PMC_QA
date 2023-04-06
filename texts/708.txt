@@ -1,0 +1,9 @@
+Caption: 
+Monaural Sound Localization in PET Experiments Performed in the Three Groups of Subjects(A) CBF increases. Activations of the right striate and extrastriate cortices are observed in EBSP but not in the two other groups for the contrast of MSL minus its control task. Upper image series, sagittal slices; lower image series, coronal slices. X and Y coordinates refer to standardized stereotaxic space.(B) Behavioral data. Behavioral results in MSL task (with SE bars). The dashed lines represent the ideal performance, whereas the solid lines indicate the best linear fit to the observed localization performance. Negative angles on the abscissa correspond to the obstructed ear, while positive angles correspond to the unobstructed ear. Note the better performance of the EBSP group compared to the EBNP and SIG.
+Question: What do negative angles on the abscissa correspond to in the behavioral results graph? 
+ 
+A: The ideal performance. 
+B: The localization performance of the EBSP group. 
+C: The performance of the obstructed ear. 
+D: No mention is made. 
+Answer:  C: The performance of the obstructed ear.

@@ -1,0 +1,9 @@
+Caption: 
+Radiograph of the pelvis showing a well-circumscribed osteolytic lesion in the left iliac bone; it is sharply marginated with a thin sclerotic rim and without any matrix calcifications.
+Question:  How is the margin of the lesion described? 
+
+A:blurred 
+B:diffused 
+C:sharp 
+D:irregular 
+Answer: C:sharp

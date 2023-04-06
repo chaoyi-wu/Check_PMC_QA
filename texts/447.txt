@@ -1,0 +1,9 @@
+Caption: 
+Sagittal MRI image of brain at first cerebral relapse demonstrating an enhancing left parasagittal lesion with surrounding cerebral oedema.
+Question: What is the name of the region where the lesion is located? 
+ 
+A:Frontal lobe 
+B:Temporal lobe 
+C:Parietal lobe 
+D:Occipital lobe 
+Answer:  C: Parietal lobe

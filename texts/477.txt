@@ -1,0 +1,9 @@
+Caption: 
+Kc167 Cells Exposed to dsRNA Targeting Act5C or to Cytochalasin DThe cells were exposed to dsRNA targeting Act5C for 4 d (A) or to cytochalasin D at 5 μM for 48 h (B). Tubulin is shown in red, DNA in green.
+Question: What is the function of Act5C?
+ 
+A: It is a regulatory protein that controls gene expression 
+B: It is a mitochondrial protein that produces ATP 
+C: It is a structural protein that helps maintain cell shape 
+D: It is an enzyme that catalyzes the breakdown of glucose.
+Answer:  It is a structural protein that helps maintain cell shape

@@ -1,0 +1,9 @@
+Caption: 
+Abdominal ultrasound showing multiple hypoechoiec (short arrow) and hyperechoeic lesions (long arrow) in the liver
+Question: What is the imaging modality used for the evaluation? 
+ 
+A:Computed Tomography (CT) 
+B:Magnetic Resonance Imaging (MRI) 
+C:X-Ray 
+D:Ultrasound 
+Answer:  D:Ultrasound

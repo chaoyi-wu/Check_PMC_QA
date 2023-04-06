@@ -1,0 +1,9 @@
+Caption: 
+Computed tomographic scan of the pelvis showing a large, well-circumscribed presacral mass
+Question:  What imaging technique was used to visualize the presacral mass? 
+ 
+A: MRI 
+B: Ultrasound 
+C: CT scan 
+D: X-ray 
+Answer:  C

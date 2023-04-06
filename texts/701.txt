@@ -1,0 +1,9 @@
+Caption: 
+Vegetation on tricuspid valve by echocardiography. Arrow denotes the vegetation.
+Question:  Where is the vegetation located?
+ 
+A: Mitral valve 
+B: Aortic valve 
+C: Tricuspid valve 
+D: Pulmonary valve 
+Answer:  C: Tricuspid valve 

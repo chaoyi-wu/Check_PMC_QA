@@ -1,0 +1,9 @@
+Caption: 
+FRAP of HP1–GFP Reveals a Dynamic Association with HeterochromatinA fraction of a heterochromatic cluster (arrowhead) was bleached by a laser pulse, and recovery of fluorescence was monitored by time-lapse imaging. Images were kindly provided by Thierry Cheutin and Tom Misteli.
+Question: What was monitored by time-lapse imaging in the experiment? 
+ 
+A: Movement of the cell membrane 
+B: Recovery of fluorescence 
+C: Bleaching of the heterochromatic cluster 
+D: Damage to the heterochromatic cluster 
+Answer:  B: Recovery of fluorescence

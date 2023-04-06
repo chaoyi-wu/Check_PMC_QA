@@ -1,0 +1,9 @@
+Caption: 
+Echocardiographic apical four-chamber images (end-systolic frames) from two patients with and without contractile reserve.
+Question:  Were the images from two different patients used in the study?
+ 
+A:Yes, two patients were used 
+B:No, only one patient was used 
+C:The number of patients is not mentioned 
+D:An animal model was used
+Answer:  A: Yes, two patients were used 

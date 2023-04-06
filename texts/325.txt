@@ -1,0 +1,9 @@
+Caption: 
+This figure illustrates some of the pre and post x-rays taken after 4–6 weeks of treatment.
+Question:  How long was the treatment in this case? 
+ 
+A: 2-3 weeks 
+B: 4-6 weeks 
+C: 7-8 weeks 
+D: 10-12 weeks 
+Answer:  B

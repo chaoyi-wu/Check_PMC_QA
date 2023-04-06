@@ -1,0 +1,9 @@
+Caption: 
+Coronal magnetic resonance imaging demonstrating the tumor beneath the left kidney.
+Question:  Does the image show the tumor in full color? 
+ 
+A: Yes 
+B: No, it shows only black and white 
+C: Partially 
+D: The answer cannot be determined from the given information.  
+Answer:  B

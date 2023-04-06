@@ -1,0 +1,9 @@
+Caption: 
+The interphase inactive X in normal and mutant cells: histone modification and macroH2A1 association. Photomicrograph examples of normal, ICF, and Rett fibroblasts that were FITC-labeled using antisera to various modified histones. Arrows point to sex chromatin on DAPI-stained cells, and to the corresponding sex chromatin site in the FITC-labeled photo. A. Normal, ICF, and Rett fibroblasts FITC-labeled using antisera to acetylated histone H4 (acH4), acetylated histone H3 (acH3), and dimethylated K4 histone H3 (meK4H3). Note that the sex chromatin body is not stained by these antibodies and appears as a hole or a gap that occasionally contains a prominent dot (see insets). This FITC-stained dot appears to correspond to the DXZ4 domain, as described in the text. B. Normal and ICF fibroblasts labeled with antibody to dimethylated K9 histone H3 (meK9H3) and macrohistone H2A1 (macroH2A).
+Question:  What is the FITC? 
+ 
+A: An instrument 
+B: An antibody 
+C: A chemical compound 
+D: A type of staining process. 
+Answer:  C: A chemical compound.

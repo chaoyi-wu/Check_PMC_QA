@@ -1,0 +1,9 @@
+Caption: 
+Mucinous deposition of the upper and mid-dermis accompanied by an elevated occurrence of MIB-1+ dermal fibroblasts.
+Question:  What factors have been associated with the development of mucinous deposition? 
+ 
+A:Trauma and skin infections 
+B:Sun exposure and aging 
+C:Long-term use of topical steroids 
+D:All of the above 
+Answer:  D:All of the above.

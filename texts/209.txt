@@ -1,0 +1,9 @@
+Caption: 
+Echocardiography (45 months) long axis view. Myxoma in the left atrium prolapsing into the left ventricle. LV = left ventricle, My = myxoma
+Question:  Which heart chamber the myxoma is prolapsing into? 
+ 
+A:Right ventricle 
+B:Right atrium 
+C:Left ventricle 
+D:Left atrium 
+Answer:  D:Left atrium

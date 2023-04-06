@@ -1,0 +1,9 @@
+Caption: 
+Optical Z-axis sections of caveolin-2 associated with chlamydial inclusion membranes. FRT cells were infected with C. trachomatis serovar K for 48 h. Cells were fixed with 10% cold methanol and double stained with a guinea pig anti-Chlamydia and a mouse anti-caveolin-2 antibody. The secondary antibodies were FITC-conjugated goat anti-mouse and TRITC-conjugated goat anti-guinea pig antibody. Slides were examined using a laser confocal microscope and optical Z-axis sections were taken at 0.5 μm depth and images merged using the Confocal Assistant™ version 4.02 Image Processing Software. Original magnification: 600X; the scale bar is 25 μm in length.
+Question:  What fixation method was used on the cells? 
+ 
+A: 70% Ethanol 
+B:10% Cold Methanol 
+C: Formaldehyde 
+D:Acetone 
+Answer:  B: 10% Cold Methanol. 

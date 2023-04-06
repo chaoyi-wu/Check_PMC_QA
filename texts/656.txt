@@ -1,0 +1,9 @@
+Caption: 
+Imaging and software power of micro CT. Pure COM stone viewed by conventional photography (A) and micro CT (B-D). B shows a typical micro CT image slice, C a 3-D reconstruction of the stone surface, and D a wedge cut that displays the internal 3-D morphology of the stone.
+Question:  What type of stone was imaged using micro CT? 
+ 
+A: kidney stone 
+B: diamond stone 
+C: basalt stone 
+D: sedimentary stone  
+Answer:  A: kidney stone

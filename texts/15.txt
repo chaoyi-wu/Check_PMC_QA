@@ -1,0 +1,9 @@
+Caption: 
+ driceless Males Lack Active Drice Staining and Show Defects in Individualization(A) Testis from driceless male stained with active DRICE. Active DRICE staining is eliminated.(B) Elongated cysts from driceless male. AXO49 staining (blue) outlines the location of three cystic bulges. Individualization complexes (arrows) are marked with phalloidin (red).(C) Example of a cyst from a driceless male in which individualization has proceeded normally.(D) Example of a cyst from a driceless male in which individualization has failed to occur.(E) Boxed area in (D) shown at higher magnification. A region in which individualization has failed is outlined with a dashed line.
+Question:  What is the main observation made in the testis from driceless male stained with active DRICE? 
+ 
+A: Active DRICE staining is eliminated. 
+B: Elongated cysts observed. 
+C: Individualization complexes have failed. 
+D: AXO49 staining outlines three cystic bulges. 
+Answer:  A

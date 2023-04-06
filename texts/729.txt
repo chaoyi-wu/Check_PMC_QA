@@ -1,0 +1,9 @@
+Caption: 
+CT scan image of the lung of case 3 patient. A: Before vaccination (May 15, 2003). B: After the third vaccination (June 18, 2003). Rapid growth of the metastatic tumors and pleural effusion were seen.
+Question: What changes were seen in the patient's lungs after the third vaccination? 
+ 
+A: Decrease in tumor size 
+B: Increase in tumor size 
+C: No change in tumor size 
+D: New tumors appeared 
+Answer:  B: Increase in tumor size

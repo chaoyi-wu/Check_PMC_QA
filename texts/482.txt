@@ -1,0 +1,9 @@
+Caption: 
+Radiological improvement with IFN gamma treatment (ray-x of two patients are shown). Patient 4 (A), left-lung fibroexudative lesions, and (B) complete resolution after IFN gamma treatment. Patient 2 (C), bilateral moderate exudative lesions before IFN gamma treatment, and (D) important improvement of the lesions afterwards.
+Question:  What was the extent of the lesions in patient 2 before IFN gamma treatment? 
+ 
+A: Complete resolution lesions  
+B: Right-lung fibroexudative lesions  
+C: Bilateral moderate exudative lesions  
+D: Left-lung fibroexudative lesions. 
+Answer:  C: Bilateral moderate exudative lesions 

@@ -1,0 +1,9 @@
+Caption: 
+Pelvic Nodal StagingNodal staging in patient with colorectal cancer. A PET scan using 18FDG as a tracer (A) and a CT scan (B) were interpreted as negative for nodal metastases. LMRI identified six small pelvic lymph nodes ([C] and [D]; red arrowheads), which had magnetic parameters of malignancy. Semiautomated reconstruction (E) identifies multisegmental metastases, subsequently proven histologically (F). For 3D reconstruction of pelvic nodal anatomy see Video 1.
+Question:  Were the nodal metastases identified through imaging alone later proven to be correct? 
+ 
+A: Yes, by biopsy 
+B: No, they were found to be harmless 
+C: Yes, by visual inspection 
+D: No, the patient was not diagnosed with nodal metastases. 
+Answer:  A: Yes, by biopsy

@@ -1,0 +1,9 @@
+Caption: 
+Cytotoxicity and OAS1 induction with RNAi vectors. In A, morphology was observed using phase contrast microscopy of non-transduced IS-1 cells, or cells six days after transduction with vectors leading to expression of no shRNA (U6PT), a 25 mer shRNA targeting PAI-2 (sh325) and a scrambled 25 mer control shRNA (sh325scr). B shows comparison of OAS1 expression in non-transduced cells or cells four days after transduction with U6PT, sh325 and sh325scr vectors, by QRT-PCR. Each target gene was detected in duplicate, error bars represent the standard deviation of mean values.
+Question: What is being measured in panel A of the figure? 
+ 
+A:OAS1 expression 
+B:Gene duplication 
+C:Morphology using phase contrast microscopy 
+D:Gene translation  
+Answer:  Morphology using phase contrast microscopy

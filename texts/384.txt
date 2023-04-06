@@ -1,0 +1,9 @@
+Caption: 
+FRAP of GFP-E-APC and GFP-tagged AJ proteins in early embryonic epithelial cells. Face-on views of live ~6 hours old embryos (stage 11) expressing (a) GFP-E-APC, (b) E-cadherin-GFP, (c) Armadillo-GFP, (d) α-catenin-GFP, with white squares marking sections of cell interfaces that were bleached, and red squares marking unbleached control sections. Pre-bleaching images are shown on the left; subsequent images on the right show recovery of fluorescence within white squares 15, 75 and 300 seconds after bleaching [see additional file 1].
+Question:  How long after bleaching were the images taken to show recovery of fluorescence? 
+ 
+A: 5 seconds, 10 seconds, 15 seconds 
+B: 15 seconds, 75 seconds, 300 seconds 
+C: 1 minute, 5 minutes, 10 minutes 
+D: 1 hour, 2 hours, 4 hours 
+Answer:  B: 15 seconds, 75 seconds, 300 seconds

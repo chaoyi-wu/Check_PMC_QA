@@ -1,0 +1,9 @@
+Caption: 
+CT images taken before and after RFA treatments. The same patient PET images were shown as Figure 1. (A) was taken before RFA treatment, (B) was taken 2 week after RFA treatment.
+Question:  When was the second image (B) taken after the RFA treatment? 
+ 
+A: 2 months 
+B: 2 weeks 
+C: 2 days 
+D: 20 weeks 
+Answer:  B: 2 weeks

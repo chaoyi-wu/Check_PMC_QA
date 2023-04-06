@@ -1,0 +1,9 @@
+Caption: 
+The results of chest HRCT examination in a SARS patient in the convalescent phase, showing marked reversal of pulmonary fibrosis.
+Question:  At what phase was the SARS patient when the chest HRCT examination was done?
+ 
+A: Active phase 
+B: Recovery phase 
+C: Chronic phase 
+D: Terminal phase
+Answer:  B

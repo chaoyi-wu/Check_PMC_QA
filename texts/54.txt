@@ -1,0 +1,9 @@
+Caption: 
+Doxycycline and tTA-Dependent FCIP ExpressionImmunohistochemical assay (A–F) using rabbit polyclonal GFP antibodies/peroxidase-DAB system: (A) YC3.12, single-positive (MTH-YC3.12-7), double-positive (MTH-YC3.12-7, αCamKII-tTA), and Dox-treated double-positive (MTH-YC3.12-7, αCamKII-tTA).(B) Cg2, single-positive (MTH-Cg2-7) and doubles-positive (MTH-Cg2-7, αCamKII-tTA).(C) IP, single-positive (MTH-IP-12) and double-positive (MTH-IP-12, αCamKII-tTA).(D) Moderate-expression line of Cg2 (MTH-Cg2-14, αCamKII-tTA).(E) Low-expression line (MTH-Cg2-15, αCamKII-tTA).(F) FCIP distribution in various brain areas.(G) Fluorescence in fixed brain slices from the accessory and the main olfactory bulb.(H–K) Two-photon images of acute, living brain slices. (H) Neurons in both CA1 and striatum usually show nuclear exclusion. (I) punctate expression in low-expressing lines (also see Figure 2B, open circles); example from CA1 and cortex. Maximum intensity projection of two-photon 3D stacks taken from a brain slice (J) and a whole-mount retina (K).
+Question:  What was the effect of Dox on YC3.12 double-positive lines? 
+ 
+A: Increased expression 
+B: Decreased expression 
+C: No effect on expression 
+D: Not mentioned in the content 
+Answer:  A: Increased expression

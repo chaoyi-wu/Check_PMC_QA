@@ -1,0 +1,9 @@
+Caption: 
+Five Newly Identified Motifs Function as Pharyngeal Enhancers(A–C) Nomarski differential contrast interference images of embryos representing three different stages of embryonic development: (A) “early” development, when the pharynx primordium is formed, (B) “mid” development, when the pharynx has completed cell division and attached to the presumptive buccal cavity, and (C) “late” development, when pharynx development is almost complete and the embryo is about to hatch. Images on the left are of “early” embryos, images in the middle are of “mid” embryos, and images on the right are of “late” embryos.(D–U) Representative transgenic embryos showing expression from reporter constructs containing the Δpes-10 promoter alone (D–F) or with insertion of three copies of Early-1 (G–I), Early-2 (J–L), Late-2 (M–O), P-1 (P–R), or P-2 (S–U). Dashed lines indicate the outline of the developing pharynx.
+Question:  What is the purpose of the Δpes-10 promoter alone? 
+ 
+A: To prevent pharyngeal development 
+B: To accelerate embryo hatching 
+C: To function as pharyngeal enhancers 
+D: None of the above 
+Answer:  None of the above.

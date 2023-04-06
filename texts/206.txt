@@ -1,0 +1,9 @@
+Caption: 
+Echocardiography (45 months) long axis view. Myxoma in the left atrium prolapsing into the left ventricle. LV = left ventricle, My = myxoma
+Question:  What is the duration (in months) of the available echocardiography record shown in this image? 
+ 
+A:35 months 
+B:40 months 
+C:45 months 
+D:50 months 
+Answer:  C:45 months

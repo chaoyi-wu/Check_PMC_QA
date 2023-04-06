@@ -1,0 +1,9 @@
+Caption: 
+A 58 year old man, who 8 years ago underwent left hepatectomy and cholecistectomy, for complicated intrahepatic biliary stones, presented with jaundice and weight loss. Enhanced CT scan showed marked intrahepatic biliary dilation.
+Question: What was the surgical procedure performed on the patient 8 years ago? 
+ 
+A:Right hepatectomy and cholecistectomy 
+B:Left hepatectomy and choledochoduodenostomy 
+C:Transjugular intrahepatic portosystemic shunt (TIPS) 
+D:Pancreaticoduodenectomy (Whipple's procedure) 
+Answer:  B

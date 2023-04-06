@@ -1,0 +1,9 @@
+Caption: 
+Histological analysis of eye development in severely affected eyeless Ptdsr -/- embryos. (a) In anophthalmic Ptdsr -/- embryos, unilateral or bilateral absence of the eyes could be detected. (b-d) Serial H&E-stained sagittal sections of homozygous mutant embryos at (b) E17.5 and (c,d) E18.5 show complex malformation of the optic cup and lack of any lens structure. Careful examination of adjacent sections (b-d) reveals an ectopic misplacement of retinal-pigmented epithelium in the maxillary sinus. Not only is the deposition of pigment clearly visible (higher magnification insets) but also the induction of proliferation of underlying tissues and the change in morphology of the maxillary sinus (d). Scale bar, 100 μm in (b-d).
+Question:  What is the magnification level of the higher magnification insets used in the histological analysis? 
+ 
+A: 10 μm 
+B: 50 μm 
+C: 100 μm 
+D: 500 μm. 
+Answer:  Not given in the context.

@@ -1,0 +1,9 @@
+Caption: 
+Mitochondrial ultrastructure shows heterogeneity between cell lines (same final magnification for the 4 images, marker = 0.5 μm): (A) NB cell line N206: dilated crista spaces in small mitochondria with a dense matrix; (B) NB cell line NMB: small mitochondria with narrow cristae and light matrix, so-called orthodox configuration, (C) NB cell line SJNB-8: unusually large mitochondria in orthodox configuration (narrow cristae), some areas in the matrix are cleared and lack cristae; (D) NB cell line LA-N-2: very large mitochondria with dilated cristae and dense matrix.
+Question:  What is the difference in mitochondrial ultrastructure between cell line N206 and cell line NMB? 
+ 
+A: N206 has small mitochondria with narrow cristae and a light matrix, while NMB has dilated crista spaces in small mitochondria with a dense matrix. 
+B: N206 has unusually large mitochondria in orthodox configuration with narrow cristae, while NMB has small mitochondria with narrow cristae and a light matrix. 
+C: N206 has very large mitochondria with dilated cristae and a dense matrix, while NMB has small mitochondria with narrow cristae and a light matrix. 
+D: N206 has small mitochondria with narrow cristae and a light matrix, while NMB has very large mitochondria with dilated cristae and a dense matrix. 
+Answer:  A: N206 has small mitochondria with narrow cristae and a light matrix, while NMB has dilated crista spaces in small mitochondria with a dense matrix. 

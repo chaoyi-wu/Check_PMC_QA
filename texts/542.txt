@@ -1,0 +1,9 @@
+Caption: 
+Coronal T2-weighted MRI reveals a slightly hyperintense fusiforme tumorous lesion of the median nerve approximately 5 cm above the right elbow (arrows).
+Question: What is the location of the tumorous lesion in relation to the elbow joint? 
+ 
+A:Approximately 5 cm below the right elbow 
+B:On the right elbow joint 
+C:Approximately 5 cm above the right elbow 
+D:Approximately 10 cm above the right elbow 
+Answer:  Approximately 5 cm above the right elbow. 

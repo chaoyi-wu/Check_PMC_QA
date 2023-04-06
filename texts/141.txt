@@ -1,0 +1,9 @@
+Caption: 
+The figure shows static acquisition images with gamma camera 2, 24, and 48 h, and 2, 24, 48 and 72 h after inoculation with 111In-Oxine-labelled iDC and mDC, respectively, for patient no. 3. Greater migration activity of mDC is clearly visible. (IS, inoculation site: LN, lymph node).
+Question:  How long after inoculation were images taken? 
+ 
+A: 2, 24 and 48 minutes 
+B: 2, 24 and 48 hours 
+C: 2, 24 and 48 days 
+D: 2, 24 and 48 weeks 
+Answer:  B

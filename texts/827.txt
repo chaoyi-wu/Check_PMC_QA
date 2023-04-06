@@ -1,0 +1,9 @@
+Caption: 
+Preoperative Sister Mary Joseph's nodule ultrasonography: 4 × 4 cm mass confined below the umbilicus (arrows). The main lesion is partly hyperechoic and partly hypoechoic with a poorly defined edge.
+Question:  How does the main lesion of the mass appear on the ultrasonography? 
+ 
+A: Homogeneous 
+B: Hypoechoic 
+C: Hyperechoic 
+D: Isoechoic 
+Answer:  B: Hypoechoic 

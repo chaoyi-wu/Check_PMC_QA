@@ -1,0 +1,9 @@
+Caption: 
+Recapitulation of human xanthinuria type 1 by rosy mutants. (a) Wild-type tubule; (b) tubule from adult ry2 homozygous fly. Both micrographs are at the same magnification, and the diameter of the wild-type tubule can be taken as 35 μm.
+Question:  What is the diameter of a wild-type tubule? 
+ 
+A: 35 μm 
+B: 50 μm 
+C: 25 μm 
+D: 40 μm 
+Answer:  A: 35 μm

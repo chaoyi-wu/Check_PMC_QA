@@ -1,0 +1,9 @@
+Caption: 
+Stored fluoroscopy following placement of the two Amplatzer septal occluders (ASOs). TEE – Transesophageal echocardiography probe.
+Question: Which type of probe was used to perform the TEE? 
+ 
+A:ECG probe 
+B:EEG probe 
+C:Echocardiography probe 
+D:Transvaginal probe 
+Answer:  C:Echocardiography probe

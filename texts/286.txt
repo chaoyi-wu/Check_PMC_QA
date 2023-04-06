@@ -1,0 +1,9 @@
+Caption: 
+Direct immunofluorescence (IgG, combined with transmitted light) in saline transported skin specimen of lupus erythematosus. After 48 hours in saline there is subepidermal split formation, not present in fresh-frozen (N2) and fixed (Mi48) skin. Note the still obvious granular IgG fluorescence at the dermal side of the split. (obj. ×40)
+Question:  What is the result of the saline transportation on skin specimen? 
+ 
+A: Subepidermal split formation 
+B: Formation of granular IgG fluorescence at the dermal side 
+C: Preservation of skin cell structure 
+D: No effect on the skin specimen. 
+Answer:  A: Subepidermal split formation.

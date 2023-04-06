@@ -1,0 +1,9 @@
+Caption: 
+Characterization of fibre type specificity of dihydropyridine receptor Two subsequent sections of mouse musculus gastrocnemius were assayed for DHPR localization by fluorescence staining (A) and for fibre type analysis by staining for mATPase (B). After preincubation in pH 4.6, type IIA displays a relatively low acid stability and is stained most lightly (*). The corresponding fibre in (A) is also recognized by fluorophore conjugated DHP blocker. The fibre on the right of the asterisked fibre shows also fluorescence. The intensity is, however, somewhat lower than in the fibre next to it and originates probably from the special fibre type (hybrid, type IIDA). (C) A control sample preincubated with nifedipine. Bar 20 μm.
+Question: Which musculus was used for the assay? 
+ 
+A: Mouse musculus 
+B: Rat musculus 
+C: Human musculus 
+D: Pig musculus 
+Answer:  Mouse musculus.

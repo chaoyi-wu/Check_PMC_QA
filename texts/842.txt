@@ -1,0 +1,9 @@
+Caption: 
+Immunocytochemistry determination of IREG1. Hippocampal neurons and SH-SY5Y cells, labeled with rabbit anti-IREG1 antibody and with Alexa-546-conjugated goat anti-rabbit IgG, were imaged in a confocal microscope. Shown are representative fields of cells cultured at different iron concentrations. Note the preferentially cytosolic distribution of IREG1.
+Question:  What is the source of the primary antibody used in the study? 
+ 
+A: Goat anti-IREG1 antibody 
+B: Rabbit anti-IREG1 antibody 
+C: Mouse anti-IREG1 antibody 
+D: None of the above. 
+Answer:  B: Rabbit anti-IREG1 antibody

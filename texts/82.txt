@@ -1,0 +1,9 @@
+Caption: 
+The string-of-beads sign with alternating regions of lumen narrowing and vessel dilatation on angiogram of the ICA (arrows) in a 52-year-old woman sufferning from recurrent transient ischemic attacks.
+Question:  Why did the woman undergo angiogram? 
+ 
+A: Headache relief 
+B: Transient ischemic attacks 
+C: Vision loss 
+D: Dizziness 
+Answer:  B: Transient ischemic attacks

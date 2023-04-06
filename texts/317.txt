@@ -1,0 +1,9 @@
+Caption: 
+Computed tomographic scan of the pelvis showing a large, well-circumscribed presacral mass
+Question:  How would you describe the size of the mass? 
+ 
+A: Small 
+B: Medium 
+C: Large 
+D: Cannot be determined 
+Answer:  C

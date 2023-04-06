@@ -1,0 +1,9 @@
+Caption: 
+Immunocytochemistry of isolated mouse ventricular myocytes demonstrating the subcellular localization of Kir6.1, Kir6.2, SUR1 and SUR2 subunits. A: Double staining of a ventricular myocyte with the CAF-1 anti-Kir6.1 antibody (A1) and 76A anti-Kir6.2 antibody (A2). Panel A3 is an overlay of panels A1 and A2. Secondary antibodies used were Cy-3 conjugated donkey anti-chicken IgY (red) and Cy-2 conjugated donkey anti-rabbit IgG (green). Yellow in panel C demonstrates areas of co-localization. The image width is 91 μm. B: Ventricular myocyte probed with anti-SUR1 antibodies and detected with Cy-3 conjugated donkey anti goat secondary antibodies. Image width is 148 μm. C: Staining with a pan-SUR2 antibody (detected with Cy-2 conjugated donkey anti-goat IgG). The image width is 229 μm. D: An isolated myocyte was stained with MitoTracker Red (500 nM) before being paraformaldehyde fixed and viewed with confocal microscopy Image width is 47 μm.
+Question:  What is the purpose of panel D? 
+ 
+A: To demonstrate the subcellular localization of Kir6.1, Kir6.2, SUR1 and SUR2 subunits in mouse ventricular myocytes. 
+B: To investigate the function of mitochondria in isolated mouse ventricular myocytes. 
+C: To compare the subcellular localization of mitochondria in different types of mouse cardiac cells. 
+D: To develop a new staining method for visualizing mitochondria in isolated mouse ventricular myocytes. 
+Answer:  B: To investigate the function of mitochondria in isolated mouse ventricular myocytes.

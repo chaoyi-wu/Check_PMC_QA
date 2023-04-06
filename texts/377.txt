@@ -1,0 +1,9 @@
+Caption: 
+Mucinous deposition of the upper and mid-dermis accompanied by an elevated occurrence of MIB-1+ dermal fibroblasts.
+Question:  What is the significance of MIB-1+ dermal fibroblasts in mucinous deposition? 
+ 
+A:They promote hair growth 
+B:They increase the production of collagen 
+C:They cause skin discoloration 
+D:Their occurrence is elevated in mucinous deposition 
+Answer:  D:Their occurrence is elevated in mucinous deposition.

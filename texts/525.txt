@@ -1,0 +1,9 @@
+Caption: 
+Immunostaining of NFκB protein in stroma (S), glandular epithelium (GE), squamous epithelium (SQ) and vessels (V) in cervical biopsies from the NP (left column, a, d, g, j), TP (middle column, b, e, h) and PP (right column, c, f, i, l) groups. Positive nuclear and cytoplasmic immunostaining is also observed in neuronal ganglions (G) (h). Some leukocytes, identified by their morphology, display positive NFκB staining (l, black arrowhead). A negative control where the primary antibody is replaced by rabbit IgG is shown in k.
+Question:  What is the purpose of the immunostaining? 
+ 
+A:To identify the presence of NFκB protein 
+B:To identify the presence of RNA in stroma 
+C:To identify the presence of proteins in glandular epithelium 
+D:To identify the presence of lipids in squamous epithelium 
+Answer:  A:To identify the presence of NFκB protein

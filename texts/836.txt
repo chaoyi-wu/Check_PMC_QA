@@ -1,0 +1,9 @@
+Caption: 
+Colonic mucosal inflammation in ulcerative colitis with loss of goblet cells and neutrophilic infiltrate (magnification ×100)
+Question:  What disease is associated with the image above? 
+ 
+A: Psoriasis 
+B: Parkinson's Disease 
+C: Ulcerative Colitis 
+D: Sickle Cell Anemia
+Answer:  C 

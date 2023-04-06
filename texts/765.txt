@@ -1,0 +1,9 @@
+Caption: 
+Heparin, but not RAP, competes for DiI-apoE-VLDL uptake by adipocytes. Differentiated adipocytes were cultured on glass coverslips and incubated with DiI-labeled apoE-VLDL (4 μg/ml) in the presence or absence (upper panel) of either heparin (500 μg/ml, middle panel) or RAP-GST (50 μg/ml, lower panel) at 37°C for 3 h. Cells were then fixed and processed for fluorescence microscopy. Left panels, phase contrast image; right panels, rhodamine filter set (550 nm excitation-573 nm emission). Magnification, 630×.
+Question:  What is the concentration of DiI-labeled apoE-VLDL used in the experiment? 
+ 
+A: 2 μg/ml 
+B: 4 μg/ml 
+C: 6 μg/ml 
+D: 8 μg/ml  
+Answer:  B: 4 μg/ml 

@@ -1,0 +1,9 @@
+Caption: 
+Distribution of keratin IFs and HSP70i in hepatocytes from control and GF-fed C3H mice. A, C, E keratin IFs; B, D, F HSP70i; A, B) control; C, D) 2 week treatment; E, F) 5 month treatment. Arrows in E and F indicate reactive MBs with Troma 1 (anti-K8) and anti-HSP70i, respectively. Scale bar = 20 μm.
+Question:  What does the arrow indicate in panel F? 
+ 
+A: Reactive HSP70i 
+B: Reactive K8 
+C: Nucleus 
+D: Mitochondria 
+Answer:  Reactive HSP70i

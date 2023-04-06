@@ -1,0 +1,9 @@
+Caption: 
+The Secteur and its transmission through contamination tests in Nectria haematococca. (A) Wild-type strain exhibiting three spontaneous Secteurs (1, 2, 3). (B) s*789 mutant. (C) Contamination tests, using plugs from a Secteur or from s*789, on wild type (wt), result in one Secteur at each infection point. (D)Contamination tests on s1 mutant did not result in the induction of any Secteur at the infection points.
+Question:  Which strain is described as a mutant? 
+ 
+A: wild-type 
+B: s1 
+C: s*789 
+D: none of the above 
+Answer:  C

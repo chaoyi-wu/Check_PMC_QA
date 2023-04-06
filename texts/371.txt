@@ -1,0 +1,9 @@
+Caption: 
+Assessment of asynchrony in parasternal long axis view by M-mode: Time difference between peak of septal and inferior myocardial contraction.
+Question: Which peak of myocardial contraction is being compared in the assessment described? 
+ 
+A:Anterior and posterior wall 
+B:Septal and inferior wall 
+C:Lateral and medial wall 
+D:Apical and basal region 
+Answer:  Septal and inferior wall. 

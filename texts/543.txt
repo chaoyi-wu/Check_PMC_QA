@@ -1,0 +1,9 @@
+Caption: 
+Coronal T2-weighted MRI reveals a slightly hyperintense fusiforme tumorous lesion of the median nerve approximately 5 cm above the right elbow (arrows).
+Question: Which nerve is affected by the tumorous lesion seen on the MRI image? 
+ 
+A:Ulnar nerve 
+B:Radial nerve 
+C:Median nerve 
+D:Femoral nerve 
+Answer:  Median nerve. 

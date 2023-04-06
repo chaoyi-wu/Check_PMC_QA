@@ -1,0 +1,9 @@
+Caption: 
+Mammography of the patients' breasts (A: mediolateral oblique, view B: craniocaudal view)
+Question: What is the importance of mammography in detecting breast cancer? 
+ 
+A:It can detect breast cancer at an early stage 
+B:It can detect only breast lumps 
+C:It is not useful for detecting cancer 
+D:It can only detect advanced stages of breast cancer 
+Answer:  A:It can detect breast cancer at an early stage.

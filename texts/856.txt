@@ -1,0 +1,9 @@
+Caption: 
+Immunofluorescence detection of GANA-1::GFP. A) A coarsely granular cytoplasmic distribution of immunopositivity (green) in body-wall muscle cells (arrowheads). Two non-transgenic worms are shown in the background (asterisks) for comparison. Nuclei are counterstained in red. B) Detailed view of two body wall muscle cells with coarsely granular cytoplasmic distribution of immunopositivity (arrowheads) and a coelomocyte (asterisk), both pictures were acquired by 3D rendering of initial confocal Z-stacks. Note: compare with figure 6.
+Question:  What is the color used to counterstain nuclei in the pictures? 
+ 
+A: Green 
+B: Red 
+C: Blue 
+D: Yellow  
+Answer:  B: Red.

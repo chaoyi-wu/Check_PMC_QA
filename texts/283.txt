@@ -1,0 +1,9 @@
+Caption: 
+A 58 year old man, who 8 years ago underwent left hepatectomy and cholecistectomy, for complicated intrahepatic biliary stones, presented with jaundice and weight loss. Enhanced CT scan showed marked intrahepatic biliary dilation.
+Question: What is the most likely reason for the patient's weight loss? 
+ 
+A:Hyperthyroidism 
+B:Gastrointestinal bleeding 
+C:Cholecystitis 
+D:Malabsorption syndrome 
+Answer:  B

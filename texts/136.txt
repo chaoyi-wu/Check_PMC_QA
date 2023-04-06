@@ -1,0 +1,9 @@
+Caption: 
+Emerging leaf tips (yellow arrow) and hypocotyl (orange arrows) of an Arabidopsis mutant
+Question: What part of the Arabidopsis plant is shown in the image?
+ 
+A:Stem  
+B:Flower  
+C:Root  
+D:Hypocotyl and emerging leaf tips 
+Answer:  D:Hypocotyl and emerging leaf tips 

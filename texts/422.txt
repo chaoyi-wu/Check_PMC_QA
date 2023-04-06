@@ -1,0 +1,9 @@
+Caption: 
+CT scan of the pelvis revealing gas in the bladder and the bladder wall.
+Question:  What was observed in the bladder from the diagnosis?
+ 
+A: Blood clot 
+B: Gas 
+C: Fluid 
+D: Tumor
+Answer:  B

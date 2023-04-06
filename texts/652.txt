@@ -1,0 +1,9 @@
+Caption: 
+Ultrasound and color Doppler examination and digital radiographs of suspected NPOA a: Axial US view combined with color Doppler of the anterior side of the left hip in a paraplegic patient presenting acute limitation and inflammation of this joint. The striation of the psoas iliaque muscle, normally detectable at the anterior part of the hip joint with US examination, has disappeared. A relatively well defined mass (orange arrows) is detectable at the anterior part of the left femoral head (F). This mass is very heterogeneous with mixed hypo and hyper echoic areas. Color Doppler enables visualization of vessels in the mass (red and blue Doppler signals). A mass effect is visible on the femoral vessels (top right of the view). b: Same patient, one week later, axial US view of the posterior side of the left hip. The classical zone phenomenon (ZP) is detectable with a central hypoechoic area surrounded by hyper echoic nodules with posterior attenuation(black arrows). c: Axial US examination at the same day combined with color Doppler view of the posterior side of the left hip. A posterior mass (orange arrows) is also visible in the gluteal muscles, very heterogeneous with mixed hypo and hyper echoic areas. Color Doppler reveals large vessels in the mass (red and blue Doppler signals). d: Plain radiographs of the left hip obtained the same day as first US examination: Any sign of ossification is visible while a well defined mass is detected by US examination. e: Plain radiographs of the left hip obtained two weeks after: Early anterior and posterior NPOA ossification is only slightly visible two weeks (Orange arrows) after the initial clinical signs whereas the US examination was initially positive.
+Question:  What classical phenomenon can be detected in the second US image of the left hip? 
+ 
+A: Large blood vessels 
+B: An anterior mass 
+C: Posterior attenuation 
+D: Hyper echoic nodules 
+Answer:  C:Posterior attenuation.

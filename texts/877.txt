@@ -1,0 +1,9 @@
+Caption: 
+Cartoon representations of ACHB. (a) The ligand-binding dimer of ACHB; (b) the pentamer of ACHB. The representations were derived from the crystal structure of the snail acetylcholine-binding protein (PDB 1UV6). Residues forming the ligand-binding box are shaded orange. The chain of residues that could potentially act as a conduit for transmission of conformational changes is colored green and the prominent conserved ones among them have been labeled.
+Question: What is colored green in the representations? 
+ 
+A:The chain of residues that could potentially act as a conduit for transmission of conformational changes 
+B:The chain of residues that connects the protein with the plasma membrane 
+C:The chain of residues responsible for substrate catalysis 
+D:The chain of residues that forms the pentameric structure 
+Answer:  A:The chain of residues that could potentially act as a conduit for transmission of conformational changes

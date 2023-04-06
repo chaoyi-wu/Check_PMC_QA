@@ -1,0 +1,9 @@
+Caption: 
+X-ray showing the intravascular catheter being fluoroscopically removed by means of a special endo-vessel grasper.
+Question:  How is the intravascular catheter being removed in the X-ray? 
+ 
+A: Surgically 
+B: Chemically 
+C: By means of a special endo-vessel grasper 
+D: None of the above. 
+Answer:  C

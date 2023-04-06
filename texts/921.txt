@@ -1,0 +1,9 @@
+Caption: 
+Mannose receptor and MHC class II colocalise in confocal microscope images of secretory organ APC. The subcellular distribution of MR and MHC class II in secretory organ APC was examined by confocal microscopy as indicated. A nuclear counterstain in blue is included in merged images. Single optical planes showing a high degree of colocalisation of MR and MHC class II were selected from z-series in which colocalisation was also observed in adjacent optical sections. Boxed regions of each image are shown at three-fold higher magnification in insets. The scale bar is indicated in the first panel only and is 5 μm.
+Question:  What technique was used to examine the subcellular distribution of MR and MHC class II in secretory organ APC? 
+ 
+A: Western blotting 
+B: ELISA 
+C: Confocal microscopy 
+D: Mass spectrometry 
+Answer:  C: Confocal microscopy.

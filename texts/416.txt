@@ -1,0 +1,9 @@
+Caption: 
+The Interface of ImageParser When Loading a 3D Image. The image is automatically shown slice by slice with the slice number shown in the text box, and the interval between two slices can be changed. Clicking the slide bar or text box, we can focus on the current slice; double clicking the window area, we can navigate the image slice by slice again; and dragging the slide bar or inputting the slice number in the text box, we can jump to the desired slice.
+Question:  What happens when we double click the window area in the ImageParser interface? 
+ 
+A: We exit the program. 
+B: We navigate the image slice by slice. 
+C: We change the interval between two slices. 
+D: We jump to the desired slice. 
+Answer:  B 

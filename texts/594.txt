@@ -1,0 +1,9 @@
+Caption: 
+CT scan showing a paraesophageal, retrotracheal mass, close to the thoracic inlet
+Question:  Is the mass in close proximity to the trachea?
+ 
+A: Yes 
+B: No 
+C: Cannot be determined from the given information 
+D: None of the above 
+Answer:  A: Yes

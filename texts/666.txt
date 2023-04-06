@@ -1,0 +1,9 @@
+Caption: 
+Knockdown of patched Function Rescues Slow Muscle Defects in you After injection of 420 pg of a mismatch control ptc1 MO, adaxial expression of myod (A) and Engrailed (B) was normal in wild-type embryos, but absent in you mutant embryos (C and D). When injected with 420 pg of a MO targeting ptc1, however, myod expression in mutants (E) was rescued to levels comparable to wild-type embryos (G). Engrailed expression was slightly expanded in both wild-type (F) and mutant (H) embryos injected with 420 pg of ptc1 MOs. Both adaxial myod expression and Engrailed expression was slightly expanded in wild-type (I and J) and you mutant embryos (K and L) injected with MOs targeting both ptc1 and ptc2 (420 pg each). Embryos assayed for myod expression are shown in flat mount at the 12-somite stage, and somites 5–9 of Engrailed-expressing embryos are shown in lateral view at 24 hpf. Anterior is to the left in all panels. Genotypes of all embryos were determined by PCR after photography.
+Question: What is the effect of injection of ptc1 MO in you mutant embryos? 
+ 
+A: Normal myod and Engrailed expression. 
+B: Absent myod and Engrailed expression. 
+C: Normal myod expression and absent Engrailed expression. 
+D: Absent myod expression and normal Engrailed expression. 
+Answer:  B: Absent myod and Engrailed expression.

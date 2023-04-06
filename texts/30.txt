@@ -1,0 +1,9 @@
+Caption: 
+Decreased Fiber CoherenceDecreased fiber coherences, as observed with DTI, in persistent developmental stutterers compared with a fluent control group. A red dot indicates the peak difference in a coronal (top left), axial (top right), and a sagittal (bottom) slice.
+Question:  What does DTI measure? 
+ 
+A: blood flow 
+B: muscle contraction 
+C: fiber coherence 
+D: brain activation 
+Answer:  C: fiber coherence

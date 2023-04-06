@@ -1,0 +1,9 @@
+Caption: 
+Northern blot analysis with cDNA fragments enriched for leaf expressed genes. Ten micrograms total RNA from leaves (L), taproots (R), stems (S), and inflorescences (I) were hybridized with the indicated cDNA fragments (Table 1). The sizes of the hybridizing transcripts are given in kilo base pairs (kb). The RNA gels were stained prior to blotting to confirm equal loading (data not shown).
+Question:  What is the unit used to measure the size of hybridizing transcripts? 
+ 
+A: kb 
+B: mg 
+C: mL 
+D: sec 
+Answer:  A: kb

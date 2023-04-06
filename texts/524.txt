@@ -1,0 +1,9 @@
+Caption: 
+Grading of the transesophageally detected aortic lesions in the descending aorta. Grade 1: intimal thickening (left upper panel); Grade 2: small plaque indicated by arrow right upper panel; Grade 3: lower panels. On the lower panels: left a huge, multiple plaque, right: an ulcerated plaque with mobile part.
+Question:  What is the difference between Grade 2 and Grade 3 aortic lesions? 
+ 
+A: Grade 2 is a small plaque indicated by an arrow, while Grade 3 is a multiple plaque. 
+B: Grade 2 is an intimal thickening, while Grade 3 is a small plaque indicated by an arrow. 
+C: Grade 2 is a small plaque indicated by an arrow, while Grade 3 is an ulcerated plaque with a mobile part. 
+D: Grade 2 is an intimal thickening, while Grade 3 is a huge, multiple plaque. 
+Answer:  D: Grade 2 is an intimal thickening, while Grade 3 is a huge, multiple plaque.

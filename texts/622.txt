@@ -1,0 +1,9 @@
+Caption: 
+Northern blot analysis with cDNA fragments enriched for leaf expressed genes. Ten micrograms total RNA from leaves (L), taproots (R), stems (S), and inflorescences (I) were hybridized with the indicated cDNA fragments (Table 1). The sizes of the hybridizing transcripts are given in kilo base pairs (kb). The RNA gels were stained prior to blotting to confirm equal loading (data not shown).
+Question:  What is the purpose of staining the RNA gels prior to blotting? 
+ 
+A: to confirm equal loading of RNA samples 
+B: to visualize cDNA fragments 
+C: to increase the sensitivity of hybridization 
+D:to decrease background noise in the Northern blot result 
+Answer:  A: to confirm equal loading of RNA samples

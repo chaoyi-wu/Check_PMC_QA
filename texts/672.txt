@@ -1,0 +1,9 @@
+Caption: 
+Delta protein expression is abnormally distributed in the presence of spen mutant clones. Crosses were performed as described in Figure 1, and third instar imaginal disks were isolated from progeny female larvae with the following genotypes: {MS1096 GAL4/+; 40 2piM FRT40A/ GFP FRT40A; UAS-Flp1/ +} (A-C), and {MS1096 GAL4/ +; spenpoc361 FRT40A/ GFP FRT40A; UAS-Flp1/ +} (D-I). Delta expression (in red) was detected in by using a mouse anti-Delta MAb followed by a Cy3-conjugated anti mouse antibody. The area indicated by the arrows in E and F is shown at higher magnification in G to I. Dorsal is up and anterior is to the left.
+Question:  What is the purpose of using UAS-Flp1? 
+ 
+A: to express GFP. 
+B: to induce Delta expression. 
+C: to induce spenpoc361 mutation. 
+D: to induce recombination between FRT40A sites. 
+Answer:  D: to induce recombination between FRT40A sites.

@@ -1,0 +1,9 @@
+Caption: 
+Summary of Phenotypes DeterminedLight (left panels) and scanning electron (right panels) micrographs of mosaic Drosophila eyes. Large homozygous mutant clones are orange (arrowheads); heterozygous tissues are dark red. Examples are shown of lethal mutations that give a (A) wild-type (63.4% of lethal mutations), (B) rough (disordered ommatidia, 18.2%), (C) cell lethal (absence of homozygous mutant tissue, 14.5%), and (D) glossy (loss of lens structure, 3.9%) phenotype. For details on how clones are generated, see http://www.bruinfly.ucla.edu.
+Question:  What is the percentage of lethal mutations that have a wild-type phenotype? 
+ 
+A: 3.9% 
+B: 14.5% 
+C: 18.2% 
+D: 63.4% 
+Answer:  D: 63.4%

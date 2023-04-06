@@ -1,0 +1,9 @@
+Caption: 
+Echocardiography (45 months) long axis view. Myxoma in the left atrium prolapsing into the left ventricle. LV = left ventricle, My = myxoma
+Question:  Which structure is labeled as LV in this echocardiography image? 
+ 
+A:Left atrium 
+B:Right atrium 
+C:Left ventricle 
+D:Right ventricle 
+Answer:  C:Left ventricle
