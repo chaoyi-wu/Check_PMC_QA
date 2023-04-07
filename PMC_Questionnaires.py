@@ -14,7 +14,7 @@ from io import BytesIO
 window = tk.Tk()
 window.title("Questionnaire")
 window.geometry("512x830")
-window.wm_resizable(False,True)
+#window.wm_resizable(False,True)
 
 child_window = tk.Toplevel(window)
 
