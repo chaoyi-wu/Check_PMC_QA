@@ -1,9 +1,0 @@
-Caption: 
-Northern blot analysis with cDNA fragments enriched for leaf expressed genes. Ten micrograms total RNA from leaves (L), taproots (R), stems (S), and inflorescences (I) were hybridized with the indicated cDNA fragments (Table 1). The sizes of the hybridizing transcripts are given in kilo base pairs (kb). The RNA gels were stained prior to blotting to confirm equal loading (data not shown).
-Question:  What is the function of using cDNA fragments enriched for leaf expressed genes? 
- 
-A: to test the specificity of Northern blot analysis 
-B: to study gene expression in different tissue types 
-C: to amplify RNA samples 
-D: to increase the sensitivity of hybridization 
-Answer:  B: to study gene expression in different tissue types

@@ -1,9 +1,0 @@
-Caption: 
-Angiotensin II receptor 1 staining in lung biopsies from control patients (A) and from patients with idiopathic pulmonary fibrosis (B). Immunohistochemistry for the angiotensin II receptor 1 (AGTR1), counterstained with haematoxylin. AGTR1 positive staining is seen in alveolar macrophages, in epithelial cells and in fibroblastic foci (arrows) in usual interstitial pneumonia biopsies (panel B). Epithelial cells and alveolar macrophages express AGTR1 in control lung biopsies (panel A).
-Question:  Where can AGTR1 positive staining be found in the lung biopsies from patients with idiopathic pulmonary fibrosis? 
- 
-A: Alveolar macrophages and fibroblastic foci 
-B: Epithelial cells and fibroblastic foci 
-C: Only in fibroblastic foci 
-D: Only in alveolar macrophages. 
-Answer:  B: Epithelial cells and fibroblastic foci. 

@@ -1,9 +1,0 @@
-Caption: 
-Higher magnification of sections from the same experiment as in Figure 2 Both sections are 15 min after injection of active bovine LPL. The rat in panel A did not receive heparin; the rat in panel B had been given heparin five min before LPL. Green colour represents staining of LPL by the rabbit polyclonal antibody. Red colour represents staining of Kupffer cells by the ED2 antibody. The magnification was × 60 + zooming.
-Question:  What was the purpose of giving heparin to one of the rats in this experiment? 
- 
-A: to see the effect of heparin on Kupffer cells 
-B: to see the effect of heparin on ED2 antibody 
-C: to see the effect of heparin on active bovine LPL 
-D: to see the effect of heparin on rats 
-Answer:  C: to see the effect of heparin on active bovine LPL 

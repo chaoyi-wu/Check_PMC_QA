@@ -1,9 +1,0 @@
-Caption: 
-(a) Duodenoscopy showing a 3 × 3 cm protruding tumor with two ulcerations located opposite the ampulla of Vater in the second portion of the duodenum. (b) Hypotonic duodenography showing the donuts-shape tumor in the duodenum.
-Question: What is the size of the tumor found in the second portion of the duodenum?
- 
-A:1 x 1 cm 
-B:2 x 2 cm 
-C:3 x 3 cm 
-D:4 x 4 cm
-Answer:  C:3 x 3 cm

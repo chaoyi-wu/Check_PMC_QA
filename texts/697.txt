@@ -1,9 +1,0 @@
-Caption: 
-Radiologic, cytologic and morphologic appearance of the tumor. 1: This computed-tomographic scan of the patient's cerebral mass shows a large cystic mass with peripheral enhancement at the solid portion which attached to the overlying dura; 2: In addition to scattered individual cells, variably sized clusters of neuronal cells were identified, all composed of cells with eccentrically located, occasionally binucleated hyperchromatic nuclei and abundant unipolar cytoplasm [original magnifications ×400]; 3: Occasional neuronal cells were binucleated (3a) while others showed bland nuclear features (3b) [original magnifications ×400]; 4: Scattered astroglial cells with more convoluted nuclear contours and less cytoplasm were also present. [original magnifications ×400]; 5: Typical histologic appearance of desmoplastic infantile ganglioglioma, showing scattered ganglion cells in a desmoplastic and fibroblastic, vaguely storiform background (original magnification ×200, inset ×400)
-Question: What are the nuclear features of the neuronal cells? 
- 
-A: Bland nuclear features 
-B: Binucleated 
-C: Hyperchromatic 
-D: All of the above 
-Answer:  D

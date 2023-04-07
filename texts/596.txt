@@ -1,9 +1,0 @@
-Caption: 
-Transient expression of GFP and GFP fusion proteins in BY-2 tobacco cells. (A) GFP protein [35SΩ-sGFP (S65T)]; (B) Arabidopsis chloroplast targeting signal (pt)-GFP fusion protein [35SΩ-pt-sGFP (S65T)]; (C) putative localization signal of GGPP synthase-GFP fusion protein [35SΩ-GGPP synthase-sGFP (S65T)]
-Question: What is sGFP? 
- 
-A: A protein in tobacco cells. 
-B: A chloroplast targeting signal 
-C: A putative localization signal of GGPP synthase 
-D: A variant of GFP. 
-Answer:  D: A variant of GFP.

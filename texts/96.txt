@@ -1,9 +1,0 @@
-Caption: 
-Stored fluoroscopy following placement of the two Amplatzer septal occluders (ASOs). TEE – Transesophageal echocardiography probe.
-Question: What is the purpose of the Amplatzer septal occluders? 
- 
-A:To treat valvular heart disease 
-B:To close a hole in the heart 
-C:To treat atrial fibrillation 
-D:To treat congestive heart failure 
-Answer:  B:To close a hole in the heart

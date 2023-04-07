@@ -1,9 +1,0 @@
-Caption: 
-Biopsy form grafted area of the lower eyelid. Hematoxylene-eosin staining, × 100 magnification.
-Question:  What is the primary purpose of the biopsy? 
- 
-A: To evaluate the density of the tissue 
-B: To assess the perfusion of the tissue 
-C: To evaluate the cellular/molecular structure of the tissue 
-D: To assess the ph level of the tissue. 
-Answer:  C: To evaluate the cellular/molecular structure of the tissue.

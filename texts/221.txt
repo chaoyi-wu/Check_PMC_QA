@@ -1,9 +1,0 @@
-Caption: 
-pY504-C3G colocalizes with Hck and shows predominant Golgi and membrane localization. (A) pY504 C3G colocalizes with Hck. Cos-1 cells transfected with Hck and C3G were stained for pY504 C3G (Cy3) and Hck (FITC) and examined using a confocal microscope. Figure shows an optical section for the individual stains as well as that of the merged (Dual) image. (B) Cos-1 cells transfected with Hck and C3G were dual labeled to detect phospho-C3G (Cy3 staining) and C3G using the Flag tag antibody (FITC staining). Panels show optical sections taken using the confocal microscope. (C) pY504 C3G is localized to the Golgi apparatus. Cos-1 cells were transfected with Hck, C3G and VSVG-GFP expression constructs and stained using pY504 primary antibody and Cy3 conjugated secondary. An optical section taken using the apotome is represented. (D) HeLa or Cos-1 cells transfected with Hck and C3G were left untreated (control) or treated with pervanadate (PV) prior to fixation and stained for pY504. Counter staining with Dapi shows cell nuclei.
-Question:  What is the method used to examine the colocalization of pY504-C3G and Hck in Cos-1 cells? 
- 
-A: Confocal microscopy 
-B: Electron microscopy 
-C: Spectroscopy 
-D: Immunoblotting 
-Answer:  A: Confocal microscopy

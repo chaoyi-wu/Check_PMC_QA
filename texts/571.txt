@@ -1,9 +1,0 @@
-Caption: 
-Screen shot of the image processing platform TIKAL. (top) Image shows a sample two-dimensional section through a nucleus with binarized nuclear particles (red) counterstained with Hoechst 33342 stain (green). Pull down menu exemplifies different tools for quantitative analysis integrated into TIKAL. Numbers indicate different nuclear particles reconstructed by 3D isosurface reconstruction (bottom). Computed tracks of nuclear bodies over time are displayed as spheres on a string in the multi-dimensional scene viewer.
-Question:  What is the stain used for counterstaining in the image? 
- 
-A: TIKAL 
-B: HOECHST 
-C: 33342 
-D: BINARIZED 
-Answer:  B: HOECHST

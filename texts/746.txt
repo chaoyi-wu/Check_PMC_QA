@@ -1,9 +1,0 @@
-Caption: 
-The corneal stroma in a case of fungal keratitis shows diffuse TUNEL positivity in the zone of inflammation (*) as well as discrete positive staining in the peripheral keratocytes away from zone of inflammation (arrow head) (TUNEL, ×250) [Left]. The higher magnification of the same shows TUNEL positive nuclei of the keratocyte (Arrow) in a clean background, free of inflammatory cells. (TUNEL staining, ×500) (TUNEL ×400) [Right]
-Question:  What is the staining used to identify TUNEL positivity in this case of fungal keratitis? 
- 
-A:Gram staining 
-B:Methenamine silver staining 
-C:TUNEL staining 
-D:Hematoxylin and eosin staining. 
-Answer:  TUNEL staining.

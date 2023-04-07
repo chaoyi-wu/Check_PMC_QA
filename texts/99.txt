@@ -1,9 +1,0 @@
-Caption: 
-Stored fluoroscopy following placement of the two Amplatzer septal occluders (ASOs). TEE – Transesophageal echocardiography probe.
-Question: What is the main disadvantage of X-ray imaging compared to other imaging modalities such as MRI or ultrasound? 
- 
-A:X-ray radiation can cause damage to the body 
-B:X-ray imaging is more expensive than other modalities 
-C:X-ray imaging takes longer to perform 
-D:X-ray imaging cannot detect soft tissue abnormalities 
-Answer:  A:X-ray radiation can cause damage to the body

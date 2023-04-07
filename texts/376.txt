@@ -1,9 +1,0 @@
-Caption: 
-Mucinous deposition of the upper and mid-dermis accompanied by an elevated occurrence of MIB-1+ dermal fibroblasts.
-Question:  What is the location of the mucinous deposition? 
- 
-A:Upper and mid-dermis 
-B:Lower dermis 
-C:Epidermis 
-D:Hypodermis 
-Answer:  A: Upper and mid-dermis.

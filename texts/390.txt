@@ -1,9 +1,0 @@
-Caption: 
-Recapitulation of human xanthinuria type 1 by rosy mutants. (a) Wild-type tubule; (b) tubule from adult ry2 homozygous fly. Both micrographs are at the same magnification, and the diameter of the wild-type tubule can be taken as 35 μm.
-Question:  What is the purpose of the micrographs? 
- 
-A: To show the difference between a wild-type tubule and a tubule from a ry2 homozygous fly. 
-B: To show the size of a wild-type tubule. 
-C: To show that xanthinuria type 1 can be recapitulated in rosy mutants. 
-D: To show the difference between a wild-type tubule and a tubule from an adult ry2 homozygous fly. 
-Answer:  A: To show the difference between a wild-type tubule and a tubule from a ry2 homozygous fly.

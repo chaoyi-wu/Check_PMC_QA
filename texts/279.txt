@@ -1,9 +1,0 @@
-Caption: 
-Areas of S1 as defined in cytoarchitectonic studies on 10 post-mortem brains [18, 19]: area 3a occupies the fundus of the central sulcus (dark blue), area 3b the anterior wall of the postcentral gyrus (red), area1 its crown (light blue) and area 2 its posterior wall (green). The black arrow indicates the central sulcus.
-Question:  What does the black arrow on the image indicate? 
- 
-A: area 3a 
-B: area 3b 
-C: central sulcus 
-D: postcentral gyrus 
-Answer:  C: central sulcus

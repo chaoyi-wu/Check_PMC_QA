@@ -1,9 +1,0 @@
-Caption: 
-Computed tomographic scan of the pelvis showing a large, well-circumscribed presacral mass
-Question:  Which of the following terms would best describe the shape of the mass? 
- 
-A: Irregular 
-B: Round 
-C: Oval 
-D: Cannot be determined 
-Answer:  B

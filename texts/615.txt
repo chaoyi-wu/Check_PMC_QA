@@ -1,9 +1,0 @@
-Caption: 
-The results of group analysis. Statistical parametric maps of the average neural activity during JSL comprehension compared with rest are shown in standard anatomical space, combining hearing signers (left column), early-deaf signers (Early Deaf; second column) and late-deaf signers (Late Deaf; third column). The region of interest was confined to the temporal cortex bilaterally. The three-dimensional information was collapsed into two-dimensional sagittal and transverse images (that is, maximum-intensity projections viewed from the right and top of the brain). A direct comparison between the early- and late-deaf groups is also shown (E – L, right column). The statistical threshold is P < 0.001 (uncorrected). Right bottom, the group difference of the task-related activation (E – L) was superimposed on sagittal and coronal sections of T1-weighted high-resolution MRIs unrelated to the subjects of the present study. fMRI data were normalized in stereotaxic space. The blue lines indicate the projections of each section that cross at (-52, -22, -2). The black arrowhead indicates the STS. Bottom middle, the percent MR signal increase during JSL comprehension compared with the rest condition in the STS (-52, -22, -2) in hearing signers (H), early-deaf (E) and late-deaf signers (L). There was a significant group effect (F(2, 14) = 23.5, P < 0.001). * indicates P < 0.001, + indicates P = 0.001 (Scheffe's post hoc test). Bottom left, task-related activation in the deaf (early + late) groups. The blue lines indicate the projections of each section that cross at (-56, -26, 4). In the deaf subjects, the superior temporal cortices are extensively activated bilaterally.
-Question: What is the region of interest in the group analysis? 
- 
-A: The frontal cortex 
-B: The temporal cortex 
-C: The occipital cortex 
-D: The parietal cortex 
-Answer:  B: The temporal cortex

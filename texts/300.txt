@@ -1,9 +1,0 @@
-Caption: 
-A) Location of the MVe as visualized on cresyl violet stained section and on x-ray images of parallel sections used in in situ hybridization experiments with the various oligonucleotide probes: B) H3X C) H3X blocking control D) H3A E) H3A blocking control F) H3B G) H3B blocking control H) H3C I) H3C blocking control. Sections are from a representative animal sacrificed 24 h post-lesion. Abbreviations are as follows: MVe, medial vestibular nucleus and Pr, prepositus nucleus. Scale bars are 100 μm.
-Question:  What is the abbreviation for the medial vestibular nucleus ? 
- 
-A: MVe 
-B: H3X 
-C: Pr 
-D: H3A  
-Answer:  A: MVe

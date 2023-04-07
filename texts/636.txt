@@ -1,9 +1,0 @@
-Caption: 
-Microscopic appearance of the penile lesion demonstrating a nest of atypical malignant cells (hematoxylin-eosin stain).
-Question:  What is the appearance of the lesion in the image? 
- 
-A: Normal 
-B: Benign 
-C: Atypical 
-D: Metastatic 
-Answer:  C

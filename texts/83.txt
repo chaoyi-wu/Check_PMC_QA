@@ -1,9 +1,0 @@
-Caption: 
-The string-of-beads sign with alternating regions of lumen narrowing and vessel dilatation on angiogram of the ICA (arrows) in a 52-year-old woman sufferning from recurrent transient ischemic attacks.
-Question:  Which vessel was examined on the angiogram? 
- 
-A: Carotid artery 
-B: Vertebral artery 
-C: Basilar artery 
-D: Jugular vein 
-Answer:  A: Carotid artery

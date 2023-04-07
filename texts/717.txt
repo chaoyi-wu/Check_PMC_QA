@@ -1,9 +1,0 @@
-Caption: 
-The results of chest HRCT examination in a SARS patient in the convalescent phase, showing marked reversal of pulmonary fibrosis.
-Question:  What is pulmonary fibrosis?
- 
-A: A type of fungal infection 
-B: An inflammation of the lungs 
-C: A build-up of fluid in the lungs 
-D: A scarring of the lung tissue 
-Answer:  D 

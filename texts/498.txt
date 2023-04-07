@@ -1,9 +1,0 @@
-Caption: 
-Chest CT after treatment (16-Nov-2001) show that clear shrinkage of conglomeration of 3.0 × 2.5 cm at the left lower hilus pulmonis, small amount of accumulation of fluid in the left thoracic cavity.
-Question:  Was there an accumulation of fluid on the right or left thoracic cavity? 
- 
-A: Right 
-B: Left 
-C: Both 
-D: None 
-Answer:  B: Left

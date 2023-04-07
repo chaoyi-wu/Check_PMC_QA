@@ -1,9 +1,0 @@
-Caption: 
-Histological Architecture of CSR Gene Expression in Breast CancerRepresentative ISH of LOXL2 and SDFR1 and IHC of PLOD2, PLAUR, and ESDN are shown (magnification, 200×). Panels for LOXL2, PLAUR, PLOD2, and ESDN represent cores of normal and invasive ductal breast carcinoma from different patients on the same tissue microarray. Panels for SDFR1 demonstrate staining in adjacent normal and carcinoma cells on the same tissue section. Arrows highlight spindle-shaped stromal cells that stain positive for SDFR1 and PLOD2. No signal was detected for the sense probe for ISH or for control IHC without the primary antibody.
-Question:  What is the technique used to determine CSR gene expression in breast cancer? 
- 
-A:ISH and IHC 
-B:PCR and Western blot 
-C:ELISA and Flow cytometry 
-D:Microarray and Next-generation sequencing  
-Answer:  A:ISH and IHC 

@@ -1,9 +1,0 @@
-Caption: 
-CT scan of the pelvis revealing gas in the bladder and the bladder wall.
-Question:  What is the significance of gas presence in the bladder, as revealed in the diagnosis?
- 
-A: It is normal 
-B: It is a sign of cancer 
-C: It is indicative of an infection 
-D: It indicates bladder injury
-Answer:  A

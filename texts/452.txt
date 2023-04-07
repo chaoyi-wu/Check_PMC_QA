@@ -1,9 +1,0 @@
-Caption: 
-(Left) Correlations between volume and the performance status of CFS patients in the right prefrontal cortex (BA9; Talairach's coordinates: x = 48, y = 32 and z = 41). The colored bar indicates the t-values. (Right) Gray-matter volumes of CFS patients at the voxels of maximum correlation (r = 0.71) plotted against the performance status. The linear-regression line is plotted in blue. a.u., arbitrary units; Rt PFC, right prefrontal cortex.
-Question: What is the correlation coefficient value between performance status and gray-matter volumes in the right prefrontal cortex? 
- 
-A:0.41 
-B:0.71 
-C:0.9 
-D:1.1 
-Answer:  B:0.71

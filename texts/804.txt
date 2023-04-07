@@ -1,9 +1,0 @@
-Caption: 
-CT scan image showing the hepatic metastasis in segment VII.
-Question: What is the medical significance of the hepatic metastasis in segment VII? 
- 
-A:It is benign 
-B:It is not clinically significant 
-C:It is cancerous 
-D:It is unrelated to cancer 
-Answer:  It is cancerous

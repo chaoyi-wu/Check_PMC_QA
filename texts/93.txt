@@ -1,9 +1,0 @@
-Caption: 
-Representative immunostaining of paraffin sections with antibodies against Topoisomerase 2A and Aquaporin 1. (A) Upper panel shows two TOP2A positive cores from GBMs; lower panel shows two negative cores on the same tissue micro-array. (B) Upper panel from left to right: cortex and white matter; lower panel from left to right: spinal cord and hypocampus. All stained with anti-TOP2A antibodies. (C – D) Paraffin section of GBM showing nuclear staining of TOP2A; D shows a higher magnification and E is the corresponding negative control with mouse IgG1 and no primary antibodies. (F – G) Paraffin section of GBM showing cytoplasmatic staining with anti-aquaporin 1 antibodies; G shows a higher magnification and H is the negative control.
-Question:  What does panel F show? 
- 
-A: GBM stained with anti-TOP2A antibodies 
-B: a higher magnification of panel G 
-C: cytoplasmic staining of GBM with anti-aquaporin 1 antibodies 
-D: nuclei staining of GBM with no primary antibodies 
-Answer:  C: cytoplasmic staining of GBM with anti-aquaporin 1 antibodies

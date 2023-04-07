@@ -1,9 +1,0 @@
-Caption: 
-Phase-contrast photomicrographs of fragile X progenitor cells The figure shows clusters/spheres during the initial stages (2–3 days after plating) of adherence to a fibronectin substrate. (A) 4×; (B) 10×; (C) 20×. Confluent serum- and growth factor-expanded cultures were serum deprived for one week in the presence of growth factors, then lifted with enzyme-free buffers and transferred to new plates with no fibronectin substrate. After growing the resulting clusters/spheres for two weeks, the clusters/spheres were transferred to new fibronectin-coated plates. Clusters/spheres (black arrows) are abundant and are seen adhering to the substrate. Cells (black arrowheads) can be seen streaming from the spheres and spreading out on the substrate.
-Question: What is the function of growth factors in this experiment? 
- 
-A: To initiate adherence of the cells to the substrate 
-B: To induce differentiation of the cells 
-C: To promote cell division 
-D: To enable the cells to lift with enzyme-free buffers 
-Answer:  C: To promote cell division

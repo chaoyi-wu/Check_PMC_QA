@@ -1,9 +1,0 @@
-Caption: 
-T2-Weighted Magnetic Resonance Imaging Showing Blood in the Arterial Wall and Narrowing of the Lumen of the Left Internal Carotid ArteryThis is also known as the “crescent sign,” a hallmark of internal carotid artery dissection.
-Question:  What is the "Crescent sign" in internal carotid artery dissection? 
- 
-A: Narrowing of the ear canal 
-B: Blood in the arterial wall and narrowing of the lumen of the left internal carotid artery 
-C: A characteristic moon-like shape in the spinal cord 
-D: Enlarged glandular tissue in the breast 
-Answer:  B: Blood in the arterial wall and narrowing of the lumen of the left internal carotid artery

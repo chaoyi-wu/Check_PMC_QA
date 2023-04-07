@@ -1,9 +1,0 @@
-Caption: 
-Ultrasonographic appearance of the cervical mass showing it to be deceptively circumscribed
-Question:  What does "deceptively circumscribed" mean? 
- 
-A: clearly defined margins of the mass 
-B: the mass appears to be benign 
-C: the mass is not visible on an ultrasound 
-D: the mass has invaded other structures 
-Answer:  B: the mass appears to be benign

@@ -1,9 +1,0 @@
-Caption: 
-Resolution and Contrast Using the Backscattered Electron Signal(A and B) Presynaptic vesicles (SV) and postsynaptic folds (SF) are clearly visible (A) in a motor endplate preparation embedded in Spurr's resin. Similarly, the hexagonal array of actin filaments (AA) can be clearly resolved (B) in a different region from the same image (both images were smoothed using the ImageJ “smooth” command). Imaging conditions for (A) and (B): electron energy, 7.5 keV; spot, 3.5; chamber pressure, 30 Pa (H2O); pixel dwell time, 30 μs. The scanning resolution was 6.7 nm/pixel.(C) The effect of beam exposure on the block surface. Note the increased brightness and the lack of chatter in the central region (inside the dashed rectangle), from which a stack was acquired at higher resolution before taking the image shown. The tissue was rat neocortex embedded in Spurr's resin. Imaging conditions for (C): electron energy, 7.5 keV; spot, 3; digital resolution for stack acquisition, 26.7 nm/pixel; dwell time, 30 μs.(D and E) Cortical tissue embedded in Epon. Synapses (SD) are clearly discernable (E). Imaging conditions for (D) and (E): electron energy, 7.5 keV beam current; spot, 3; chamber pressure, 30Pa (H2O); pixel dwell time, 30 μs. The scanning resolution was 9.5 nm/pixel.Note that more backscattering corresponds to darker pixels in (A), (B), (D), and (E) but to brighter pixels in (C).
-Question: What is the effect of beam exposure on the block surface in image C? 
-
-A:Decreased brightness and increased chatter. 
-B:Increased brightness and no chatter. 
-C:Decreased brightness and no chatter. 
-D:No effect. 
-Answer: B:Increased brightness and no chatter. 

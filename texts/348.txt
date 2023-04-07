@@ -1,9 +1,0 @@
-Caption: 
-CT images taken before and after RFA treatments. The same patient PET images were shown as Figure 1. (A) was taken before RFA treatment, (B) was taken 2 week after RFA treatment.
-Question:  Is Figure 1 part of the patient's medical record? 
- 
-A: Yes, it is 
-B: No, it is not 
-C: It is unclear 
-D: None of the above options 
-Answer:  A: Yes, it is

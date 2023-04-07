@@ -1,9 +1,0 @@
-Caption: 
-Ultrasonographic appearance of the cervical mass showing it to be deceptively circumscribed
-Question:  What is the cervical mass likely to be? 
- 
-A: malignant  
-B: benign  
-C: cystic  
-D: asymptomatic 
-Answer:  A: malignant

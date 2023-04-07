@@ -1,9 +1,0 @@
-Caption: 
-Colonic mucosal inflammation in ulcerative colitis with loss of goblet cells and neutrophilic infiltrate (magnification ×100)
-Question:  What is the magnification used to capture the image above? 
- 
-A: ×40 
-B: ×60 
-C: ×80 
-D: ×100  
-Answer:  D 

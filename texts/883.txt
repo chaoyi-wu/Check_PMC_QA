@@ -1,9 +1,0 @@
-Caption: 
-2A: Pre-surgical T2-weighted STIR-sequence, axial section: superficial tumor covering the laryngeal prominence. 2B: Pre-surgical clinical frontal view of PNF of ventral neck. 2C: Post-surgical T2-weighted STIR-sequence, axial section: scar tissue praelaryngeal visible. 2D: Post-surgical clinical frontal view of laryngeal scar.
-Question: What is the purpose of image 2D in the sequence? 
- 
-A: To show the laryngeal prominence after surgery 
-B: To show the ventral neck after surgery 
-C: To show the scar tissue after surgery 
-D: To show the superficial tumor after surgery  
-Answer:  To show the laryngeal scar after surgery. 

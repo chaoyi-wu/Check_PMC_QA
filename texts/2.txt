@@ -1,9 +1,0 @@
-Caption: 
-A. Real time image of the translocation of ARF1-GFP to the plasma membrane. HeLa cells that had been stably transfected with ARF1-GFP were transiently transfected with myc-ARNO, serum starved overnight, and treated with 100 nM insulin. Images were collected every 30 seconds using a Molecular Dynamics 2001 confocal microscope. The time intervals that were indicated on the upper right hand corner of each panel represent the time after the addition of insulin. B. The translocation of ARF1-GFP to the plasma membrane by the effects of insulin requires ARNO. ARF1-GFP/HeLa cells were transfected with myc-ARNO, treated, fixed, and stained for myc-epitope as described in the Materials and Methods section. Images displaying ARF1-GFP (green) and myc-ARNO (red) were merged us ing Adobe Photoshop software.
-Question:  What cellular process is being studied in this study? 
- 
-A: Apoptosis 
-B: Membrane trafficking 
-C: Mitochondrial function 
-D: DNA replication 
-Answer:  B: Membrane trafficking 

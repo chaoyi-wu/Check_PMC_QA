@@ -1,9 +1,0 @@
-Caption: 
-Computerized Tomography (CT) head showing diffuse cerebral edema with effacement of basal cisterns and generalized loss of gray-white differentiation
-Question:  What is the diagnostic tool used to obtain the image? 
- 
-A: X-ray 
-B: MRI 
-C: CT scan 
-D: Ultrasound 
-Answer:  C: CT scan

@@ -1,9 +1,0 @@
-Caption: 
-3D model of the tetrameric Fab anti-ICAM-1 molecule CFY196 [26]. Each identical subunit is represented by a different color.
-Question:  What is the target of CFY196? 
- 
-A: A virus 
-B: A bacteria 
-C: A gene 
-D: A protein 
-Answer:  D

@@ -1,9 +1,0 @@
-Caption: 
-Vegetation on tricuspid valve by echocardiography. Arrow denotes the vegetation.
-Question:  What is the significance of finding vegetation on the tricuspid valve?
- 
-A: It indicates a higher risk of stroke 
-B: It requires immediate surgical intervention 
-C: It has no clinical significance 
-D: It indicates an underlying infection 
-Answer:  D: It indicates an underlying infection

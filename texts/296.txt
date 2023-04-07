@@ -1,9 +1,0 @@
-Caption: 
-Growth on Lophenol Induces the Accumulation of DAF-16 in the Nuclei of Neurons in a DAF-12–Dependent Manner(A) When grown on cholesterol, the transgenic line DAF-16a::GFP/bKO displays a diffuse staining in the cytoplasm and nuclei of many cells (only the pharynx region of an L3 larva is shown).(B) Staining of a larva of similar age by Hoechst. Note many nuclei in the pharynx.(C) The DAF-16a::GFP/bKO line grown on lophenol shows strong staining of nuclei in neurons of the pharynx, tail, and ventral cord of a dauer larva.(D) An L3 larva of DAF-16a::GFP/bKO in a daf-12 null background grown on lophenol. Note the diffuse fluorescence in the pharynx cell similar to that shown in (A).
-Question:  What is depicted in (B)? 
- 
-A:DAF-16a::GFP/bKO grown on cholesterol stained with Hoechst 
-B:Larva grown on lophenol stained by Hoechst 
-C:DAF-16a::GFP/bKO grown on lophenol stained with Hoechst 
-D:Larva grown on cholesterol stained by Hoechst. 
-Answer:  B: Larva grown on lophenol stained by Hoechst.

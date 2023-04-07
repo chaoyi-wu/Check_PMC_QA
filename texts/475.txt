@@ -1,9 +1,0 @@
-Caption: 
-Kc167 Cells Exposed to dsRNA Targeting Act5C or to Cytochalasin DThe cells were exposed to dsRNA targeting Act5C for 4 d (A) or to cytochalasin D at 5 μM for 48 h (B). Tubulin is shown in red, DNA in green.
-Question: What was the purpose of exposing Kc167 cells to dsRNA targeting Act5C or to cytochalasin D?
- 
-A: To induce apoptosis. 
-B: To cause cell cycle arrest. 
-C: To observe changes in the cytoskeleton. 
-D: To study cellular respiration.
-Answer:  To observe changes in the cytoskeleton. 

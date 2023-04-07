@@ -1,9 +1,0 @@
-Caption: 
-Coronal magnetic resonance imaging demonstrating the tumor beneath the left kidney.
-Question:  Is the imaging technique used invasive or noninvasive? 
- 
-A: Invasive 
-B: Noninvasive 
-C: Partially invasive 
-D: Insufficient information is provided.  
-Answer:  B

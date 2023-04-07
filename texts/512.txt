@@ -1,9 +1,0 @@
-Caption: 
-X-ray showing the intravascular catheter being fluoroscopically removed by means of a special endo-vessel grasper.
-Question:  What is the purpose of the endo-vessel grasper in the X-ray? 
- 
-A: To insert the intravascular catheter 
-B: To clean the catheter 
-C: To remove the catheter 
-D: None of the above 
-Answer:  C

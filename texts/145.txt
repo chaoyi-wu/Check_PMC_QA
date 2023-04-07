@@ -1,9 +1,0 @@
-Caption: 
-Magnetic resonance imaging of brain on hospital day six. T2 weighted image showing obstructive hydrocephalus and ventriculitis.
-Question: What is the name of the imaging technique used in this image? 
- 
-A:X-Ray 
-B:MRI 
-C:CT Scan 
-D:Ultrasound 
-Answer:  B:MRI

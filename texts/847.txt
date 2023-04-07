@@ -1,9 +1,0 @@
-Caption: 
-Clc is expressed in epithelia Transverse sections from E16.5 mouse embryos were hybridized to clc (A, D, G and I), clf (B, E, H and J) or cntfr (C and F). Sections through the kidney (A-C) show that clc is expressed in developing nephrons (arrows), clf in ureteric tips (arrowheads) and cntfr in nephrogenic mesenchyme. Sections through the lung (D-F) show that whereas clf is strongly expressed in both distal (arrowheads) and proximal (arrows) epithelia, clc and cntfr are weakly expressed in distal epithelium. Boxed areas are shown in higher magnification in the corner of each panel. Sections through molar tooth germs (G, H) show that mesenchyma (arrows) surrounding the dental follicle is positive for both clc and clf and that the inner enamel epithelium (arrowheads) expresses only clf. Coronal sections through muzzle (I, J) show that both clc and clf are expressed in the epithelium bordering the mandibles and in between the lips and mandibles (arrow) as well as in follicles of vibrissae (arrowheads); in addition, clf is expressed in mesenchyma (asterisks). a, pulmonary artery; dp, dental papilla; de, dental epithelium; oc, oral cavity; uli, upper lip; lli, lower lip. Bars: 100 μm in A-H, 200 μm in I and J.
-Question: Which gene is expressed in both distal and proximal epithelia of the lung? 
- 
-A: cntfr 
-B:clf 
-C:clg 
-D:clc 
-Answer:  B:clf

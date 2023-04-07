@@ -1,9 +1,0 @@
-Caption: 
-Mammography of the patients' breasts (A: mediolateral oblique, view B: craniocaudal view)
-Question: Which mammography view is used for imaging of some specific areas of breast tissue? 
- 
-A:Mediolateral oblique view 
-B:Oblique view 
-C:Lateral view 
-D:Craniocaudal view 
-Answer:  B:Oblique view

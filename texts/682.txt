@@ -1,9 +1,0 @@
-Caption: 
-Effect of androstendione on endometrial cell proliferation and apoptosis of human endometria. Basal condition (left panel) and androstenedione-treated explants (right panel). The nucleolar antigen Ki-67, evaluated by immunohistochemistry, was detected in the nucleus of both cell compartments (A, D), indicative of cell proliferation. The nucleus of positive cells for TUNEL, determined by TdT-mediated dUTP nick end labeling, were stained in yellow and counterstained with propidium iodide (B, E), showing DNA fragmentation. The positive staining for caspase-3, determined by immunohistochemistry in paraffin wax sections of endometria, was found in the cell cytoplasm of both compartments (C, G). Negative controls (inserts) for inmunohistochemistry was performed with non-immune rabbit serum in the place of the respective primary antibody and for TUNEL, by the replacement of TdT enzyme. Arrowheads indicate positive staining of the respective proteins. Magnification in all panels, ×400.
-Question:  Which cells were analyzed for positive staining of caspase-3? 
- 
-A: Positive cells for TUNEL 
-B: Cell cytoplasm of both compartments 
-C: Non-immune rabbit serum 
-D: Positive staining of nucleolar antigen Ki-67 
-Answer:  B: Cell cytoplasm of both compartments

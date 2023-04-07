@@ -1,9 +1,0 @@
-Caption: 
-Computed tomography of the abdomen four years after Billroth II resection for gastric cancer, revealing an inhomogenous mass in the pancreatic head, 4 cm in diameter. (Picture courtesy the Division of Radiology, German Cancer Research Center, provided by PD Dr. med. S. Delorme).
-Question: What type of resection did the patient undergo for gastric cancer? 
- 
-A: Billroth I resection 
-B: Whipple procedure 
-C: Pancreaticoduodenectomy 
-D: Billroth II resection 
-Answer:  D 

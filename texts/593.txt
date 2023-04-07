@@ -1,9 +1,0 @@
-Caption: 
-CT scan showing a paraesophageal, retrotracheal mass, close to the thoracic inlet
-Question:  What imaging technique was used to visualize the mass?
- 
-A: MRI 
-B: Ultrasound 
-C: PET scan 
-D: CT scan 
-Answer:  D: CT scan

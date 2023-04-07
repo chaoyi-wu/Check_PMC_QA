@@ -1,9 +1,0 @@
-Caption: 
-Patient had persistent pain and stiffness following hydrodilatation. A Plain shoulder radiographs were normal. B STIR MR image showing multiple high signal intensity lesions in the supraspinatus muscle. A presumptive diagnosis of metastatic squamous cell carcinoma was made.
-Question:  Why did the patient have persistent pain and stiffness? 
- 
-A:Due to hydrodilatation 
-B:Due to normal radiographs 
-C:Due to MR images 
-D:Due to metastatic squamous cell carcinoma 
-Answer:  Due to hydrodilatation. 

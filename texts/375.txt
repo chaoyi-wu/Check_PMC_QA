@@ -1,9 +1,0 @@
-Caption: 
-Mucinous deposition of the upper and mid-dermis accompanied by an elevated occurrence of MIB-1+ dermal fibroblasts.
-Question:  What is the characteristic feature of mucinous deposition of the upper and mid-dermis? 
- 
-A:Increased melanocyte count 
-B:Elevated dermal thickness 
-C:Elevated occurrence of MIB-1+ dermal fibroblasts 
-D:Decreased elastin fibers 
-Answer:  C: Elevated occurrence of MIB-1+ dermal fibroblasts.

@@ -1,9 +1,0 @@
-Caption: 
-Mucinous deposition of the upper and mid-dermis accompanied by an elevated occurrence of MIB-1+ dermal fibroblasts.
-Question:  What is MUC2 and what is its role in the development of mucinous deposition? 
- 
-A:It is a fibroblast growth factor and it induces fibroblast proliferation 
-B:It is a glycoprotein and it provides the lubricating properties of mucinous material 
-C:It is a cytokine and it is responsible for the inflammation seen in mucinous deposition 
-D:It is a transcription factor and it controls the expression of genes involved in mucinous deposition 
-Answer:  B:It is a glycoprotein and it provides the lubricating properties of mucinous material.

@@ -1,9 +1,0 @@
-Caption: 
-Metastasis of Primary SCC to Lymph Nodes and Lungs in p19 Arf-Deficient Mice(A) Underside of skin from tumor-bearing mouse shows newly formed blood vessels surrounding tumor site (arrow) and leading to inguinal lymph node (arrowhead).(B) Enlarged inquinal lymph node (left) containing metastatic SCC and blood vessel formation (arrow) compared to normal lymph node (right).(C) H&E stain of carcinoma section with prominent blood vessel (bv). Carcinoma cells (ca) have penetrated blood vessel wall (arrow).(D) H&E stain of lymph node bearing infiltrating SCC cells (arrow) among normal lymphocytes (arrowhead).(E) H&E stain of lymph node bearing metastatic differentiated SCC.(F) Immunostain with pan-keratin antibody of papilloma.(G) Immunostain with pan-keratin antibody of lymph node with metastatic SCC.(H and I) H&E stain of normal lung (arrowhead) with large metastatic SCC deposit (arrow).(J) H&E stain of lung metastasis with secondary site of infiltration (arrow).(D–G, J): 20× magnification. Inserts in (E–G): 40× magnification.
-Question:  Which part of the body did the researchers find metastatic SCC deposits in addition to the lymph nodes? 
- 
-A: Liver 
-B: Kidneys 
-C: Lungs 
-D: Stomach 
-Answer:  C: Lungs

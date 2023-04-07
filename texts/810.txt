@@ -1,9 +1,0 @@
-Caption: 
-CSLM images of S. epidermidis (SE6) intact biofilms (A), disrupted biofilm (B) and planktonic cells (C) on plastic coverslips after incubation for 24 h with 500 μg/ml of vancomycin. The bacterial cells were stained with LIVE/DEAD BacLight bacterial viability stain to directly visualize the effects of the antibiotic. The green fluorescence reflects processing of the dye by metabolically active cells while the red fluorescence is characteristic of dead cells. Note that while the green fluorescence was considerably more prominent in the intact biofilm image, the disrupted biofilm does display more green fluorescence than the planktonic cells. Also, note that the disrupted biofilm consists of large clumps and aggregates compared to the typical clusters of planktonic cells.
-Question:  How were the S. epidermidis biofilm, disrupted biofilm, and planktonic cells imaged? 
- 
-A:confocal laser scanning microscopy (CLSM) 
-B:scanning electron microscope (SEM) 
-C:transmission electron microscope (TEM) 
-D:light microscope (LM) 
-Answer:  A: confocal laser scanning microscopy (CLSM)

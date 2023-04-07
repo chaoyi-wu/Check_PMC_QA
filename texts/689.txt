@@ -1,9 +1,0 @@
-Caption: 
-CT scan of the chest of the patient. Multiple metastatic lesions were seen.
-Question:  What type of lesions were seen?
- 
-A: Metastatic 
-B: Benign 
-C: Malignant 
-D: Cannot determine 
-Answer:  A: Metastatic

@@ -1,9 +1,0 @@
-Caption: 
-Computerized Tomography (CT) head showing diffuse cerebral edema with effacement of basal cisterns and generalized loss of gray-white differentiation
-Question:  What is the characteristic feature of the CT image mentioned in the description? 
- 
-A: Presence of hemorrhage 
-B: Generalized loss of gray-white differentiation 
-C: Prominent basal cisterns 
-D: Absence of cerebral edema 
-Answer:  B: Generalized loss of gray-white differentiation

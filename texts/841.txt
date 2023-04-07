@@ -1,9 +1,0 @@
-Caption: 
-Immunocytochemistry determination of IREG1. Hippocampal neurons and SH-SY5Y cells, labeled with rabbit anti-IREG1 antibody and with Alexa-546-conjugated goat anti-rabbit IgG, were imaged in a confocal microscope. Shown are representative fields of cells cultured at different iron concentrations. Note the preferentially cytosolic distribution of IREG1.
-Question:  Which type of cells were used in the study? 
- 
-A: Epithelial cells 
-B: Muscle cells 
-C: Hippocampal neurons and SH-SY5Y cells 
-D: None of the above. 
-Answer:  C: Hippocampal neurons and SH-SY5Y cells

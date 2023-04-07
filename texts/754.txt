@@ -1,9 +1,0 @@
-Caption: 
-T2-Weighted Magnetic Resonance Imaging Showing Blood in the Arterial Wall and Narrowing of the Lumen of the Left Internal Carotid ArteryThis is also known as the “crescent sign,” a hallmark of internal carotid artery dissection.
-Question:  What makes the "Crescent sign" a hallmark of internal carotid artery dissection? 
- 
-A: Clear visualization of the bones in the affected area 
-B: Clear visualization of the nerves in the affected area 
-C: Clear visualization of the wall of the artery and the lumen 
-D: Clear visualization of the soft tissue in the affected area 
-Answer:  C: Clear visualization of the wall of the artery and the lumen

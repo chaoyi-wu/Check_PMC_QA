@@ -1,9 +1,0 @@
-Caption: 
-CT scan image showing the hepatic metastasis in segment VII.
-Question: Which segment of the liver is affected by the metastasis? 
- 
-A:Segment I 
-B:Segment V 
-C:Segment VII 
-D:Segment IX 
-Answer:  Segment VII

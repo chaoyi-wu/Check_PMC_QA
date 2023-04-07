@@ -1,9 +1,0 @@
-Caption: 
-Magnetic resonance imaging of brain on hospital day six. T2 weighted image showing obstructive hydrocephalus and ventriculitis.
-Question: What is obstructive hydrocephalus? 
- 
-A:Infection of the brain 
-B:Accumulation of fluid within the brain 
-C:Brain tumor 
-D:Blood clot in the brain 
-Answer:  B:Accumulation of fluid within the brain 

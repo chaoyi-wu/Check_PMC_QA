@@ -1,9 +1,0 @@
-Caption: 
-Computed tomography of the abdomen four years after Billroth II resection for gastric cancer, revealing an inhomogenous mass in the pancreatic head, 4 cm in diameter. (Picture courtesy the Division of Radiology, German Cancer Research Center, provided by PD Dr. med. S. Delorme).
-Question: What is the size of the mass in the pancreatic head? 
- 
-A: 3 cm 
-B: 4 cm 
-C: 5 cm 
-D: 6 cm 
-Answer:  B 

@@ -1,9 +1,0 @@
-Caption: 
-Hairy Shows Context-Dependent Association with Its Cofactors(A) Sites of Hairy binding and Hairy cofactor recruitment based on DamID. The gray lines depict the relative position on the chromosomes of the approximately 6200 cDNAs on the microarray chip. The blue dots below the line represent Hairy binding sites while the green (Groucho), red (dCtBP), and yellow (dSir2) dots represent the positions of cofactor recruitment.(B–D) Cofactor recruitment visualized on third instar larval salivary gland chromosomes. Polytene chromosome sets stained (green) with antibodies to Groucho (B), dCtBP (C), and dSir2 (D). All chromosomes were counterstained with DAPI (blue) to visualize the DNA.(E) Higher magnification view of chromosome arms 2L and 2R costained with Groucho (red) and Hairy (green), and the merged image.(F) Higher magnification view of chromosome arm 2L costained with dCtBP (red) and Hairy (green), and the merged image, compared to the predicted DamID map. Note that both the DamID projected map and polytene chromosomes have more dCtBP recruitment sites to the left of the dashed line than to the right of the dashed line.(G) Chromosome arm 3R stained with dSir2 (green), highlighting regional specificity of dSir2 recruitment.(H and I) Higher magnification view of the distal ends of chromosome arms 2R (H) and 3L (I) from (D), stained with dSir2 (green), showing regional specificity and lack of dSir2 recruitment, respectively.
-Question:  Which panel shows a comparison between the DamID projected map and polytene chromosomes? 
- 
-A:panel B 
-B:panel C 
-C:panel D 
-D:panel F 
-Answer:  D: panel F

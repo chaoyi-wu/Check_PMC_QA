@@ -1,9 +1,0 @@
-Caption: 
-Computed tomographic scan of the pelvis showing a large, well-circumscribed presacral mass
-Question:  Based on the description, what is the most likely diagnosis? 
- 
-A: Presacral teratoma 
-B: Ovarian cyst 
-C: Prostate cancer 
-D: Kidney stone 
-Answer:  A

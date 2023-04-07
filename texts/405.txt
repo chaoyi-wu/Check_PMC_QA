@@ -1,9 +1,0 @@
-Caption: 
-Analysis of the thickness of the vessel wall and the inner diameter of the vessel lumen in YP and OP. Figure A indicates YP, Figure B indicates OP.
-Question: What do figures A and B indicate? 
- 
-A: Thickness of vessel wall and inner diameter of lumen in rabbits 
-B: Thickness of vessel wall and inner diameter of lumen in cats 
-C: Thickness of vessel wall and inner diameter of lumen in mice 
-D: Thickness of vessel wall and inner diameter of lumen in dogs  
-Answer:  A: Thickness of vessel wall and inner diameter of lumen in rabbits 

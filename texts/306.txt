@@ -1,9 +1,0 @@
-Caption: 
-Barium swallow in a patient with cystic fibrosis following right pneumonectomy. A – The study demonstrates deviation of esophagus to the right side, and a relatively horizontal lower esophageal segment proximal to the gastro-esophageal junction. B – A pancreatic enzyme capsule emptied of the enzymes and filled with barium (indicated by the arrow) is retained within the lower esophagus for several minutes.
-Question:  What is retained within the lower esophagus for several minutes? 
- 
-A: A piece of bread 
-B: A capsule filled with enzyme 
-C: A capsule filled with vitamin D 
-D: A capsule filled with saline. 
-Answer:  B - A capsule filled with enzyme.

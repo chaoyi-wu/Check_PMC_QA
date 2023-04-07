@@ -1,9 +1,0 @@
-Caption: 
-Analysis of the thickness of the vessel wall and the inner diameter of the vessel lumen in YP and OP. Figure A indicates YP, Figure B indicates OP.
-Question: What is YP and OP? 
- 
-A: Operations for rabbits 
-B: Different types of rabbits 
-C: Two groups of rabbits with different diets 
-D: Two groups of rabbits with different exercise routines  
-Answer:  C: Two groups of rabbits with different diets 

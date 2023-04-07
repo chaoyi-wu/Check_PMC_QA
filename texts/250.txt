@@ -1,9 +1,0 @@
-Caption: 
-Mammography of the patients' breasts (A: mediolateral oblique, view B: craniocaudal view)
-Question: Which view is used in mammography for the patient's breast from a medial to lateral perspective? 
- 
-A:Craniocaudal view 
-B:Lateral view 
-C:Anteroposterior view 
-D:Oblique view 
-Answer:  A:Craniocaudal view

@@ -1,9 +1,0 @@
-Caption: 
-Upper endoscopy picture shows opening in the posterior part of the corpus with edematous margin with dissemination of serous fluid and necrotic material in to the stomach.
-Question:  What type of material is being disseminated into the stomach? 
- 
-A: bile only 
-B: serous fluid and necrotic material 
-C: pus 
-D: saliva 
-Answer:  B: serous fluid and necrotic material 

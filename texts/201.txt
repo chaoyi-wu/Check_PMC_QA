@@ -1,9 +1,0 @@
-Caption: 
-Transposition of the type 1 IP3R with the Double Barrel Transposon (<DBT>). Transient expression in HEK-293 cells allows identification of in-frame insertions producing truncated GFP- (A) or DsRed- (B) IP3R fusion proteins. Digestion and subsequent re-ligation produces a full-length fluorescent IP3R fusion protein (C) (Scale bar = 20 μm).
-Question:  What does transient expression in HEK-293 cells allow identification of? 
- 
-A: DNA origins. 
-B: Gradual insertion. 
-C: Full-length fusion proteins. 
-D: Ribonucleotides. 
-Answer:  C: Full-length fusion proteins. 

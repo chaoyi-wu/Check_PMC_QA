@@ -1,9 +1,0 @@
-Caption: 
-FRAP of HP1–GFP Reveals a Dynamic Association with HeterochromatinA fraction of a heterochromatic cluster (arrowhead) was bleached by a laser pulse, and recovery of fluorescence was monitored by time-lapse imaging. Images were kindly provided by Thierry Cheutin and Tom Misteli.
-Question: What did the experiment reveal about the association of HP1-GFP with heterochromatin? 
- 
-A: A dynamic association 
-B: A static association 
-C: No association 
-D: No conclusion could be made 
-Answer:  A: A dynamic association

@@ -1,9 +1,0 @@
-Caption: 
-Anterior-posterior angiogram of right common carotid artery injection of a Papio anubis with a 6 Fr catheter in place both (A.) during vessel spasm on catheter, and (B.) 10 minutes after infusion of intraluminal verapamil (2 mg). Overlay images showing 6 Fr catheter position in CCA (gold) during spasm (C.) and after alleviation with verapamil (D.). Arrows (→) indicate tip of catheter.
-Question:  What does the arrow (→) in the image signify? 
- 
-A: Position of verapamil injection 
-B: Site of vessel spasm 
-C: Position of catheter tip 
-D: Location of the animal's heart. 
-Answer:  C: Position of catheter tip.

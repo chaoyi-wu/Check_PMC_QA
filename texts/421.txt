@@ -1,9 +1,0 @@
-Caption: 
-CT scan of the pelvis revealing gas in the bladder and the bladder wall.
-Question:  Which part of the body was scanned in the described diagnosis?
- 
-A: Abdomen 
-B: Chest 
-C: Pelvis 
-D: Head
-Answer:  C

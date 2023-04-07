@@ -1,9 +1,0 @@
-Caption: 
-Emerging leaf tips (yellow arrow) and hypocotyl (orange arrows) of an Arabidopsis mutant
-Question: What is the color of the emerging leaf tips in the image?
- 
-A:Green  
-B:Red  
-C:Blue  
-D:Yellow 
-Answer:  D:Yellow 

@@ -1,9 +1,0 @@
-Caption: 
-CT scan of the abdomen showing the involvement of abdominal wall muscles and adhesions to neighboring intestines.
-Question: What abnormality was identified in the abdominal wall muscles? 
- 
-A:Tumor 
-B:Swelling 
-C:Lesion 
-D:Involvement 
-Answer:  D:Involvement

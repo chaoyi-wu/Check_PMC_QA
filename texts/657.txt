@@ -1,9 +1,0 @@
-Caption: 
-Imaging and software power of micro CT. Pure COM stone viewed by conventional photography (A) and micro CT (B-D). B shows a typical micro CT image slice, C a 3-D reconstruction of the stone surface, and D a wedge cut that displays the internal 3-D morphology of the stone.
-Question:  What is the main advantage of using micro CT imaging over conventional photography? 
- 
-A: lower cost 
-B: better resolution 
-C: faster processing time 
-D: larger image size 
-Answer:  B: better resolution

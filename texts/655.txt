@@ -1,9 +1,0 @@
-Caption: 
-Imaging and software power of micro CT. Pure COM stone viewed by conventional photography (A) and micro CT (B-D). B shows a typical micro CT image slice, C a 3-D reconstruction of the stone surface, and D a wedge cut that displays the internal 3-D morphology of the stone.
-Question:  Which of the following is NOT a type of image displayed in this research? 
- 
-A:typical micro CT image slice 
-B:confocal image 
-C: 3-D reconstruction of the stone surface 
-D:wedge cut that displays the internal 3-D morphology of the stone.  
-Answer: B: confocal image

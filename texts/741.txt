@@ -1,9 +1,0 @@
-Caption: 
-Identification of adrenal agenesis using multi-embryo MRI Images of coronal sections from 2 embryos obtained using the multi-embryo technique (a, b) compared with images from the same embryos obtained subsequently using the single embryo technique (a', b'). (a, a') Normal right adrenal gland (rad) anterior to the right kidney (rk) in a wild-type embryo. The right lung (rl) is indicated. (b, b') Agenesis of right adrenal gland in a Cited2-/- embryo. Scale bars = 635 μm for multi-embryo, and 317 μm for single embryo images; axes: d – dorsal; v – ventral; a – anterior, p – posterior.
-Question:  What is the difference between images a and a'?
- 
-A: Image a shows a wild-type embryo, while a' shows a Cited2-/- embryo. 
-B: Image a shows the left adrenal gland, while a' shows the right adrenal gland. 
-C: Image a was obtained using the single-embryo technique, while a' was obtained using the multi-embryo technique. 
-D: Image a shows the posterior section of the embryo, while a' shows the anterior section.
-Answer:  C: Image a was obtained using the single-embryo technique, while a' was obtained using the multi-embryo technique.

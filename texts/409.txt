@@ -1,9 +1,0 @@
-Caption: 
-Analysis of the thickness of the vessel wall and the inner diameter of the vessel lumen in YP and OP. Figure A indicates YP, Figure B indicates OP.
-Question: What is the conclusion of the study? 
- 
-A: YP has better results than OP 
-B: OP has better results than YP 
-C: YP and OP have the same results 
-D: No conclusion was made  
-Answer:  A: YP has better results than OP

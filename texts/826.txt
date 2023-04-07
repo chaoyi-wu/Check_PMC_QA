@@ -1,9 +1,0 @@
-Caption: 
-Preoperative Sister Mary Joseph's nodule ultrasonography: 4 × 4 cm mass confined below the umbilicus (arrows). The main lesion is partly hyperechoic and partly hypoechoic with a poorly defined edge.
-Question:  Where is the mass located? 
- 
-A: Above the umbilicus 
-B: Inside the umbilicus 
-C: Below the umbilicus 
-D: Beside the umbilicus 
-Answer:  C: Below the umbilicus 

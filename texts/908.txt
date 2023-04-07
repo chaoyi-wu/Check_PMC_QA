@@ -1,9 +1,0 @@
-Caption: 
-Re-Biopsy Studies(A.) Patient 1. CT-guided biopsy of progressing lung lesions after 10 mo on gefitinib (left panel). Two months later, fluid from a right-sided pleural effusion (right panel) was collected for molecular analysis.(B) Patient 2. CT-guided biopsy of a progressing thoracic spine lesion (left panel) and fluoroscopic-guided biopsy of a progressing lung lesion (right panel). The biopsy needles are indicated by white arrows.
-Question: What was collected for molecular analysis from Patient 1? 
- 
-A:Tissue from a lung lesion 
-B:Fluid from a pleural effusion 
-C:Blood sample 
-D:Urine sample 
-Answer:  B:Fluid from a pleural effusion

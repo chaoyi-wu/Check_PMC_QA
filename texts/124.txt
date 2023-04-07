@@ -1,9 +1,0 @@
-Caption: 
-Analysis of Nuclear Migration and Fragmentation by Time-Lapse Microscopy(A) Single frames illustrating the migration of three nuclei (yellow arrows) along a myofiber, of which two are incorporated into a terminal aggregate by 11.4 h. One nucleus (green arrow) remained stationary during this period.(B) Single frames illustrating the production of viable multinucleate fragments from a myofiber. Note the presence of a trinucleate aggregate (arrowed green) that separates after lateral breakage of the fiber (0 min, arrowed yellow). This fragment subsequently extends cytoplasmic processes (14.3 and 15.4 h) and migrates over the culture substratum.Series (A) and (B) begin at 6 h after plating. Scale bars: (A) 50 μm; (B) 200 μm.
-Question: What does panel B illustrate? 
- 
-A: Migration of nuclei along a myofiber 
-B: Lateral breakage of a fiber 
-C: Extension of cytoplasmic processes 
-D: Production of viable multinucleate fragments from a myofiber 
-Answer:  D: Production of viable multinucleate fragments from a myofiber

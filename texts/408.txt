@@ -1,9 +1,0 @@
-Caption: 
-Analysis of the thickness of the vessel wall and the inner diameter of the vessel lumen in YP and OP. Figure A indicates YP, Figure B indicates OP.
-Question: What does the inner diameter of the vessel lumen represent? 
- 
-A: The thickness of the vessel wall 
-B: The resistance of the artery 
-C: The size of the artery 
-D: The elasticity of the artery  
-Answer:  C: The size of the artery 

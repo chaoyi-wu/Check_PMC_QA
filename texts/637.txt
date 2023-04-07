@@ -1,9 +1,0 @@
-Caption: 
-Microscopic appearance of the penile lesion demonstrating a nest of atypical malignant cells (hematoxylin-eosin stain).
-Question:  What body part does the lesion appear on? 
- 
-A: Arm 
-B: Leg 
-C: Penis 
-D: Torso 
-Answer:  C 

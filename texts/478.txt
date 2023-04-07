@@ -1,9 +1,0 @@
-Caption: 
-Kc167 Cells Exposed to dsRNA Targeting Act5C or to Cytochalasin DThe cells were exposed to dsRNA targeting Act5C for 4 d (A) or to cytochalasin D at 5 μM for 48 h (B). Tubulin is shown in red, DNA in green.
-Question: What is the color of Tubulin in the images?
- 
-A: Green 
-B: Red 
-C: Blue 
-D: Yellow
-Answer:  Red

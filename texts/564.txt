@@ -1,9 +1,0 @@
-Caption: 
-A – Chest radiograph of a patient with Pneumocystis jiroveci pneumonia showing bilateral, diffuse interstitial infiltrates B – Contrast enhanced computed tomographic (CT) scan of chest showing mediastinal lymphadenopathy in a patient with disseminated tuberculosis. Typical central necrosis evident as low attenuation areas (arrows) is seen C – Contrast enhanced CT scan of brain showing ring enhancing lesions in the basal ganglia bilaterally (arrows). Serology was positive for toxoplasma infection D – Ophthalmoscopic image of a patient with cytomegalovirus retinitis E – Non-Hodgkin's lymphoma in a HIV-infected lady presenting as unilateral maxillary swelling F – Contrast enhanced CT scan of abdomen reveals an oedematous and enlarged pancreas (asterisk) suggestive of acute pancreatitis. The patient was on didanosine and improved following withdrawal of the same and supportive treatment.
-Question:  Which medication is strongly associated with acute pancreatitis in patients with human immunodeficiency virus infection? 
- 
-A: Abacavir 
-B: Efavirenz 
-C: Didanosine 
-D: Tenofovir 
-Answer:  C: Didanosine

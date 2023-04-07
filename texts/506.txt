@@ -1,9 +1,0 @@
-Caption: 
-CT scan of the abdomen showing the involvement of abdominal wall muscles and adhesions to neighboring intestines.
-Question: What body part was scanned in order to diagnose the condition? 
- 
-A:Head and neck 
-B:Chest 
-C:Abdomen 
-D:Legs 
-Answer:  C:Abdomen

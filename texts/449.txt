@@ -1,9 +1,0 @@
-Caption: 
-Sagittal MRI image of brain at first cerebral relapse demonstrating an enhancing left parasagittal lesion with surrounding cerebral oedema.
-Question: What is the likely diagnosis based on the imaging findings? 
- 
-A:Brain metastasis 
-B:Meningioma 
-C:Glioblastoma 
-D:Multiple sclerosis 
-Answer:  C: Glioblastoma

@@ -1,9 +1,0 @@
-Caption: 
-NaK2Cl cotransporter expression in human CP: Lateral ventricle plexuses were incubated with T4 (not thyroxine) antibody, which stains the secretory isoform 1 of the NaK2Cl (NKCC1) cotransporter protein. The T4 antibody (mouse monoclonal; 1:100) was from the University of Iowa Developmental Studies Hybridoma Bank (Iowa City, IA); the biotinylated secondary was a rat-absorbed horse antibody. Diaminobenzidine was used to develop the brown reaction product. Controls (negative staining results; not shown) involved omission of secondary and/or primary antibody. AD tissues were from patients at Braak stage V/VI (top right) and III/IV (bottom right). Images are representative of 6 CPs analyzed for AD (mean age of 76 yr) and 6 for age-matched controls (mean age of 76 yr). On average, the staining intensity of AD specimens was 50% greater than controls. The text describes staining localization. All photographs are at the same magnification.
-Question:  What is the purpose of the T4 antibody used in the study? 
- 
-A: To stain the NKCC2 cotransporter protein. 
-B: To stain the secretory isoform 1 of the NaK2Cl cotransporter protein. 
-C: To stain the T4 thyroid hormone. 
-D: To stain the bicarbonate transporter protein. 
-Answer:  B: To stain the secretory isoform 1 of the NaK2Cl cotransporter protein.

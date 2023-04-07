@@ -1,9 +1,0 @@
-Caption: 
-A 58 year old man, who 8 years ago underwent left hepatectomy and cholecistectomy, for complicated intrahepatic biliary stones, presented with jaundice and weight loss. Enhanced CT scan showed marked intrahepatic biliary dilation.
-Question: What imaging modality was used to diagnose the patient's condition? 
- 
-A:Magnetic resonance imaging (MRI) 
-B:X-ray 
-C:Computed tomography (CT) 
-D:Ultrasound 
-Answer:  C

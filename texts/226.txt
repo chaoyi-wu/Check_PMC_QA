@@ -1,9 +1,0 @@
-Caption: 
-Computerized Tomography (CT) head showing diffuse cerebral edema with effacement of basal cisterns and generalized loss of gray-white differentiation
-Question:  What part of the body is shown in the image? 
- 
-A: Abdomen 
-B: Head 
-C: Chest 
-D: Arm 
-Answer:  B: Head

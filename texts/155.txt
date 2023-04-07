@@ -1,9 +1,0 @@
-Caption: 
-Echocardiographic apical four-chamber images (end-systolic frames) from two patients with and without contractile reserve.
-Question:  What kind of images were used in this study?
- 
-A:Transvaginal 
-B:Endocavitary 
-C:Apical four-chamber 
-D:Intercostal  
-Answer:  C: Apical four-chamber 

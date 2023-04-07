@@ -1,9 +1,0 @@
-Caption: 
-MRI at diagnosis (case one).
-Question:  What did the MRI show for the patient in case one? 
- 
-A: A large mass in the knee. 
-B: A small mass in the foot. 
-C: A fracture in the leg. 
-D: A spine injury. 
-Answer:  A

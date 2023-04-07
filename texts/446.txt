@@ -1,9 +1,0 @@
-Caption: 
-Sagittal MRI image of brain at first cerebral relapse demonstrating an enhancing left parasagittal lesion with surrounding cerebral oedema.
-Question: What is the name of the type of image seen in this case? 
- 
-A:Transverse image 
-B:Coronal image 
-C:Sagittal image 
-D:Axial image 
-Answer:  C: Sagittal image

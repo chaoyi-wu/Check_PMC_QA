@@ -1,9 +1,0 @@
-Caption: 
-Immunocytochemistry determination of IREG1. Hippocampal neurons and SH-SY5Y cells, labeled with rabbit anti-IREG1 antibody and with Alexa-546-conjugated goat anti-rabbit IgG, were imaged in a confocal microscope. Shown are representative fields of cells cultured at different iron concentrations. Note the preferentially cytosolic distribution of IREG1.
-Question:  What is the main method used to determine IREG1 in the study? 
- 
-A: Western blotting 
-B: Immunocytochemistry 
-C: ELISA 
-D: PCR 
-Answer:  B: Immunocytochemistry

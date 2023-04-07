@@ -1,9 +1,0 @@
-Caption: 
-Delayed chlorophyll fluorescence images. Luminescence from leaves of Arabidopsis (A) and Tradescantia (B). Images are 5-minute exposures taken as soon as possible after transfer of leaves to the equipment. A conventional photograph of the Tradescantia leaf imaged in (B) is shown to illustrate the pattern of variegation (C).
-Question: What kind of images are these? 
- 
-A:X-ray images 
-B:Delayed chlorophyll fluorescence images 
-C:MRI images 
-D:CAT scans images 
-Answer:  B:Delayed chlorophyll fluorescence images

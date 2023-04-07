@@ -1,9 +1,0 @@
-Caption: 
-Representative micrographs from the ovary of immature rats primed with eCG at 21 (A-D, G, H) or 23 (E, F) days of age, stained with hematoxylin and eosin. A, luteinized follicle showing trapped COC and release of follicular fluid (FF) to the ovarian interstitium. The rupture of the theca layers are indicated by arrows. B, COC released to the ovarian interstitium, in a lacunae of follicular fluid (FF). Clusters of granulosa cells are indicated by open arrows. C, D, COCs in the lymphatic (A) or blood (D) vessels at the ovarian hilus (OH). E, F, COC inside a blood vessel located in the periovarian fat pad (PFP) near the ovarian hilus (OH). The framed area is shown at higher magnification in F showing rupture of the blood vessel and escape of red blood cells (arrows). G, H, Non-consecutive serial sections showing a COC released to the bursal cavity (BC), adhered to the ovarian bursa. Degradation of the ovarian bursa by follicular fluid and granulosa cells (open arrows) and invasion (arrows) of the periovarian fat pad (PFP) can be observed.
-Question:  In which image(s) can COC(s) be seen inside a blood vessel? 
- 
-A:A 
-B:B and D 
-C:C and D 
-D:E and F  
-Answer:  D:E and F

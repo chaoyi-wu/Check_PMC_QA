@@ -1,9 +1,0 @@
-Caption: 
-Computed tomography of the abdomen four years after Billroth II resection for gastric cancer, revealing an inhomogenous mass in the pancreatic head, 4 cm in diameter. (Picture courtesy the Division of Radiology, German Cancer Research Center, provided by PD Dr. med. S. Delorme).
-Question:  Who provided the image of the mass in the pancreatic head? 
- 
-A: PD Dr. med. S. Delorme 
-B: The patient's surgeon 
-C: The patient's primary care physician 
-D: The Division of Oncology, German Cancer Research Center 
-Answer:  A

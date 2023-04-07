@@ -1,9 +1,0 @@
-Caption: 
-Time-Lapse Imaging of Astrocytes In VivoFour astrocytes, from which fluorometric Ca2+ imaging (0.5 Hz) was made, are outlined. A blood vessel, outlined by the astrocyte end feet, runs diagonally across the viewed area. White arrows show the end foot connected to the imaged astrocyte.
-Question:  What is the role of the white arrows in the image? 
- 
-A: To indicate the direction of blood flow. 
-B: To show the position of the blood vessel. 
-C: To highlight the astrocyte end feet. 
-D: To outline the entire astrocyte. 
-Answer:  C: To highlight the astrocyte end feet.

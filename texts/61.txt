@@ -1,9 +1,0 @@
-Caption: 
-GOF Planar Polarity Wing Phenotype of Fz1/2 Chimeras dpp-Gal4 was used to express the respective Fz1/2 chimeras in the wing (same as described in Figure 2).(A) Wild-type wing. The dpp-Gal4 expression domain is highlighted by a thick orange line. In wild-type, all wing hairs are pointing distally.(B) dpp-Gal4; UAS-EGFP/UAS-fz1–1-1 wing (dpp>fz1–1-1; the expression domain is again highlighted with light orange). Wing hairs flanking the expression domain point away from it, consistent with previous observations that hair point away from higher levels of Fz1 activity (Adler et al. 1997).(C) dpp>fz1–2-2 wing. Wing hairs are not pointing away from expression domain, suggesting that Fz1–2-2 is not active for PCP signaling.(D) dpp>fz1–1-2 wing. Hairs point away only very slightly (less than 45 o; compare with Fz1–1-1, showing a 90 o reorientation next to expression domain). Several different lines of UAS-fz1–1-1 and UAS-fz1–1-2 were compared, showing identical behavior (Fz1–1-1 having a much stronger phenotype), suggesting that the C-tail is required for full PCP Fz activity.(E) dpp>fz2–1-1 wing. Most wing hairs point away from expression domain. The phenotype is weaker than Fz1–1-1.(F) dpp>fz1–2-1 wing. Wing hair orientation is hardly affected. Since Fz1–2-1 is apically localized (see Figure 2E), this result indicates that the presence of the Fz1 7-TM region is important for PCP activity.
-Question:  What is the result of using dpp>fz1-2-2 wing? 
- 
-A: The wing hairs are pointing distally. 
-B: The wing hairs are pointing away from the expression domain. 
-C: The wing hair orientation is hardly affected. 
-D: The wing hair points away only very slightly. 
-Answer:  C: The wing hair orientation is hardly affected.

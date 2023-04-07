@@ -1,9 +1,0 @@
-Caption: 
-Abdominal ultrasound showing multiple hypoechoiec (short arrow) and hyperechoeic lesions (long arrow) in the liver
-Question:  What is the location of the lesions in the image? 
- 
-A:Lung 
-B:Kidney 
-C:Liver 
-D:Brain 
-Answer:  C:Liver

@@ -1,9 +1,0 @@
-Caption: 
-Isolation of an alveolar septum by laser-assisted microdissection and manipulation from a hemalaun stained frozen lung section (magnification 200×). A) Alveolar septum is selected for isolation. B) Laser photolysis is used to disconnect the cells from adjacent ones. C) Septum cells adhere tightly to the approximated sterile needle and can be transferred into a reaction tube.
-Question: What is the staining method used for the frozen lung section? 
- 
-A:Hematoxylin and eosin 
-B:Masson's trichrome 
-C:Periodic acid-Schiff 
-D:Van Gieson's stain 
-Answer:  A:Hematoxylin and eosin. 

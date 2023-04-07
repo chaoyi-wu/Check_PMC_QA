@@ -1,9 +1,0 @@
-Caption: 
-Computer-aided estimate of the surface fractal dimension (Ds) of a vascular network in 2-D biopsy sections. A. Hepatocellular carcinoma section stained with antibodies raised against CD31 (Dako, Milan, Italy) that specifically react with vessels. B. Image segmentation: immunopositive vessels are specifically selected on the basis of the similarity of the color of adjacent pixels. C. Determination of Ds using the box-counting algorithm. Briefly, the method counts the number of boxes of length ε required to cover the object being measured, indicated as N(ε). D. Prototypical curve obtainable using the box-counting method that highlights the so-called fractal windows ranged by box size ε1 and ε2, and represents the appropriate region in which to estimate the dimension. Box sizes of more than ε2 approach the size of the image until one box covers it completely, at which point N(ε) = 1 and the slope = 0. Box sizes smaller than ε1 approach a single pixel or the resolution of the image: in this region, box counting simply gives the area of the image.
-Question:  What does the box-counting method in determining the surface fractal dimension entail? 
- 
-A: Counting the number of pixels in an image 
-B: Counting the number of regions in an image 
-C: Counting the number of boxes required to cover the object being measured 
-D: Counting the number of pixels in a selected area  
-Answer:  C: Counting the number of boxes required to cover the object being measured

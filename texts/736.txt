@@ -1,9 +1,0 @@
-Caption: 
-Isolated overexpression of Xmab21l2 produces partially dorsalized embryos. A, C, E: control-injected embryos; B, D, F: Xmab21l2-injected embryos. A–D: tailbud-tadpole stages; E, F: gastrula stage. In B: external appearance of Xmab21l2-injected embryos. D: horizontal section of an Xmab21l2-injected section stained with orange-G/aniline blue. Note enlarged notocord (nc). F: expanded and enhanced Chordin expression in Xmab21l2-injected gastrulae (blue signal).
-Question:  Which stages were observed in both control and Xmab21l2-injected embryos? 
- 
-A: Tailbud-tadpole stages. 
-B: Gastrula stage. 
-C: Blastula stage. 
-D: Fertilization stage. 
-Answer:  A: Tailbud-tadpole stages.

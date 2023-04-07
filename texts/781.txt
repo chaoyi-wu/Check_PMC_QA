@@ -1,9 +1,0 @@
-Caption: 
-Scanning electron micrograph survey of pumice granules and biofilm development. Before colonisation (A) pumice granules are blank. After 6 month of operation (B), rod shaped cells cover the pumice surface. In the 12 month biofilm, an abundant exopolymeric matrix is visible on pumice granules both at the bottom (C) and top (D) of the column.
-Question:  How long did it take for the rod shaped cells to cover the pumice surface? 
- 
-A: 3 months 
-B: 6 months 
-C: 9 months 
-D: 12 months 
-Answer:  B: 6 months

@@ -1,9 +1,0 @@
-Caption: 
-(a) Duodenoscopy showing a 3 × 3 cm protruding tumor with two ulcerations located opposite the ampulla of Vater in the second portion of the duodenum. (b) Hypotonic duodenography showing the donuts-shape tumor in the duodenum.
-Question: What is the diagnostic test used to visualize the tumor in the second portion of the duodenum?
- 
-A:Duodenoscopy 
-B:Hypotonic colography 
-C:Mammography 
-D:Cystoscopy 
-Answer:  A:Duodenoscopy

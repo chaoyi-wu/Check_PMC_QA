@@ -1,9 +1,0 @@
-Caption: 
-Emerging leaf tips (yellow arrow) and hypocotyl (orange arrows) of an Arabidopsis mutant
-Question: What does hypocotyl refer to in a plant?
- 
-A:A region of stem below the cotyledons  
-B:The plant's roots  
-C:The plant's leaves  
-D:The stem of the flower 
-Answer:  A:A region of stem below the cotyledons

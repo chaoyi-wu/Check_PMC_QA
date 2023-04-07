@@ -1,9 +1,0 @@
-Caption: 
-The histological examination of the removed specimen (right hemicolectomy specimen) revealed actinomyces colonies in the upper part of the cecum and the ascending colon wall. The large spherical clusters, densely packed and branching, and PAS positive "sulfur granules" are specific of actinomycosis.
-Question:  Where in the colon were the actinomyces colonies located? 
- 
-A: transverse colon 
-B: descending colon wall 
-C: ascending colon wall and upper part of the cecum 
-D: sigmoid colon 
-Answer:  C: ascending colon wall and upper part of the cecum

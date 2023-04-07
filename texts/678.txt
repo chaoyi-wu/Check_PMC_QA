@@ -1,9 +1,0 @@
-Caption: 
-Normal interphase progression following manipulation of the size of a daughter cell. A lateral region near the pole was cut away from one of the daughter cells at the end of cytokinesis (cutting site indicated by the dotted line, a). Subsequent time lapse imaging revealed a normal interphase duration in both daughter cells (b, c). Time elapsed since cutting is shown in hours:minutes. Bar, 20 μm.
-Question: What was the size of the daughter cells? 
- 
-A: Equal 
-B: Different 
-C: Cannot be determined 
-D: Not specified in the content 
-Answer:  A: Equal

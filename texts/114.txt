@@ -1,9 +1,0 @@
-Caption: 
-Abdominal ultrasound showing multiple hypoechoiec (short arrow) and hyperechoeic lesions (long arrow) in the liver
-Question:  What could the presence of multiple lesions suggest? 
- 
-A:Benign liver tumors 
-B:Liver metastases 
-C:Inflammatory liver disease 
-D:Normal variant 
-Answer:  B:Liver metastases

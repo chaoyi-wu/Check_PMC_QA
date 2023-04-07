@@ -1,9 +1,0 @@
-Caption: 
-Immunohistochemical staining of VEGF-C in biopsied specimens (upper panel) and hematoxylin-eosin (H&E) staining, immunohistochemical staining of cytokeratin and VEGF-C in metastastic lymph node (middle and lower panel). a, VEGF-C positive type in biopsied specimens. b, VEGF-C negative type in biopsied specimens. c, f, hematoxylin-eosin (H&E) staining in metastastic lymph node. d, g, immunohistochemical staining of cytokeratin in metastastic lymph node. e, VEGF-C positive type in metastastic lymph node. h, VEGF-C negative type in metastastic lymph node.
-Question: What is shown in panel e? 
- 
-A:VEGF-C positive type in biopsied specimens 
-B:VEGF-C negative type in biopsied specimens 
-C:VEGF-C positive type in metastatic lymph node 
-D:VEGF-C negative type in metastatic lymph node 
-Answer:  C:VEGF-C positive type in metastatic lymph node

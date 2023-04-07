@@ -1,9 +1,0 @@
-Caption: 
-The histological examination of the removed specimen (right hemicolectomy specimen) revealed actinomyces colonies in the upper part of the cecum and the ascending colon wall. The large spherical clusters, densely packed and branching, and PAS positive "sulfur granules" are specific of actinomycosis.
-Question:  What is the significance of finding actinomyces colonies in the colon wall? 
- 
-A: They are a common commensal of the colon flora 
-B: They indicate a viral infection 
-C: They indicate a fungal infection 
-D: They can cause invasive disease and abscess formation 
-Answer:  D: They can cause invasive disease and abscess formation

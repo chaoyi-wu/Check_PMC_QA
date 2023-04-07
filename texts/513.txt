@@ -1,9 +1,0 @@
-Caption: 
-X-ray showing the intravascular catheter being fluoroscopically removed by means of a special endo-vessel grasper.
-Question:  What is the location of the intravascular catheter in the X-ray? 
- 
-A: It's not visible in the X-ray 
-B: It is in the lungs 
-C: It is in the stomach 
-D: It is intravascular 
-Answer:  D

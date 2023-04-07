@@ -1,9 +1,0 @@
-Caption: 
-MRI at diagnosis (case one).
-Question:  What was the final diagnosis for the patient in case one? 
- 
-A: Osteosarcoma. 
-B: Osteoblastoma. 
-C: Chondrosarcoma. 
-D: Ewing sarcoma. 
-Answer:  A

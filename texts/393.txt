@@ -1,9 +1,0 @@
-Caption: 
-Recapitulation of human xanthinuria type 1 by rosy mutants. (a) Wild-type tubule; (b) tubule from adult ry2 homozygous fly. Both micrographs are at the same magnification, and the diameter of the wild-type tubule can be taken as 35 μm.
-Question:  What is the condition that is being recapitulated in the rosy mutants? 
- 
-A: Hyperglycemia 
-B: Xanthinuria type 2 
-C: Xanthinuria type 1 
-D: Hypoglycemia 
-Answer:  C: Xanthinuria type 1

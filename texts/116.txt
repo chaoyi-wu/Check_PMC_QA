@@ -1,9 +1,0 @@
-Caption: 
-Col Expression during Lymph Gland Ontogeny(A) Col expression in lymph gland precursors is first observed in two separate clusters of cells (black arrows) in the dorsal-most mesoderm of thoracic segments T2 and T3 at stage 11 (stages according to Campos-Ortega and Hartenstein [1997]). Col expression in the head region is ectodermal (parasegment 0) and related to its function in head segmentation (Crozatier et al. 1999).(B and C) The clusters of Col-expressing cells get closer between stage 12 and early stage 13 (B) before coalescing (C).(D and E) Col expression becomes progressively restricted to the posterior-most cells of the forming lymph glands (arrowhead) during stage 14, as shown by the partial overlap between Odd-skipped (Odd) and Col expression.(F and G) Enlarged view of lymph glands after completion of embryogenesis, stage 16. Col expression marks the prospective PSC (Lebestky et al. 2003) in a dorsal-posterior position (arrowheads).(H) Schematic representation of Col expression in the lymph glands and pericardial cells in stage 16 embryos.(I) A srp6G mutant embryo arrested at stage 13. Col is expressed in the presumptive lymph gland primordium (black arrow), although it is not possible to distinguish between high and low levels of expression. All embryos are oriented anterior to the left. (A–C), (G), and (I) are lateral views; (D–F) are dorsal views. (B), (C), and (E–G) are higher magnifications of the dorsal thoracic region. White arrows in (A) and (I) indicate Col expression in a developing dorsal muscle (Crozatier and Vincent 1999).
-Question:  What is the function of Col expression in the head region during lymph gland ontogeny? 
- 
-A: To mark the prospective PSC. 
-B: To mark the presumptive lymph gland primordium. 
-C: To function in head segmentation. 
-D: To become restricted to the posterior-most cells of the forming lymph glands. 
-Answer:  C 

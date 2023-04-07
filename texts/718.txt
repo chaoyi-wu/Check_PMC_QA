@@ -1,9 +1,0 @@
-Caption: 
-The results of chest HRCT examination in a SARS patient in the convalescent phase, showing marked reversal of pulmonary fibrosis.
-Question:  What does marked reversal of pulmonary fibrosis mean?
- 
-A: The scarring has progressed further 
-B: The scarring has disappeared completely 
-C: The scarring has decreased significantly 
-D: The scarring has caused complete malfunction of the lungs 
-Answer:  C 

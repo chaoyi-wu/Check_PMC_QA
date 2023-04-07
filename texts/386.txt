@@ -1,9 +1,0 @@
-Caption: 
-Immunolocalization of ABCG5 and ABCG8 in human liver sections. Panel A shows the staining pattern of ABCG5 and panel B that for ABCG8. The pre-immune controls for both antibodies are as marked and shown in the top right hand corners of each panel. The top panels of each section are at low magnification (bar is 50 μm) and the bottom panels at high magnification (10 μm). The images for ABCG5 and ABCG8 were visualised with red and green colors respectively using Adobe Photoshop (Adobe, Cupertino, CA). The left panels show hematoxylin stained phase contrast images and the middle panels show the fluorescence images after immune serum staining. The bottom right panel of each section shows the merged images of phase contrast and the fluorescence signals. ABCG5 was readily detectable in canalicular cells and at higher magnification seemed to be apical in expression (panel A). On the other hand, ABCG8 was more readily detectable in cells lining the bile ducts (panel B, top panels), as well as in canalicular cells; although its cellular expression appeared more diffuse (see Text for discussion).
-Question:  In which cells is ABCG5 most easily detected? 
- 
-A: Cells lining the bile ducts 
-B: Kupffer cells 
-C: Canalicular cells 
-D: Hepatocytes. 
-Answer:  C: Canalicular cells.

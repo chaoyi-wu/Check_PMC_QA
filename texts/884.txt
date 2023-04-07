@@ -1,9 +1,0 @@
-Caption: 
-2A: Pre-surgical T2-weighted STIR-sequence, axial section: superficial tumor covering the laryngeal prominence. 2B: Pre-surgical clinical frontal view of PNF of ventral neck. 2C: Post-surgical T2-weighted STIR-sequence, axial section: scar tissue praelaryngeal visible. 2D: Post-surgical clinical frontal view of laryngeal scar.
-Question: Which image shows the superficial tumor? 
- 
-A: 2A 
-B: 2B 
-C: 2C 
-D:2D  
-Answer:  2A.

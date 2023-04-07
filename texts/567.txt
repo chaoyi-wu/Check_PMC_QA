@@ -1,9 +1,0 @@
-Caption: 
-Thoracic computerized tomography showing a lesion of 7 cm × 6.5 cm in diameter on the left anterolateral chest wall in the left axillary region at the level of 4.–5. ribs with minimal compressive atelectasis and destruction of the ribs.
-Question: Where is the lesion located? 
- 
-A:Right anterolateral chest wall 
-B:Left posterior chest wall 
-C:Left anterolateral chest wall 
-D:Right posterior chest wall 
-Answer:  C:Left anterolateral chest wall

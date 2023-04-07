@@ -1,9 +1,0 @@
-Caption: 
-CT scan image showing the hepatic metastasis in segment VII.
-Question: What is the name of the organ with the metastasis? 
- 
-A:Pancreas 
-B:Spleen 
-C:Liver 
-D:Gallbladder 
-Answer:  Liver

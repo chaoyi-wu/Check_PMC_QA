@@ -1,9 +1,0 @@
-Caption: 
-US of 65 years old male presented to emergency room with bilateral flank pain, nausea and vomiting for the past 1 week. He had an ultrasound in a peripheral hospital, which identified hydronephrosis on the right side, and percutaneous nephrostomy tube was placed. His left kidney showed hydronephrosis with renal stone (upper picture). This scan shows small-scarred right kidney (middle picture), pigtail catheter could be identified (arrow) and a proximal ureteric stone could also be seen (lower picture).
-Question:  What was seen on the ultrasound on the right side? 
- 
-A: Renal stone 
-B: Hydronephrosis 
-C: Both A and B 
-D: None of the above. 
-Answer:  B: Hydronephrosis

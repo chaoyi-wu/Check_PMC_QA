@@ -1,9 +1,0 @@
-Caption: 
-Immunohistochemical studies of ILK in non-neoplastic pulmonary tissue and in NSCLC tissue. a non-neoplastic pulmonary tissue: ILK was not detected in epithelial cells, while ILK expression was found in many stromal cells.
-Question:  What was the result of ILK expression in epithelial cells in NSCLC tissue? 
- 
-A: ILK expression was found in all epithelial cells 
-B: ILK expression was found in some epithelial cells 
-C: ILK expression was not found in epithelial cells 
-D: ILK expression was found only in stromal cells in NSCLC tissue 
-Answer:  B: ILK expression was found in some epithelial cells 

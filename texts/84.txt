@@ -1,9 +1,0 @@
-Caption: 
-The string-of-beads sign with alternating regions of lumen narrowing and vessel dilatation on angiogram of the ICA (arrows) in a 52-year-old woman sufferning from recurrent transient ischemic attacks.
-Question:  What is the pattern of the sign observed on the angiogram? 
- 
-A: Regions of vessel narrowing only 
-B: Regions of vessel dilatation only 
-C: Regions of lumen narrowing only 
-D: Regions of alternating vessel narowing and dilatation 
-Answer:  D: Regions of alternating vessel narowing and dilatation

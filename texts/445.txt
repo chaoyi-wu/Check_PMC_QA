@@ -1,9 +1,0 @@
-Caption: 
-Sagittal MRI image of brain at first cerebral relapse demonstrating an enhancing left parasagittal lesion with surrounding cerebral oedema.
-Question: What is the imaging modality used to acquire the image? 
- 
-A:CT scan 
-B:PET scan 
-C:SPECT scan 
-D:MRI scan 
-Answer:  D: MRI scan

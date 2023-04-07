@@ -1,9 +1,0 @@
-Caption: 
-Bronchoscopic examination reveals polypoid mass originating from trachea with a 50 % obstruction of the lumen.
-Question: What can be observed during the bronchoscopic examination? 
- 
-A:A collapsed lung 
-B:A polypoid mass originating from the trachea 
-C:A bronchial tree 
-D:An enlarged bronchus 
-Answer:  A polypoid mass originating from the trachea. 

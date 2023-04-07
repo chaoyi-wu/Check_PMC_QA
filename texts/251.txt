@@ -1,9 +1,0 @@
-Caption: 
-Mammography of the patients' breasts (A: mediolateral oblique, view B: craniocaudal view)
-Question: In mammography, what is the lateral to medial view called? 
- 
-A:Anteroposterior view 
-B:Craniocaudal view 
-C:Oblique view 
-D:Lateral view 
-Answer:  D:Lateral view

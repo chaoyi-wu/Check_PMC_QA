@@ -1,9 +1,0 @@
-Caption: 
-Upper endoscopy picture shows opening in the posterior part of the corpus with edematous margin with dissemination of serous fluid and necrotic material in to the stomach.
-Question:  What can you infer from the picture? 
- 
-A: there is a lesion on the external surface of the stomach 
-B: there is an ulcer in the duodenum 
-C: there is a rupture in the esophagus 
-D: there is a perforation in the stomach wall 
-Answer:  D: there is a perforation in the stomach wall

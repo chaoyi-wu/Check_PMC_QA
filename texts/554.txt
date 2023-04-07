@@ -1,9 +1,0 @@
-Caption: 
-3D model of the tetrameric Fab anti-ICAM-1 molecule CFY196 [26]. Each identical subunit is represented by a different color.
-Question:  What technique was likely used to produce the 3D model of CFY196? 
- 
-A: X-ray crystallography 
-B: PCR 
-C: ELISA 
-D: Western blotting 
-Answer:  A

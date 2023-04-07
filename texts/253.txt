@@ -1,9 +1,0 @@
-Caption: 
-Mammography of the patients' breasts (A: mediolateral oblique, view B: craniocaudal view)
-Question: Which view in mammography is used to detect cancer in the upper region of the breast? 
- 
-A:Craniocaudal view 
-B:Mediolateral oblique view 
-C:Oblique view 
-D:Lateral view 
-Answer:  B:Mediolateral oblique view

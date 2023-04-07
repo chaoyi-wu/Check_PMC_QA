@@ -1,9 +1,0 @@
-Caption: 
-CT scan of the pelvis revealing gas in the bladder and the bladder wall.
-Question:  Which of the following conditions can be diagnosed using this imaging modality?
- 
-A: Cancer of the bone 
-B: Stroke 
-C: Pulmonary embolism 
-D: Kidney stone
-Answer:  D

@@ -1,9 +1,0 @@
-Caption: 
-CT images taken before and after RFA treatments. The same patient PET images were shown as Figure 1. (A) was taken before RFA treatment, (B) was taken 2 week after RFA treatment.
-Question:  What does RFA stand for? 
- 
-A: Random Forest Analysis 
-B: Radiofrequency Ablation 
-C: Random Fragment Activation 
-D: Radioactive Fragment Analysis 
-Answer:  B: Radiofrequency Ablation

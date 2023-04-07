@@ -1,9 +1,0 @@
-Caption: 
-The histological examination of the removed specimen (right hemicolectomy specimen) revealed actinomyces colonies in the upper part of the cecum and the ascending colon wall. The large spherical clusters, densely packed and branching, and PAS positive "sulfur granules" are specific of actinomycosis.
-Question:  What is the name of the staining method that detects the "sulfur granules" found in actinomyces colonies? 
- 
-A: H&E staining 
-B: Gram staining 
-C: PAS staining 
-D: Giemsa staining 
-Answer:  C: PAS staining

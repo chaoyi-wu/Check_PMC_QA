@@ -1,9 +1,0 @@
-Caption: 
-Histological Architecture of CSR Gene Expression in Breast CancerRepresentative ISH of LOXL2 and SDFR1 and IHC of PLOD2, PLAUR, and ESDN are shown (magnification, 200×). Panels for LOXL2, PLAUR, PLOD2, and ESDN represent cores of normal and invasive ductal breast carcinoma from different patients on the same tissue microarray. Panels for SDFR1 demonstrate staining in adjacent normal and carcinoma cells on the same tissue section. Arrows highlight spindle-shaped stromal cells that stain positive for SDFR1 and PLOD2. No signal was detected for the sense probe for ISH or for control IHC without the primary antibody.
-Question:  Which genes are shown as representative ISH and IHC in the study? 
- 
-A:LOX, SDF1, and PLOD 
-B:LOXL2, SDFR1, and PLOD2 
-C:LOX, SDF1, and PLAUR 
-D:LOXL2, SDFR1, and PLAUR  
-Answer:  B:LOXL2, SDFR1, and PLOD2 

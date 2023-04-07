@@ -1,5 +1,0 @@
-Caption: 
-UVA1 phototherapy in systemic sclerosis. Clinical appearence of acrosclerotic piece-meal necrosis of the first digit in SSc before (Fig. 1) and almost complete clearance following low-dose UVA1 phototherapy (Fig. 2).
-Question:  What type of phototherapy is used in the treatment of digital acrosclerotic piece-meal necrosis in systemic sclerosis?
- A) UVA1 phototherapyB) UVB phototherapy C) PUVA (Psoralen + UVA) phototherapyD) Visible light therapy
-Answer:  A) UVA1 phototherapy

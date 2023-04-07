@@ -1,9 +1,0 @@
-Caption: 
-Magnetic resonance imaging of brain on hospital day six. T2 weighted image showing obstructive hydrocephalus and ventriculitis.
-Question: What does the T2 weighted image show in this scan? 
- 
-A:Normal healthy brain 
-B:Obstructive hydrocephalus and ventriculitis 
-C:Tumors in the brain 
-D:Broken skull bones 
-Answer:  B:Obstructive hydrocephalus and ventriculitis 

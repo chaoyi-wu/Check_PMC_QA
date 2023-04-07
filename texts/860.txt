@@ -1,9 +1,0 @@
-Caption: 
-Summary of Phenotypes DeterminedLight (left panels) and scanning electron (right panels) micrographs of mosaic Drosophila eyes. Large homozygous mutant clones are orange (arrowheads); heterozygous tissues are dark red. Examples are shown of lethal mutations that give a (A) wild-type (63.4% of lethal mutations), (B) rough (disordered ommatidia, 18.2%), (C) cell lethal (absence of homozygous mutant tissue, 14.5%), and (D) glossy (loss of lens structure, 3.9%) phenotype. For details on how clones are generated, see http://www.bruinfly.ucla.edu.
-Question:  What is the purpose of the study shown in the micrographs of mosaic Drosophila eyes? 
- 
-A: To determine the difference between scanning electron and light microscopy 
-B: To determine the difference between homozygous and heterozygous tissues 
-C: To analyze lethal mutations and their corresponding phenotypes 
-D: To understand the role of lens structure in Drosophila vision. 
-Answer:  C: To analyze lethal mutations and their corresponding phenotypes.

@@ -1,9 +1,0 @@
-Caption: 
-Coronal magnetic resonance imaging demonstrating the tumor beneath the left kidney.
-Question:  Where is the tumor located? 
- 
-A: Beneath the right kidney 
-B: Above the left kidney 
-C: To the left of the left kidney 
-D: Beneath the left kidney  
-Answer:  D

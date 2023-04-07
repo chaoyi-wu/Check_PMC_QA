@@ -1,9 +1,0 @@
-Caption: 
-Cartoon representations of ACHB. (a) The ligand-binding dimer of ACHB; (b) the pentamer of ACHB. The representations were derived from the crystal structure of the snail acetylcholine-binding protein (PDB 1UV6). Residues forming the ligand-binding box are shaded orange. The chain of residues that could potentially act as a conduit for transmission of conformational changes is colored green and the prominent conserved ones among them have been labeled.
-Question: What is the shape of the pentameric form of ACHB? 
- 
-A:Pentagonal 
-B:Square 
-C:Triangular 
-D:Hexagonal 
-Answer:  A:Pentagonal

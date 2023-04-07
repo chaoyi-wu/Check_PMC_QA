@@ -1,9 +1,0 @@
-Caption: 
-Realtime 3D echocardiography without (a) – [additional file 6], and with contrast enhancement (b) [additional file 7]. There is clear benefit for LV border detection. [See also additional files 8 and 9 for real time 3-D movies without and with contrast respectively.]
-Question:  What is the benefit of contrast enhancement in real time 3D echocardiography? 
- 
-A: No benefit. 
-B: Benefit in LV border detection. 
-C: Benefit in detecting coronary artery disease. 
-D: Benefit in detecting lung disease. 
-Answer:  B

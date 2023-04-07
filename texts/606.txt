@@ -1,9 +1,0 @@
-Caption: 
-Stereo Representations of the SARS s2m RNA Structure(A) The overall SARS s2m RNA three-dimensional structure and (B) a detailed view of tertiary contacts the and [Mg(H2O)5]2+ binding sites in the context of the experimentally phased electron density map (dark blue). The [Mg(H2O)5]2+ complex ions, depicted as white octahedra, bind to the pro-R and pro-S phosphate oxygen atoms of A(12). An extensive network of potential hydrogen bonds between the metal-coordinated water molecules and the RNA is shown as yellow dotted lines.
-Question:  What is the role of the [Mg(H2O)5]2+ complex ions in the SARS s2m RNA structure? 
- 
-A: They bind to the pro-R and pro-S phosphate oxygen atoms of A(12) 
-B: They form potential hydrogen bonds with the RNA 
-C: They stabilize the overall structure of the RNA 
-D: They create tertiary contacts within the RNA 
-Answer:  They bind to the pro-R and pro-S phosphate oxygen atoms of A(12).

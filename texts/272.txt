@@ -1,9 +1,0 @@
-Caption: 
-Magnification is ×400. On the left, the surface of the normal non-exposed palate is shown with a continuous ciliary layer, punctuated with secretory gland openings. The middle and right micrographs show the surface of palates exposed to the smoke of four cigarettes.
-Question: What is the difference between the left and the middle and right images? 
- 
-A:Left shows punctuated ciliary layer while the others show a continuous ciliary layer 
-B:Left shows continuous ciliary layer while the others show punctuated ciliary layer 
-C:Left shows normal palate while the others shows diseased palate 
-D:Left shows diseased palate while the others show normal palate 
-Answer:  Left shows continuous ciliary layer while the others show punctuated ciliary layer.

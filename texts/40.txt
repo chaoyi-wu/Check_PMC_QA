@@ -1,9 +1,0 @@
-Caption: 
-FMRI Insight Effect in RH aSTG(A) Voxels showing greater FMRI signal for insight than noninsight solutions, overlaid on the averaged normalized structural image of all subjects. The active area has a volume of 531 mm3 (peak t = 4.89 at 44, −9, −9 in Talairach space).(B) and (C) Group average signal change following the solution event, for insight (red line) and noninsight (blue line) solutions (yellow arrow indicates button press): (B) over entire LH aSTG region; (C) over entire RH aSTG region.(D) Insight solution signal change minus noninsight solution signal change, in RH aSTG (error bars show the standard error of the mean of the difference at each timepoint).
-Question:  What is the active area volume showing the FMRI signal in the RH aSTG? 
- 
-A: 44 mm3 
-B: 9 mm3 
-C: 531 mm3 
-D: 89 mm3 
-Answer:  C: 531 mm3 

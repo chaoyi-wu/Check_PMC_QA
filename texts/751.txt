@@ -1,9 +1,0 @@
-Caption: 
-T2-Weighted Magnetic Resonance Imaging Showing Blood in the Arterial Wall and Narrowing of the Lumen of the Left Internal Carotid ArteryThis is also known as the “crescent sign,” a hallmark of internal carotid artery dissection.
-Question:  What is T2-Weighted Magnetic Resonance Imaging? 
- 
-A: A type of blood test that measures the amount of iron in the blood 
-B: A type of scan that uses magnetic fields and radio waves to produce detailed images of the body 
-C: A type of X-ray that can show the bones inside the body 
-D: A type of ultrasound that uses high-frequency sound waves to create images of the inside of the body 
-Answer:  B: A type of scan that uses magnetic fields and radio waves to produce detailed images of the body 

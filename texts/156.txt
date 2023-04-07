@@ -1,9 +1,0 @@
-Caption: 
-Echocardiographic apical four-chamber images (end-systolic frames) from two patients with and without contractile reserve.
-Question:  In what stage of the cardiac cycle were the images captured?
- 
-A:Diastolic 
-B:Systolic 
-C:Mid-ventricular 
-D:Late diastolic 
-Answer:  B: Systolic 

@@ -1,9 +1,0 @@
-Caption: 
-Identification of adrenal agenesis using multi-embryo MRI Images of coronal sections from 2 embryos obtained using the multi-embryo technique (a, b) compared with images from the same embryos obtained subsequently using the single embryo technique (a', b'). (a, a') Normal right adrenal gland (rad) anterior to the right kidney (rk) in a wild-type embryo. The right lung (rl) is indicated. (b, b') Agenesis of right adrenal gland in a Cited2-/- embryo. Scale bars = 635 μm for multi-embryo, and 317 μm for single embryo images; axes: d – dorsal; v – ventral; a – anterior, p – posterior.
-Question:  What is the purpose of the study?
- 
-A: To compare multi- and single-embryo MRI techniques. 
-B: To identify the causes of adrenal agenesis. 
-C: To study the morphology of wild-type embryos. 
-D: To test the effectiveness of a new imaging technology.
-Answer:  A: To compare multi- and single-embryo MRI techniques.

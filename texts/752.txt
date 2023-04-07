@@ -1,9 +1,0 @@
-Caption: 
-T2-Weighted Magnetic Resonance Imaging Showing Blood in the Arterial Wall and Narrowing of the Lumen of the Left Internal Carotid ArteryThis is also known as the “crescent sign,” a hallmark of internal carotid artery dissection.
-Question:  What is Internal carotid artery dissection? 
- 
-A: A condition where the liver becomes inflamed and damaged due to alcohol abuse 
-B: A condition where there is a blockage or narrowing of the arteries that supply blood to the brain 
-C: A condition where the innermost layer of the artery tears, allowing blood to enter into the wall of the artery 
-D: A condition where there is bleeding in the brain due to a ruptured blood vessel 
-Answer:  C: A condition where the innermost layer of the artery tears, allowing blood to enter into the wall of the artery 

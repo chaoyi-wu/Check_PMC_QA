@@ -1,9 +1,0 @@
-Caption: 
-Emerging leaf tips (yellow arrow) and hypocotyl (orange arrows) of an Arabidopsis mutant
-Question: What organism was used for the mutant study in the image?
- 
-A:wheat  
-B:rice  
-C:maize  
-D:Arabidopsis 
-Answer:  D:Arabidopsis 

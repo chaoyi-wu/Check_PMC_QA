@@ -1,9 +1,0 @@
-Caption: 
-Major tissues of expression for C36B1.12. (A) Fluorescence micrograph of an L4 larvae hermaphrodite carrying a transcriptional fusion between gfp and a putative promoter of C36B1.12 expressed in neurons in the head. (C) Fluorescence micrograph of a young adult hermaphrodite carrying the same construct expressed in intestine. The observed intestinal expression is mostly located to posterior intestinal nuclei and is more prominent in younger worms. (B and D) Corresponding DIC images. Scale bars, 20 μm.
-Question:  Is the observed expression in the intestine more prominent in older worms? 
- 
-A: Yes. 
-B: No. 
-C: Can't be determined. 
-D: Both A and B. 
-Answer:  B: No.

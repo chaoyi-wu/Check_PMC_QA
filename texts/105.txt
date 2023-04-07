@@ -1,9 +1,0 @@
-Caption: 
-Bowing of the median nerve. Ultrasound images of the median nerve in the distal upper arm (upper) with the shoulder girdle in neutral and (lower) protracted. Note substantial bowing with the shoulder girdle in the neutral compared to protracted position. Bar = 10 mm.
-Question: What is the name of the condition described as "bowing of the median nerve"? 
- 
-A:Carpal tunnel syndrome 
-B:Tennis elbow 
-C:Cubital tunnel syndrome 
-D:Radial tunnel syndrome 
-Answer:  Not enough information is given to answer this question.

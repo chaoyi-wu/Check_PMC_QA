@@ -1,9 +1,0 @@
-Caption: 
-CT scan image showing the hepatic metastasis in segment VII.
-Question: What type of scan is shown in the image? 
- 
-A:X-ray 
-B:CT 
-C:MRI 
-D:Ultrasound 
-Answer:  CT

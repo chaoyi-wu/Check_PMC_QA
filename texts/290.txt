@@ -1,9 +1,0 @@
-Caption: 
-Scanning electron micrographs of control and MB-treated palates at a magnification of 400× (panels A and B respectively) and at 3500× (panels C and D respectively). In panel A, the ciliated epithelium completely covers the surface of the palate except where the openings to secretory cells are seen. In panel B, it can be seen that the ciliated surface is not continuous, but punctuated with numerous spaces where ciliated cells are not present. Panel C shows the high density of cilia on the palate surface, which under normal transport conditions, beat in a metachronal pattern to move a mucus layer over them. In panel D, the continuity of the ciliated layer is interrupted by spaces where ciliated epithelial cells are no longer present.
-Question:  What is the purpose of the mucus layer in the palate? 
- 
-A: To transport nutrients 
-B: To create a barrier 
-C: To protect from infection 
-D: To move across the cilia  
-Answer:  D: To move across the cilia 

@@ -1,9 +1,0 @@
-Caption: 
-The figure shows static acquisition images with gamma camera 2, 24, and 48 h, and 2, 24, 48 and 72 h after inoculation with 111In-Oxine-labelled iDC and mDC, respectively, for patient no. 3. Greater migration activity of mDC is clearly visible. (IS, inoculation site: LN, lymph node).
-Question:  What was the label used for iDC and mDC? 
- 
-A: 131I-Oxine 
-B: 111In-Oxide 
-C: 111In-Oxine 
-D: 123I-Oxide 
-Answer:  C

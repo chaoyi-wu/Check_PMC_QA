@@ -1,9 +1,0 @@
-Caption: 
-WT Aggregates Are More Likely to Have TUNEL-Positive Cells Than ΔRD1 AggregatesRepresentative fluorescent images of aggregates following TUNEL staining of 6-d postfertilization embryos infected with 71 green-fluorescent WT (A), or 474 green-fluorescent ΔRD1 (B) bacteria. TUNEL staining is imaged with red fluorescence, and colocalization with green-fluorescent bacteria appears yellow. Scale bar, 100 μm.
-Question:  What is the developmental stage of the embryos used in the experiment? 
- 
-A: 2-d postfertilization embryos 
-B: 4-d postfertilization embryos 
-C: 6-d postfertilization embryos 
-D: 8-d postfertilization embryos 
-Answer:  C: 6-d postfertilization embryos. 

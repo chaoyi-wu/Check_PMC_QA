@@ -1,9 +1,0 @@
-Caption: 
-(A-C): Secondary invagination sites are surrounded by sheath cells. Electron micrographs of transverse sections through prosomal hemi-neuromeres. (A,B) Invagination sites (arrows) are surrounded by sheath cells (asterisks) that appear translucent in the electron microscope. The sheath cells extend processes (arrowhead) that enwrap the individual invagination sites. (C) Sheath cells that are located in the apical cell layer form bizarre shapes that extend into the cell free space at the ventral side of the embryo (arrowhead). The sheath cells are labeled with asterisks, the arrow points to an invagination site.
-Question:  Which part of the embryo does the sheath cell extend its processes? 
- 
-A: ventral side 
-B: dorsal side 
-C: anterior side 
-D: posterior side 
-Answer:  A: ventral side

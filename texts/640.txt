@@ -1,9 +1,0 @@
-Caption: 
-Isolation of an alveolar septum by laser-assisted microdissection and manipulation from a hemalaun stained frozen lung section (magnification 200×). A) Alveolar septum is selected for isolation. B) Laser photolysis is used to disconnect the cells from adjacent ones. C) Septum cells adhere tightly to the approximated sterile needle and can be transferred into a reaction tube.
-Question: What is the purpose of laser-assisted microdissection? 
- 
-A:To manipulate and isolate cells from adjacent ones 
-B:To stain a frozen lung section with hemalaun 
-C:To magnify the image of a frozen lung section 
-D:To partially remove a section from a frozen lung 
-Answer:  A:To manipulate and isolate cells from adjacent ones. 

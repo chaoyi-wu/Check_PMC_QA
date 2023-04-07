@@ -1,9 +1,0 @@
-Caption: 
-Recapitulation of human xanthinuria type 1 by rosy mutants. (a) Wild-type tubule; (b) tubule from adult ry2 homozygous fly. Both micrographs are at the same magnification, and the diameter of the wild-type tubule can be taken as 35 μm.
-Question:  What is the genotype of the fly with the abnormal tubule? 
- 
-A: ry1 homozygous 
-B: ry2 homozygous 
-C: ry1 heterozygous 
-D: ry2 heterozygous 
-Answer:  B: ry2 homozygous

@@ -1,9 +1,0 @@
-Caption: 
-Aspergillus antigen-induced lung inflammation appears similar in wild-type, Mcp-1-/- and Ccr2-/- mice. H&E stained lung sections from PBS- or Aspergillus antigen-treated wild-type, Mcp-1-/- and Ccr2-/- mice. Representative normal airway from wild-type control mice (A) (similar findings from Mcp-1-/- and Ccr2-/- control mice are not shown). Representative lung sections from Aspergillus antigen-treated wild-type (B), Mcp-1-/- (C) and Ccr2-/- mice (D) demonstrate intense peribronchiolar and perivascular inflammation. Aspergillus antigen exposure and sample collection are described in methods. Magnification: 20× objective.
-Question:  What does H&E stain stands for? 
- 
-A: Hydrochloric and Ether stain 
-B: Hematoxylin and Eosin stain 
-C: Hydrogen and Enzyme stain 
-D: Hemoglobin and Erythrocyte stain  
-Answer:  B: Hematoxylin and Eosin stain 

@@ -1,9 +1,0 @@
-Caption: 
-This figure illustrates some of the pre and post x-rays taken after 4–6 weeks of treatment.
-Question:  What was the purpose of taking pre-treatment x-rays? 
- 
-A: To show the result of the treatment. 
-B: To diagnose the patient. 
-C: To determine how long the treatment would be. 
-D: To assess the success of the treatment. 
-Answer:  B

@@ -1,9 +1,0 @@
-Caption: 
-Computerized Tomography (CT) head showing diffuse cerebral edema with effacement of basal cisterns and generalized loss of gray-white differentiation
-Question:  What is the medical condition that is shown in the image? 
- 
-A: Cerebral edema 
-B: Basal cisterns 
-C: Gray-white differentiation 
-D: Effacement 
-Answer:  A: Cerebral edema

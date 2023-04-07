@@ -1,9 +1,0 @@
-Caption: 
-Detection of Su(Fu) in prostate cancer specimens. Su(Fu) antibodies (Santa Cruz Biotechnology Cat# 10933) recognized only one single band (54-Kd) in D283 cells (A). Following treatment of a specific SiRNA of Su(Fu), the endogenous Su(Fu) band was greatly reduced (B). Immunohistostaining with Su(Fu) antibodies in prostate cancer specimens revealed positive (C, in red, 200×), negative (D, 200×) or weak staining (E, red, 200×).
-Question:  What is the magnification used for immunohistostaining images in the prostate cancer specimens? 
- 
-A: 50×. 
-B: 100×. 
-C: 200×. 
-D: 500×. 
-Answer:  C: 200×.

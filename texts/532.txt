@@ -1,9 +1,0 @@
-Caption: 
-Higher magnification of sections from the same experiment as in Figure 2 Both sections are 15 min after injection of active bovine LPL. The rat in panel A did not receive heparin; the rat in panel B had been given heparin five min before LPL. Green colour represents staining of LPL by the rabbit polyclonal antibody. Red colour represents staining of Kupffer cells by the ED2 antibody. The magnification was × 60 + zooming.
-Question:  What is the magnification of the image shown in the figure? 
- 
-A: x15 
-B: x30 
-C: x45 
-D: x60 
-Answer:  D: x60 

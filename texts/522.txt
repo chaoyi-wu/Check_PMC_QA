@@ -1,9 +1,0 @@
-Caption: 
-Grading of the transesophageally detected aortic lesions in the descending aorta. Grade 1: intimal thickening (left upper panel); Grade 2: small plaque indicated by arrow right upper panel; Grade 3: lower panels. On the lower panels: left a huge, multiple plaque, right: an ulcerated plaque with mobile part.
-Question:  What is the location of the aortic lesions in the descending aorta? 
- 
-A: Upper panels. 
-B: Lower panels. 
-C: Left panel. 
-D: Right panel. 
-Answer:  B: Lower panels.

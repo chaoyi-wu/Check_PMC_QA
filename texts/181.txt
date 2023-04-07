@@ -1,9 +1,0 @@
-Caption: 
-Biopsy form grafted area of the lower eyelid. Hematoxylene-eosin staining, × 100 magnification.
-Question:  What is the magnification used in the biopsy? 
- 
-A: × 50 magnification 
-B:× 100 magnification 
-C:× 200 magnification 
-D:× 300 magnification. 
-Answer:  B:× 100 magnification. 

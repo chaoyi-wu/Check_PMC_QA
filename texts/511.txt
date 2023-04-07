@@ -1,9 +1,0 @@
-Caption: 
-X-ray showing the intravascular catheter being fluoroscopically removed by means of a special endo-vessel grasper.
-Question:  What kind of imaging was used in the X-ray? 
- 
-A: CT scan 
-B: MRI 
-C: Ultrasound 
-D: Fluoroscopy 
-Answer:  D

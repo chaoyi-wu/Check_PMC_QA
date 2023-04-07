@@ -1,9 +1,0 @@
-Caption: 
-Comparison of CF and AgNO3 staining in potato tissues. Plants were labelled with aqueous CFDA and left to translocate for 5 h prior to harvesting. Tubers or stems were hand sectioned and sections were either incubated in mineral oil and examined under a confocal microscope for CF fluorescence or stained for AsA using ethanolic AgNO3. Confocal images are shown on the left and silver stained sections on the right of each panel. A, stem (bar = 2 mm); B, developing tuber (bar = 3 mm); C, large developing tuber (bar = 5 mm).
-Question:  How were the stained sections of potato tissues examined? 
- 
-A: under a confocal microscope for CF fluorescence 
-B: under a light microscope for AgNO3 staining 
-C: with a naked eye for CF fluorescence 
-D: with a magnifying glass for AgNO3 staining 
-Answer:  B: under a light microscope for AgNO3 staining 

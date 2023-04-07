@@ -1,9 +1,0 @@
-Caption: 
-Biopsy form grafted area of the lower eyelid. Hematoxylene-eosin staining, × 100 magnification.
-Question:  What type of staining was used in the biopsy? 
- 
-A:Gram staining 
-B:Hematoxylene-eosin staining 
-C:Methylene blue staining 
-D:Crystal violet staining. 
-Answer:  B:Hematoxylene-eosin staining.

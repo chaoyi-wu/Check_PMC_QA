@@ -1,9 +1,0 @@
-Caption: 
-Profile generation. (A) Shows a typical region of interest (contrast enhanced for visualisation) showing the trabecular bone structure, in this case aligned approximately 22° to the vertical. (B) The central section of the FFT (128 × 128 pixels). The horizontal and vertical axes have been marked with a mid-grey tone to indicate that they have been excluded from the angle calculation. The bright strip at the centre (running from top left to bottom right) shows the preferred orientation of the trabeculae. Angles calculated from the Fourier power spectrum correspond to the same angles in the spatial domain, rotated by 90°. (C) The pixels with the maximum values are marked using white squares for the first 25 spatial frequency values of the Fourier power spectrum. The median angle, lying 21.8° from the horizontal is shown by a dashed white line. (D)_The regions used to generate the parallel (shaded black) and perpendicular (shaded white) profiles, based on the orientation of the trabecular structure.
-Question:  What is shown in panel A? 
- 
-A: The Fourier power spectrum of the trabecular bone 
-B: The spatial domain of trabecular bone 
-C: The trabecular bone structure in a region of interest 
-D: The parallel and perpendicular profiles of trabecular bone 
-Answer:  The trabecular bone structure in a region of interest.

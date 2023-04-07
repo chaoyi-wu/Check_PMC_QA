@@ -1,9 +1,0 @@
-Caption: 
-Coronal T2-weighted MRI reveals a slightly hyperintense fusiforme tumorous lesion of the median nerve approximately 5 cm above the right elbow (arrows).
-Question: What is the shape of the tumorous lesion seen on the MRI image? 
- 
-A:Spherical 
-B:Cylindrical 
-C:Fusiforme 
-D:Circular 
-Answer:  Fusiforme. 

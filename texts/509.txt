@@ -1,9 +1,0 @@
-Caption: 
-CT scan of the abdomen showing the involvement of abdominal wall muscles and adhesions to neighboring intestines.
-Question: What is the possible diagnosis based on the CT scan findings? 
- 
-A:Pancreatitis 
-B:Hepatitis 
-C:Endometriosis 
-D:Incisional hernia 
-Answer:  D:Incisional hernia

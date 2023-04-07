@@ -1,9 +1,0 @@
-Caption: 
-MRI at diagnosis (case one).
-Question:  Was a biopsy performed on the patient in case one? 
- 
-A: Yes. 
-B: No. 
-C: Not mentioned. 
-D: Both A and B. 
-Answer:  A

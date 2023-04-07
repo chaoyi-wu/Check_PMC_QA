@@ -1,9 +1,0 @@
-Caption: 
-The corneal stroma in a case of fungal keratitis shows diffuse TUNEL positivity in the zone of inflammation (*) as well as discrete positive staining in the peripheral keratocytes away from zone of inflammation (arrow head) (TUNEL, ×250) [Left]. The higher magnification of the same shows TUNEL positive nuclei of the keratocyte (Arrow) in a clean background, free of inflammatory cells. (TUNEL staining, ×500) (TUNEL ×400) [Right]
-Question:  What is observed in the clean background, free of inflammatory cells in the higher magnification image on the right? 
- 
-A:POSITIVE TUNEL nuclei of keratocyte 
-B:NEGATIVE TUNEL nuclei of keratocyte 
-C:No staining observed 
-D:Inflammatory cells. 
-Answer:  POSITIVE TUNEL nuclei of keratocyte.

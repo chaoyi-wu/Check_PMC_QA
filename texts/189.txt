@@ -1,9 +1,0 @@
-Caption: 
-(a) Duodenoscopy showing a 3 × 3 cm protruding tumor with two ulcerations located opposite the ampulla of Vater in the second portion of the duodenum. (b) Hypotonic duodenography showing the donuts-shape tumor in the duodenum.
-Question:  Which diagnostic test is used to identify the shape of the duodenal tumor as donuts-shaped?
- 
-A:CT scan 
-B:X-ray 
-C:Ultrasound 
-D:Hypotonic duodenography 
-Answer:  D:Hypotonic duodenography

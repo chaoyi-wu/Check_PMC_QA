@@ -1,9 +1,0 @@
-Caption: 
-Coronal magnetic resonance imaging demonstrating the tumor beneath the left kidney.
-Question:  What can be inferred about the size of the tumor from this image? 
- 
-A: It is small 
-B: It is significantly large 
-C: It cannot be determined from the given image 
-D: It is benign  
-Answer:  C

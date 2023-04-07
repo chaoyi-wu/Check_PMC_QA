@@ -1,9 +1,0 @@
-Caption: 
-CT scan of the chest of the patient. Multiple metastatic lesions were seen.
-Question:  What part of the body was imaged?
- 
-A: Chest 
-B: Abdomen 
-C: Head 
-D: Legs 
-Answer:  A: Chest 
