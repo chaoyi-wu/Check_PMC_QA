@@ -7,6 +7,6 @@ Run the ```PMC_Questionnaires.exe``` or ```PMC_Questionnaires.py``` or zip the `
 <img width="250" height="400" src="https://github.com/chaoyi-wu/Check_PMC_QA/blob/main/Images/Sample2.png"/>
 
 ## ChoiceBar：
-<img width="250" height="120" src="https://github.com/chaoyi-wu/Check_PMC_QA/blob/main/Images/ChoiceBar.png"/>
+<img width="350" height="220" src="https://github.com/chaoyi-wu/Check_PMC_QA/blob/main/Images/ChoiceBar.png"/>
 
 
