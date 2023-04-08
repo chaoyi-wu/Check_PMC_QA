@@ -1,5 +1,7 @@
 # Check_PMC_QA
-Run the ```PMC_Questionnaires.exe``` or ```PMC_Questionnaires.py``` or ```PMC_Questionnaires.app```
+Show the QA produced by ChatGPT. 
+
+Run the ```PMC_Questionnaires.exe``` or ```PMC_Questionnaires.py``` or zip the ```PMC_Questionnaires_for_MAC.zip```
 ## Samples：
 ![image](https://github.com/chaoyi-wu/Check_PMC_QA/Images/Sample1.png)
 
@@ -7,3 +9,4 @@ Run the ```PMC_Questionnaires.exe``` or ```PMC_Questionnaires.py``` or ```PMC_Qu
 
 ## ChoiceBar：
 ![image](https://github.com/chaoyi-wu/Check_PMC_QA/Images/ChoiceBar.png)
+
